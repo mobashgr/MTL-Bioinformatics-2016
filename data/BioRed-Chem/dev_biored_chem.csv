@@ -137,7 +137,7 @@ the	O
 hypothyroidism	O
 ;	O
 however	O
-,	O
+
 long	O
 -	O
 term	O
@@ -268,7 +268,7 @@ this	O
 insertion	O
 /	O
 deletion	O
-,	O
+
 while	O
 both	O
 consanguineous	O
@@ -331,7 +331,7 @@ failed	O
 to	O
 concentrate	O
 iodide	B-Chemical
-,	O
+
 suggesting	O
 that	O
 the	O
@@ -422,7 +422,7 @@ drug	O
 -	O
 resistant	O
 PD	O
-,	O
+
 which	O
 engendered	O
 wide	O
@@ -436,22 +436,22 @@ community	O
 Another	O
 lesioning	O
 procedure	O
-,	O
+
 ventrolateral	O
 thalamotomy	O
-,	O
+
 has	O
 become	O
 a	O
 powerful	O
-alternative	O
+alternative	O+++++++
 to	O
 stimulate	O
 the	O
 nucleus	O
 ventralis	O
 intermedius	O
-,	O
+
 producing	O
 high	O
 long	O
@@ -486,24 +486,24 @@ the	O
 symptoms	O
 of	O
 PD	O
-,	O
+
 such	O
 as	O
 dyskinesias	O
-,	O
+
 as	O
 well	O
 as	O
 the	O
 off	O
 symptoms	O
-,	O
+
 such	O
 as	O
 rigidity	O
-,	O
+
 bradykinesia	O
-,	O
+
 and	O
 on	O
 -	O
@@ -523,7 +523,7 @@ minor	O
 extent	O
 ;	O
 however	O
-,	O
+
 its	O
 strength	O
 seems	O
@@ -550,7 +550,7 @@ or	O
 dyskinetic	O
 upper	O
 limbs	O
-,	O
+
 but	O
 increases	O
 the	O
@@ -576,14 +576,14 @@ patient	O
 '	O
 s	O
 independence	O
-,	O
+
 the	O
 high	O
 costs	O
 of	O
 bilateral	O
 implants	O
-,	O
+
 and	O
 the	O
 difficulty	O
@@ -594,7 +594,7 @@ in	O
 handling	O
 the	O
 devices	O
-,	O
+
 the	O
 question	O
 arises	O
@@ -654,7 +654,7 @@ and	O
 enhanced	O
 cancer	O
 predisposition	O
-,	O
+
 in	O
 particular	O
 to	O
@@ -664,7 +664,7 @@ leukemia	O
 .	O
 	
 Recently	O
-,	O
+
 significantly	O
 higher	O
 frequencies	O
@@ -677,9 +677,9 @@ Slavic	O
 founder	O
 NBS1	O
 mutation	O
-,	O
+
 657del5	O
-,	O
+
 were	O
 found	O
 in	O
@@ -689,7 +689,7 @@ with	O
 sporadic	O
 lymphoid	O
 malignancies	O
-,	O
+
 and	O
 in	O
 Polish	O
@@ -705,7 +705,7 @@ NHL	O
 	
 In	O
 addition	O
-,	O
+
 the	O
 substitution	O
 643C	O
@@ -747,7 +747,7 @@ of	O
 sporadic	O
 lymphoid	O
 malignancies	O
-,	O
+
 we	O
 analyzed	O
 DNA	O
@@ -830,7 +830,7 @@ a	O
 total	O
 of	O
 6	O
-,	O
+
 984	O
 controls	O
 matched	O
@@ -839,7 +839,7 @@ place	O
 of	O
 patient	O
 residence	O
-,	O
+
 of	O
 whom	O
 42	O
@@ -862,7 +862,7 @@ analyzed	O
 population	O
 with	O
 malignancies	O
-,	O
+
 an	O
 increased	O
 odds	O
@@ -892,7 +892,7 @@ range	O
 1	O
 .	O
 85	O
-,	O
+
 95	O
 %	O
 confidence	O
@@ -934,7 +934,7 @@ p	O
 ).	O
 	
 Nonetheless	O
-,	O
+
 NBS1	O
 gene	O
 heterozygosity	O
@@ -1032,7 +1032,7 @@ M404V	O
 of	O
 exon	O
 8	O
-,	O
+
 in	O
 the	O
 ubiquitin	O
@@ -1120,7 +1120,7 @@ obtained	O
 from	O
 22	O
 subjects	O
-,	O
+
 4	O
 PDB	O
 patients	O
@@ -1141,7 +1141,7 @@ members	O
 of	O
 the	O
 family	O
-,	O
+
 four	O
 possessed	O
 the	O
@@ -1154,7 +1154,7 @@ polyostotic	O
 form	O
 of	O
 PDB	O
-,	O
+
 except	O
 one	O
 patient	O
@@ -1194,7 +1194,7 @@ analysis	O
 of	O
 the	O
 pedigree	O
-,	O
+
 six	O
 unaffected	O
 subjects	O
@@ -1205,7 +1205,7 @@ bear	O
 the	O
 M404V	O
 mutation	O
-,	O
+
 representing	O
 potential	O
 asymptomatic	O
@@ -1230,7 +1230,7 @@ range	O
 	
 Taken	O
 together	O
-,	O
+
 these	O
 results	O
 support	O
@@ -1390,7 +1390,7 @@ and	O
 273ser	O
 ----	O
 phe	O
-,	O
+
 respectively	O
 ).	O
 	
@@ -1487,7 +1487,7 @@ receptor	O
 .	O
 	
 Recently	O
-,	O
+
 many	O
 research	O
 groups	O
@@ -1532,7 +1532,7 @@ expression	O
 In	O
 this	O
 study	O
-,	O
+
 we	O
 evaluate	O
 the	O
@@ -1564,15 +1564,15 @@ polymorphism	O
 141Cins	O
 >	O
 del	O
-,	O
+
 TaqIB	O
-,	O
+
 TaqID	O
-,	O
+
 Ser311Cys	O
-,	O
+
 rs6275	O
-,	O
+
 rs6277	O
 and	O
 TaqIA	O
@@ -1628,7 +1628,7 @@ RESULTS	O
 :	O
 Polymorphisms	O
 TaqID	O
-,	O
+
 Ser311Cys	O
 and	O
 rs6277	O
@@ -1659,9 +1659,9 @@ of	O
 141Cins	O
 >	O
 del	O
-,	O
+
 TaqIB	O
-,	O
+
 rs6275	O
 and	O
 TaqIA	O
@@ -1674,7 +1674,7 @@ haplotypes	O
 constituted	O
 by	O
 TaqIB	O
-,	O
+
 rs6275	O
 and	O
 TaqIA	O
@@ -1721,7 +1721,7 @@ effect	O
 induced	O
 by	O
 chlorpromazine	B-Chemical
-,	O
+
 at	O
 least	O
 in	O
@@ -1783,7 +1783,7 @@ of	O
 syndromic	O
 orofacial	O
 cleft	O
-,	O
+
 which	O
 accounts	O
 for	O
@@ -1809,13 +1809,13 @@ of	O
 lower	O
 lip	O
 pits	O
-,	O
+
 cleft	O
 lip	O
 and	O
 cleft	O
 palate	O
-,	O
+
 and	O
 hypodontia	O
 .	O
@@ -1848,7 +1848,7 @@ an	O
 autosomal	O
 dominant	O
 manner	O
-,	O
+
 with	O
 high	O
 penetrance	O
@@ -1859,7 +1859,7 @@ expressivity	O
 	
 Very	O
 recently	O
-,	O
+
 mutations	O
 of	O
 the	O
@@ -1876,7 +1876,7 @@ found	O
 in	O
 VWS	O
 patients	O
-,	O
+
 suggesting	O
 that	O
 this	O
@@ -2024,11 +2024,11 @@ resulted	O
 from	O
 a	O
 novel	O
-,	O
+
 p	O
 .	O
 R229G	O
-,	O
+
 missense	O
 mutation	O
 in	O
@@ -2111,7 +2111,7 @@ methylation	O
 -	O
 sensitive	O
 enzyme	O
-,	O
+
 followed	O
 by	O
 PCR	O
@@ -2134,7 +2134,7 @@ family	O
 contained	O
 162	O
 individuals	O
-,	O
+
 among	O
 whom	O
 28	O
@@ -2159,7 +2159,7 @@ c	O
 >	O
 G	O
 mutation	O
-,	O
+
 which	O
 causes	O
 the	O
@@ -2187,7 +2187,7 @@ of	O
 the	O
 FRMD7	O
 gene	O
-,	O
+
 was	O
 observed	O
 .	O
@@ -2256,7 +2256,7 @@ causes	O
 the	O
 NYS	O
 phenotype	O
-,	O
+
 and	O
 skewed	O
 X	O
@@ -2283,7 +2283,7 @@ Guangzhou	O
 arginine	O
 150	O
 proline	O
-),	O
+)
 a	O
 new	O
 variant	O
@@ -2344,7 +2344,7 @@ the	O
 pathogenesis	O
 of	O
 LPG	O
-,	O
+
 but	O
 LPG	O
 may	O
@@ -2520,7 +2520,7 @@ carrier	O
 of	O
 apoE	O
 Guangzhou	O
-,	O
+
 although	O
 he	O
 did	O
@@ -2627,7 +2627,7 @@ acids	I-Chemical
 and	O
 hydroxyeicosatetrenoic	B-Chemical
 acids	I-Chemical
-,	O
+
 produced	O
 may	O
 have	O
@@ -2998,7 +2998,7 @@ proteasome	O
 -	O
 dependent	O
 degradation	O
-,	O
+
 and	O
 rendered	O
 TRAF2DN	O
@@ -3022,7 +3022,7 @@ with	O
 targeted	O
 Traf2	O
 deletion	O
-,	O
+
 Traf2DN	O
 -	O
 tg	O
@@ -3045,16 +3045,16 @@ processing	O
 .	O
 	
 Also	O
-,	O
+
 TRAF3	O
-,	O
+
 X	O
 -	O
 linked	O
 inhibitor	O
 of	O
 apoptosis	O
-,	O
+
 and	O
 Bcl	O
 -	O
@@ -3066,7 +3066,7 @@ expression	O
 levels	O
 were	O
 increased	O
-,	O
+
 whereas	O
 cellular	O
 inhibitors	O
@@ -3092,12 +3092,12 @@ cells	O
 .	O
 	
 Moreover	O
-,	O
+
 consistent	O
 with	O
 previous	O
 results	O
-,	O
+
 we	O
 also	O
 show	O
@@ -3119,7 +3119,7 @@ engagement	O
 .	O
 	
 However	O
-,	O
+
 TRAF2	O
 was	O
 deleterious	O
@@ -3135,7 +3135,7 @@ kinases	O
 	
 In	O
 contrast	O
-,	O
+
 TRAF2	O
 deficiency	O
 had	O
@@ -3159,7 +3159,7 @@ activation	O
 .	O
 	
 Finally	O
-,	O
+
 we	O
 further	O
 confirm	O
@@ -3172,7 +3172,7 @@ CD40	O
 -	O
 mediated	O
 proliferation	O
-,	O
+
 but	O
 its	O
 absence	O
@@ -3192,7 +3192,7 @@ survival	O
 .	O
 	
 Altogether	O
-,	O
+
 our	O
 results	O
 suggest	O
@@ -3215,7 +3215,7 @@ lymphocytic	O
 lymphoma	O
 in	O
 mice	O
-,	O
+
 possibly	O
 by	O
 specifically	O
@@ -3225,7 +3225,7 @@ zone	O
 B	O
 cell	O
 accumulation	O
-,	O
+
 increasing	O
 X	O
 -	O
@@ -3234,7 +3234,7 @@ inhibitor	O
 of	O
 apoptosis	O
 expression	O
-,	O
+
 and	O
 rendering	O
 B	O
@@ -3256,7 +3256,7 @@ regulates	O
 molecular	O
 lineage	O
 identity	O
-,	O
+
 histone	O
 H3K36	O
 trimethylation	O
@@ -3297,7 +3297,7 @@ loss	O
 of	O
 genomic	O
 imprinting	O
-,	O
+
 compromising	O
 normal	O
 development	O
@@ -3316,7 +3316,7 @@ polymerase	O
 II	O
 associated	O
 factor	O
-,	O
+
 homolog	O
 (	O
 Saccharomyces	O
@@ -3328,11 +3328,11 @@ PAF1	O
 complex	O
 )	O
 components	O
-,	O
+
 Ctr9	O
 and	O
 Rtf1	O
-,	O
+
 are	O
 required	O
 during	O
@@ -3372,14 +3372,14 @@ in	O
 Ctr9	O
 knockdown	O
 embryos	O
-,	O
+
 including	O
 Eomes	O
-,	O
+
 Elf5	O
 and	O
 Sox2	O
-,	O
+
 while	O
 others	O
 are	O
@@ -3387,11 +3387,11 @@ inappropriately	O
 expressed	O
 (	O
 4-Oct	O
-,	O
+
 Nanog	O
-,	O
+
 Gata6	O
-,	O
+
 Fgf4	O
 and	O
 Sox17	O
@@ -3406,9 +3406,9 @@ imprinted	O
 genes	O
 (	O
 Mest	O
-,	O
+
 Peg3	O
-,	O
+
 Snrpn	O
 and	O
 Meg3	O
@@ -3471,13 +3471,13 @@ required	O
 for	O
 mammalian	O
 development	O
-,	O
+
 likely	O
 through	O
 regulation	O
 of	O
 H3K36me3	O
-,	O
+
 and	O
 indicate	O
 functional	O
@@ -3576,9 +3576,9 @@ with	O
 betaine	B-Chemical
 (	O
 100	O
-,	O
+
 200	O
-,	O
+
 and	O
 400	O
 mg	O
@@ -3609,7 +3609,7 @@ isoproterenol	B-Chemical
 mg	O
 /	O
 kg	O
-),	O
+)
 for	O
 two	O
 consecutive	O
@@ -3620,7 +3620,7 @@ Serum	O
 cardiac	O
 marker	O
 enzyme	O
-,	O
+
 histopathological	O
 variables	O
 and	O
@@ -3686,7 +3686,7 @@ myocardium	O
 .	O
 	
 Furthermore	O
-,	O
+
 betaine	B-Chemical
 (	O
 200	O
@@ -3711,7 +3711,7 @@ the	O
 level	O
 of	O
 Bax	O
-,	O
+
 therefore	O
 causing	O
 a	O
@@ -3746,7 +3746,7 @@ examination	O
 	
 In	O
 summary	O
-,	O
+
 our	O
 results	O
 showed	O
@@ -3836,7 +3836,7 @@ In	O
 the	O
 present	O
 study	O
-,	O
+
 we	O
 found	O
 that	O
@@ -3846,11 +3846,11 @@ low	O
 concentration	O
 of	O
 depsipeptide	B-Chemical
-,	O
+
 an	O
 HDAC	O
 inhibitor	O
-,	O
+
 potentiated	O
 the	O
 antitumor	O
@@ -3875,9 +3875,9 @@ using	O
 HCT	O
 -	O
 116	O
-,	O
+
 HT29	O
-,	O
+
 and	O
 SW48	O
 cells	O
@@ -3933,7 +3933,7 @@ caspase	O
 3	O
 /	O
 7	O
-,	O
+
 while	O
 5	B-Chemical
 -	I-Chemical
@@ -3965,7 +3965,7 @@ FU	I-Chemical
 or	O
 depsipeptide	B-Chemical
 alone	O
-,	O
+
 the	O
 combination	O
 treatment	O
@@ -4043,7 +4043,7 @@ Compared	O
 with	O
 vehicle	O
 controls	O
-,	O
+
 the	O
 cells	O
 treated	O
@@ -4076,7 +4076,7 @@ MHC	O
 class	O
 II	O
 genes	O
-,	O
+
 but	O
 not	O
 of	O
@@ -4087,14 +4087,14 @@ genes	O
 .	O
 	
 Furthermore	O
-,	O
+
 our	O
 global	O
 analysis	O
 of	O
 gene	O
 expression	O
-,	O
+
 which	O
 was	O
 focused	O
@@ -4110,7 +4110,7 @@ MHC	O
 class	O
 II	O
 genes	O
-,	O
+
 showed	O
 enhancement	O
 of	O
@@ -4166,7 +4166,7 @@ best	O
 of	O
 our	O
 knowledge	O
-,	O
+
 this	O
 is	O
 the	O
@@ -4261,7 +4261,7 @@ In	O
 the	O
 present	O
 study	O
-,	O
+
 we	O
 enrolled	O
 43	O
@@ -4285,7 +4285,7 @@ For	O
 each	O
 available	O
 individual	O
-,	O
+
 all	O
 22	O
 exons	O
@@ -4329,7 +4329,7 @@ different	O
 PHEX	O
 gene	O
 mutations	O
-,	O
+
 and	O
 7	O
 of	O
@@ -4342,7 +4342,7 @@ novel	O
 3	O
 missense	O
 mutations	O
-,	O
+
 including	O
 c	O
 .	O
@@ -4357,7 +4357,7 @@ Gly102Arg	O
 in	O
 exon	O
 3	O
-,	O
+
 c	O
 .	O
 229T	O
@@ -4389,7 +4389,7 @@ exon	O
 2	O
 deletion	O
 mutations	O
-,	O
+
 including	O
 c	O
 .	O
@@ -4420,7 +4420,7 @@ and	O
 alternative	O
 splicing	O
 mutations	O
-,	O
+
 including	O
 c	O
 .	O
@@ -4452,7 +4452,7 @@ sites	O
 .	O
 	
 Moreover	O
-,	O
+
 6	O
 mutations	O
 were	O
@@ -4496,7 +4496,7 @@ the	O
 patients	O
 with	O
 XLH	O
-,	O
+
 and	O
 no	O
 significant	O
@@ -4516,7 +4516,7 @@ controls	O
 On	O
 the	O
 whole	O
-,	O
+
 the	O
 findings	O
 of	O
@@ -4546,7 +4546,7 @@ protein	O
 	
 In	O
 addition	O
-,	O
+
 the	O
 finding	O
 of	O
@@ -4627,7 +4627,7 @@ length	O
 polymorphisms	O
 (	O
 RFLPs	O
-),	O
+)
 suggests	O
 that	O
 the	O
@@ -4643,7 +4643,7 @@ of	O
 the	O
 X	O
 chromosome	O
-,	O
+
 in	O
 the	O
 p21	O
@@ -4662,11 +4662,11 @@ therefore	O
 be	O
 closely	O
 linked	O
-,	O
+
 if	O
 not	O
 allelic	O
-,	O
+
 and	O
 any	O
 future	O
@@ -4709,7 +4709,7 @@ of	O
 the	O
 X	O
 chromosome	O
-,	O
+
 and	O
 across	O
 the	O
@@ -4788,7 +4788,7 @@ nucleotide	O
 in	O
 exon	O
 five	O
-,	O
+
 resulting	O
 in	O
 substitution	O
@@ -4806,15 +4806,15 @@ siblings	O
 of	O
 the	O
 patient	O
-,	O
+
 comprising	O
 two	O
 cerebral	O
 ALD	O
-,	O
+
 one	O
 adrenomyeloneuropathy	O
-,	O
+
 one	O
 Addison	O
 only	O
@@ -4836,7 +4836,7 @@ acids	I-Chemical
 carried	O
 this	O
 mutation	O
-,	O
+
 which	O
 was	O
 not	O
@@ -4845,13 +4845,13 @@ in	O
 the	O
 unaffected	O
 persons	O
-,	O
+
 in	O
 five	O
 unrelated	O
 ALD	O
 patients	O
-,	O
+
 and	O
 in	O
 twenty	O
@@ -4879,9 +4879,9 @@ defect	O
 the	O
 different	O
 phenotypes	O
-,	O
+
 however	O
-,	O
+
 must	O
 have	O
 originated	O
@@ -4954,7 +4954,7 @@ consisting	O
 of	O
 over	O
 96	O
-,	O
+
 600	O
 oligonucleotides	O
 20	O
@@ -5033,7 +5033,7 @@ mutations	O
 were	O
 accurately	O
 diagnosed	O
-,	O
+
 and	O
 no	O
 FALSE	O
@@ -5117,7 +5117,7 @@ is	O
 a	O
 transcription	O
 factor	O
-,	O
+
 which	O
 is	O
 necessary	O
@@ -5143,10 +5143,10 @@ SNPs	O
 )	O
 of	O
 HNF4A	O
-,	O
+
 encoding	O
 HNF4alpha	O
-,	O
+
 influenced	O
 the	O
 conversion	O
@@ -5228,9 +5228,9 @@ promoter	O
 region	O
 (	O
 rs4810424	O
-,	O
+
 rs1884614	O
-,	O
+
 and	O
 rs2144908	O
 )	O
@@ -5245,7 +5245,7 @@ D	O
 0	O
 .	O
 97	O
-,	O
+
 r	O
 (	O
 2	O
@@ -5255,9 +5255,9 @@ r	O
 95	O
 )	O
 and	O
-,	O
+
 therefore	O
-,	O
+
 only	O
 rs4810424	O
 was	O
@@ -5325,20 +5325,20 @@ the	O
 adjustment	O
 for	O
 age	O
-,	O
+
 treatment	O
 group	O
 (	O
 placebo	O
 or	O
 acarbose	B-Chemical
-),	O
+)
 smoking	O
-,	O
+
 weight	O
 at	O
 baseline	O
-,	O
+
 and	O
 weight	O
 change	O
@@ -5360,9 +5360,9 @@ three	O
 SNPs	O
 (	O
 rs4810424	O
-,	O
+
 rs2071197	O
-,	O
+
 and	O
 rs3818247	O
 )	O
@@ -5475,10 +5475,10 @@ presents	O
 with	O
 movement	O
 disorders	O
-,	O
+
 retinal	O
 degeneration	O
-,	O
+
 and	O
 diabetes	O
 mellitus	O
@@ -5516,7 +5516,7 @@ homozygous	O
 ceruloplasmin	O
 gene	O
 mutation	O
-,	O
+
 c	O
 .	O
 2554	O
@@ -5524,7 +5524,7 @@ c	O
 1G	O
 >	O
 T	O
-,	O
+
 was	O
 identified	O
 as	O
@@ -5607,7 +5607,7 @@ and	O
 liver	O
 iron	O
 overload	O
-,	O
+
 where	O
 hepatic	O
 mRNA	O
@@ -5619,7 +5619,7 @@ hormone	O
 hepcidin	O
 was	O
 increased	O
-,	O
+
 corresponding	O
 to	O
 the	O
@@ -5643,7 +5643,7 @@ chelation	O
 therapy	O
 with	O
 deferasirox	B-Chemical
-,	O
+
 which	O
 was	O
 also	O
@@ -5711,7 +5711,7 @@ defective	O
 cellular	O
 iron	B-Chemical
 export	O
-,	O
+
 where	O
 hepcidin	O
 regulation	O
@@ -5754,9 +5754,9 @@ diet	O
 -	O
 induced	O
 atherosclerosis	O
-,	O
+
 obesity	O
-,	O
+
 and	O
 dyslipidemia	O
 in	O
@@ -5771,7 +5771,7 @@ cardiometabolic	O
 actions	O
 in	O
 males	O
-,	O
+
 but	O
 their	O
 metabolic	O
@@ -5800,7 +5800,7 @@ atherogenesis	O
 in	O
 female	O
 mice	O
-,	O
+
 we	O
 generated	O
 female	O
@@ -5834,7 +5834,7 @@ high	O
 -	O
 fat	O
 diet	O
-,	O
+
 but	O
 not	O
 on	O
@@ -5842,7 +5842,7 @@ a	O
 normal	O
 chow	O
 diet	O
-,	O
+
 atherosclerosis	O
 in	O
 aorta	O
@@ -5876,22 +5876,22 @@ body	O
 weight	O
 (+	O
 18	O
-%),	O
+%)
 body	O
 fat	O
 percentage	O
 (+	O
 62	O
-%),	O
+%)
 and	O
 hepatic	O
 triglyceride	O
 levels	O
-,	O
+
 reduced	O
 insulin	O
 sensitivity	O
-,	O
+
 and	O
 a	O
 marked	O
@@ -5900,7 +5900,7 @@ dyslipidemia	O
 (	O
 serum	O
 cholesterol	B-Chemical
-,	O
+
 +	O
 52	O
 %).	O
@@ -5908,10 +5908,10 @@ cholesterol	B-Chemical
 Differences	O
 in	O
 atherosclerosis	O
-,	O
+
 body	O
 weight	O
-,	O
+
 and	O
 lipid	B-Chemical
 levels	O
@@ -5929,7 +5929,7 @@ were	O
 ovariectomized	O
 before	O
 puberty	O
-,	O
+
 consistent	O
 with	O
 a	O
@@ -5945,7 +5945,7 @@ AR	O
 .	O
 	
 Furthermore	O
-,	O
+
 the	O
 AR	O
 agonist	O
@@ -5957,13 +5957,13 @@ atherosclerosis	O
 %;	O
 thoracic	O
 aorta	O
-),	O
+)
 subcutaneous	O
 fat	O
 mass	O
 (-	O
 44	O
-%),	O
+%)
 and	O
 cholesterol	B-Chemical
 levels	O
@@ -5973,7 +5973,7 @@ levels	O
 in	O
 ovariectomized	O
 mice	O
-,	O
+
 reduced	O
 hepatocyte	O
 lipid	B-Chemical
@@ -5983,7 +5983,7 @@ hepatoma	O
 cells	O
 in	O
 vitro	O
-,	O
+
 and	O
 regulated	O
 mRNA	O
@@ -5999,7 +5999,7 @@ homeostasis	O
 	
 In	O
 conclusion	O
-,	O
+
 we	O
 demonstrate	O
 that	O
@@ -6042,7 +6042,7 @@ Relationship	O
 to	O
 blood	O
 pressure	O
-,	O
+
 maternal	O
 metabolism	O
 and	O
@@ -6090,7 +6090,7 @@ has	O
 with	O
 blood	O
 pressure	O
-,	O
+
 maternal	O
 metabolism	O
 and	O
@@ -6122,18 +6122,18 @@ with	O
 C	B-Chemical
 -	I-Chemical
 peptide	I-Chemical
-,	O
+
 fasting	O
 glucose	B-Chemical
 and	O
 insulin	O
-,	O
+
 post	O
 -	O
 load	O
 glucose	B-Chemical
 lipids	I-Chemical
-,	O
+
 HMW	O
 -	O
 adiponectin	O
@@ -6154,7 +6154,7 @@ gestation	O
 	
 At	O
 birth	O
-,	O
+
 newborns	O
 and	O
 placentas	O
@@ -6187,7 +6187,7 @@ blood	O
 pressure	O
 (	O
 SBP	O
-),	O
+)
 with	O
 a	O
 more	O
@@ -6200,13 +6200,13 @@ fasting	O
 glucose	B-Chemical
 and	O
 insulin	O
-,	O
+
 post	O
 load	O
 glucose	B-Chemical
-,	O
+
 HbAc1	O
-,	O
+
 HOMA	O
 -	O
 IR	O
@@ -6214,7 +6214,7 @@ and	O
 C	B-Chemical
 -	I-Chemical
 peptide	I-Chemical
-),	O
+)
 and	O
 with	O
 lower	O
@@ -6296,7 +6296,7 @@ placental	O
 and	O
 fetal	O
 growth	O
-,	O
+
 and	O
 (	O
 thereby	O
@@ -6369,7 +6369,7 @@ target	O
 in	O
 PH	O
 treatment	O
-,	O
+
 the	O
 underlying	O
 molecular	O
@@ -6401,7 +6401,7 @@ BM	O
 derived	O
 progenitor	O
 cells	O
-,	O
+
 we	O
 induced	O
 pulmonary	O
@@ -6418,11 +6418,11 @@ chronic	O
 hypoxia	O
 (	O
 CH	O
-,	O
+
 10	O
 %	O
 oxygen	B-Chemical
-),	O
+)
 a	O
 trigger	O
 of	O
@@ -6478,7 +6478,7 @@ treatment	O
 	
 As	O
 expected	O
-,	O
+
 sildenafil	B-Chemical
 attenuated	O
 the	O
@@ -6498,7 +6498,7 @@ hypertrophy	O
 .	O
 	
 However	O
-,	O
+
 sildenafil	B-Chemical
 suppressed	O
 the	O
@@ -6521,7 +6521,7 @@ arteries	O
 .	O
 	
 Moreover	O
-,	O
+
 sildenafil	B-Chemical
 reduced	O
 the	O
@@ -6551,7 +6551,7 @@ a	O
 marker	O
 for	O
 macrophages	O
-),	O
+)
 indicating	O
 a	O
 positive	O
@@ -6584,7 +6584,7 @@ HIF	O
 .	O
 	
 Furthermore	O
-,	O
+
 sildenafil	B-Chemical
 depressed	O
 the	O
@@ -6596,7 +6596,7 @@ cells	O
 .	O
 	
 Collectively	O
-,	O
+
 these	O
 findings	O
 indicate	O
@@ -6765,7 +6765,7 @@ total	O
 of	O
 7	O
 polymorphisms	O
-,	O
+
 including	O
 3	O
 single	O
@@ -6819,7 +6819,7 @@ case	O
 -	O
 control	O
 design	O
-,	O
+
 the	O
 frequencies	O
 of	O
@@ -6864,11 +6864,11 @@ odds	O
 ratio	O
 [	O
 OR	O
-],	O
+]
 2	O
 .	O
 779	O
-,	O
+
 P	O
 =	O
 .	O
@@ -6876,16 +6876,16 @@ P	O
 ;	O
 and	O
 OR	O
-,	O
+
 3	O
 .	O
 9	O
-,	O
+
 P	O
 =	O
 .	O
 22	O
-,	O
+
 respectively	O
 ).	O
 	
@@ -6904,7 +6904,7 @@ additional	O
 SNPs	O
 (	O
 OR	O
-,	O
+
 2	O
 .	O
 48	O
@@ -6913,7 +6913,7 @@ P	O
 =	O
 .	O
 4	O
-),	O
+)
 and	O
 also	O
 by	O
@@ -6938,12 +6938,12 @@ P	O
 =	O
 .	O
 48	O
-,	O
+
 respectively	O
 ).	O
 	
 Furthermore	O
-,	O
+
 this	O
 association	O
 seems	O
@@ -7046,7 +7046,7 @@ are	O
 still	O
 insufficiently	O
 understood	O
-,	O
+
 and	O
 the	O
 genetic	O
@@ -7062,7 +7062,7 @@ studied	O
 .	O
 	
 Here	O
-,	O
+
 we	O
 performed	O
 whole	O
@@ -7079,11 +7079,11 @@ enrolled	O
 in	O
 a	O
 nonrandomized	O
-,	O
+
 open	O
 -	O
 labeled	O
-,	O
+
 single	O
 -	O
 center	O
@@ -7092,7 +7092,7 @@ II	O
 study	O
 for	O
 pazopanib	B-Chemical
-,	O
+
 and	O
 integrated	O
 our	O
@@ -7140,7 +7140,7 @@ Among	O
 GEP	O
 -	O
 NETs	O
-,	O
+
 eight	O
 showed	O
 mutations	O
@@ -7152,46 +7152,46 @@ cancer	O
 -	O
 related	O
 gene	O
-,	O
+
 including	O
 TP53	O
-,	O
+
 CNBD1	O
-,	O
+
 RB1	O
-,	O
+
 APC	O
-,	O
+
 BCOR	O
-,	O
+
 BRAF	O
-,	O
+
 CTNNB1	O
-,	O
+
 EGFR	O
-,	O
+
 EP300	O
-,	O
+
 ERBB3	O
-,	O
+
 KDM6A	O
-,	O
+
 KRAS	O
-,	O
+
 MGA	O
-,	O
+
 MLL3	O
-,	O
+
 PTEN	O
-,	O
+
 RASA1	O
-,	O
+
 SMARCB1	O
-,	O
+
 SPEN	O
-,	O
+
 TBC1D12	O
-,	O
+
 and	O
 VHL	O
 .	O
@@ -7203,7 +7203,7 @@ mutated	O
 in	O
 three	O
 cases	O
-,	O
+
 whereas	O
 CNBD1	O
 and	O
@@ -7298,26 +7298,26 @@ rectum	O
 n	O
 =	O
 26	O
-),	O
+)
 colon	O
 (	O
 n	O
 =	O
 7	O
-),	O
+)
 pancreas	O
 (	O
 n	O
 =	O
 4	O
-),	O
+)
 small	O
 intestine	O
 (	O
 n	O
 =	O
 3	O
-),	O
+)
 stomach	O
 (	O
 n	O
@@ -7347,7 +7347,7 @@ chemotherapy	O
 	
 In	O
 conclusion	O
-,	O
+
 BRAF	O
 V600E	O
 mutation	O
@@ -7411,7 +7411,7 @@ of	O
 skeletal	O
 muscle	O
 regeneration	O
-,	O
+
 but	O
 the	O
 underlying	O
@@ -7423,7 +7423,7 @@ understood	O
 .	O
 	
 Here	O
-,	O
+
 comparative	O
 miRNA	O
 sequencing	O
@@ -7485,10 +7485,10 @@ with	O
 its	O
 host	O
 gene	O
-,	O
+
 chloride	O
 channel	O
-,	O
+
 voltage	O
 -	O
 sensitive	O
@@ -7516,19 +7516,19 @@ chain	O
 MYH3	O
 )	O
 and	O
-,	O
+
 to	O
 a	O
 lesser	O
 extent	O
-,	O
+
 adult	O
 myosin	O
 isoforms	O
 during	O
 muscle	O
 regeneration	O
-,	O
+
 and	O
 promoted	O
 small	O
@@ -7573,14 +7573,14 @@ the	O
 mdx	O
 mouse	O
 model	O
-,	O
+
 which	O
 models	O
 a	O
 pathological	O
 disease	O
 state	O
-,	O
+
 not	O
 only	O
 was	O
@@ -7592,7 +7592,7 @@ in	O
 regenerating	O
 skeletal	O
 muscle	O
-,	O
+
 but	O
 also	O
 its	O
@@ -7600,7 +7600,7 @@ serum	O
 levels	O
 were	O
 increased	O
-,	O
+
 which	O
 correlated	O
 with	O
@@ -7690,7 +7690,7 @@ folate	B-Chemical
 and	O
 methionine	B-Chemical
 metabolism	O
-,	O
+
 making	O
 it	O
 crucial	O
@@ -7722,7 +7722,7 @@ individuals	O
 from	O
 North	O
 India	O
-,	O
+
 followed	O
 by	O
 a	O
@@ -7811,7 +7811,7 @@ analysis	O
 included	O
 '	O
 Pubmed	O
-',	O
+'
 '	O
 Ovid	O
 '	O
@@ -7966,7 +7966,7 @@ p	O
 0	O
 .	O
 0	O
-),	O
+)
 1	O
 .	O
 310	O
@@ -7976,9 +7976,9 @@ p	O
 0	O
 .	O
 0	O
-),	O
+)
 respectively	O
-,	O
+
 establishing	O
 significant	O
 association	O
@@ -8024,7 +8024,7 @@ correlation	O
 with	O
 male	O
 infertility	O
-,	O
+
 thus	O
 establishing	O
 it	O
@@ -8065,7 +8065,7 @@ mutation	O
 spectrum	O
 in	O
 HNPCC	O
-,	O
+
 and	O
 heterozygous	O
 changes	O
@@ -8139,12 +8139,12 @@ and	O
 exons	O
 of	O
 MSH2	O
-,	O
+
 and	O
 3	O
 control	O
 probes	O
-,	O
+
 and	O
 applied	O
 it	O
@@ -8184,7 +8184,7 @@ mutations	O
 had	O
 been	O
 found	O
-,	O
+
 and	O
 detected	O
 10	O
@@ -8218,7 +8218,7 @@ of	O
 a	O
 junction	O
 fragment	O
-,	O
+
 and	O
 was	O
 shown	O
@@ -8268,7 +8268,7 @@ full	O
 sequence	O
 analysis	O
 unnecessary	O
-,	O
+
 it	O
 may	O
 be	O
@@ -8321,12 +8321,12 @@ and	O
 its	O
 severe	O
 forms	O
-,	O
+
 such	O
 as	O
 aggressive	O
 periodontitis	O
-,	O
+
 are	O
 suggested	O
 to	O
@@ -8340,7 +8340,7 @@ Among	O
 the	O
 genetic	O
 factors	O
-,	O
+
 polymorphisms	O
 in	O
 cytokine	O
@@ -8566,7 +8566,7 @@ p	O
 ).	O
 	
 Moreover	O
-,	O
+
 no	O
 association	O
 between	O
@@ -8654,7 +8654,7 @@ in	O
 at	O
 least	O
 1	O
-,	O
+
 700	O
 publications	O
 over	O
@@ -8684,7 +8684,7 @@ broad	O
 cancer	O
 genome	O
 sequencing	O
-,	O
+
 we	O
 have	O
 generated	O
@@ -8717,20 +8717,20 @@ A	O
 total	O
 of	O
 1	O
-,	O
+
 14	O
-,	O
+
 984	O
-,	O
+
 286	O
 mate	O
 -	O
 end	O
 and	O
 120	O
-,	O
+
 691	O
-,	O
+
 623	O
 single	O
 -	O
@@ -8758,7 +8758,7 @@ designed	O
 tool	O
 called	O
 BFAST	O
-,	O
+
 allowing	O
 optimal	O
 color	O
@@ -8787,18 +8787,18 @@ identified	O
 interchromosomal	O
 translocation	O
 events	O
-,	O
+
 1	O
-,	O
+
 315	O
 structural	O
 variations	O
 (>	O
 100	O
 bp	O
-),	O
+)
 191	O
-,	O
+
 743	O
 small	O
 (<	O
@@ -8810,12 +8810,12 @@ and	O
 deletions	O
 (	O
 indels	O
-),	O
+)
 and	O
 2	O
-,	O
+
 384	O
-,	O
+
 470	O
 single	O
 nucleotide	O
@@ -8827,7 +8827,7 @@ SNVs	O
 Among	O
 these	O
 observations	O
-,	O
+
 the	O
 known	O
 homozygous	O
@@ -8837,7 +8837,7 @@ PTEN	O
 was	O
 robustly	O
 identified	O
-,	O
+
 and	O
 genes	O
 involved	O
@@ -8858,7 +8858,7 @@ were	O
 compared	O
 to	O
 219	O
-,	O
+
 187	O
 heterozygous	O
 single	O
@@ -8915,38 +8915,38 @@ due	O
 to	O
 small	O
 indels	O
-,	O
+
 large	O
 deletions	O
-,	O
+
 and	O
 translocations	O
 .	O
 	
 In	O
 total	O
-,	O
+
 512	O
 genes	O
 were	O
 homozygously	O
 mutated	O
-,	O
+
 including	O
 154	O
 by	O
 SNVs	O
-,	O
+
 178	O
 by	O
 small	O
 indels	O
-,	O
+
 145	O
 by	O
 large	O
 microdeletions	O
-,	O
+
 and	O
 35	O
 by	O
@@ -8968,7 +8968,7 @@ small	O
 homozygously	O
 mutated	O
 variants	O
-,	O
+
 8	O
 SNVs	O
 and	O
@@ -9095,11 +9095,11 @@ muscle	O
 .	O
 	
 Furthermore	O
-,	O
+
 in	O
 healthy	O
 rats	O
-,	O
+
 repeated	O
 OB	B-Chemical
 administration	O
@@ -9118,7 +9118,7 @@ action	O
 On	O
 this	O
 basis	O
-,	O
+
 we	O
 investigated	O
 whether	O
@@ -9162,7 +9162,7 @@ symptoms	O
 	
 In	O
 control	O
-,	O
+
 WRS	O
 and	O
 OB	B-Chemical
@@ -9205,7 +9205,7 @@ WRS	O
 	
 In	O
 particular	O
-,	O
+
 the	O
 drug	O
 prevents	O
@@ -9213,13 +9213,13 @@ the	O
 decrease	O
 in	O
 SP	O
--,	O
+-
 NK1r	O
--,	O
+-
 nNOS	O
--,	O
+-
 VIP	O
--,	O
+-
 and	O
 S100b	O
 -	O
@@ -9232,7 +9232,7 @@ the	O
 increase	O
 in	O
 CGRP	O
--,	O
+-
 and	O
 CRF1r	O
 -	O
@@ -9242,7 +9242,7 @@ IR	O
 On	O
 the	O
 contrary	O
-,	O
+
 OB	B-Chemical
 does	O
 not	O
@@ -9273,7 +9273,7 @@ WRS	O
 .	O
 	
 Finally	O
-,	O
+
 OB	B-Chemical
 per	O
 se	O
@@ -9331,13 +9331,13 @@ Ca	O
 2	O
 +)	O
 channels	O
-,	O
+
 also	O
 expressed	O
 by	O
 enteric	O
 neurons	O
-,	O
+
 might	O
 represent	O
 a	O
@@ -9359,7 +9359,7 @@ resistant	O
 Mycobacterium	O
 tuberculosis	O
 cases	O
-,	O
+
 Europe	O
 .	O
 	
@@ -9398,7 +9398,7 @@ January	O
 through	O
 June	O
 2007	O
-,	O
+
 countries	O
 reported	O
 case	O
@@ -9434,9 +9434,9 @@ mid	O
 2007	O
 in	O
 Europe	O
-,	O
+
 2	O
-,	O
+
 494	O
 cases	O
 of	O
@@ -9462,7 +9462,7 @@ for	O
 39	O
 %)	O
 cases	O
-,	O
+
 and	O
 672	O
 insertion	O
@@ -9481,7 +9481,7 @@ countries	O
 Of	O
 these	O
 patterns	O
-,	O
+
 288	O
 (	O
 43	O
@@ -9499,7 +9499,7 @@ clusters	O
 /	O
 288	O
 cases	O
-,	O
+
 84	O
 %)	O
 were	O
@@ -9511,7 +9511,7 @@ the	O
 Beijing	O
 genotype	O
 family	O
-,	O
+
 including	O
 the	O
 largest	O
@@ -9521,7 +9521,7 @@ cluster	O
 /	O
 288	O
 cases	O
-,	O
+
 61	O
 %).	O
 	
@@ -9551,10 +9551,10 @@ identification	O
 of	O
 transmission	O
 profile	O
-,	O
+
 risk	O
 factors	O
-,	O
+
 and	O
 control	O
 measures	O
@@ -9579,10 +9579,10 @@ in	O
 the	O
 NPHS2	O
 gene	O
-,	O
+
 encoding	O
 podocin	O
-,	O
+
 cause	O
 hereditary	O
 nephrotic	O
@@ -9594,9 +9594,9 @@ most	O
 common	O
 podocin	O
 mutation	O
-,	O
+
 R138Q	O
-,	O
+
 is	O
 associated	O
 with	O
@@ -9622,14 +9622,14 @@ carrying	O
 a	O
 R140Q	O
 mutation	O
-,	O
+
 the	O
 mouse	O
 analogue	O
 of	O
 human	O
 R138Q	O
-,	O
+
 show	O
 developmental	O
 arrest	O
@@ -9657,7 +9657,7 @@ model	O
 named	O
 NPHS2	O
 R140Q	O
-/-,	O
+/-
 using	O
 a	O
 tamoxifen	B-Chemical
@@ -9665,7 +9665,7 @@ tamoxifen	B-Chemical
 inducible	O
 Cre	O
 recombinase	O
-,	O
+
 which	O
 permits	O
 to	O
@@ -9692,7 +9692,7 @@ the	O
 animals	O
 developed	O
 proteinuria	O
-,	O
+
 which	O
 peaked	O
 after	O
@@ -9709,7 +9709,7 @@ developed	O
 progressive	O
 renal	O
 failure	O
-,	O
+
 with	O
 a	O
 median	O
@@ -9737,7 +9737,7 @@ observed	O
 within	O
 one	O
 week	O
-,	O
+
 progressing	O
 to	O
 severe	O
@@ -9783,7 +9783,7 @@ sclerosed	O
 glomeruli	O
 was	O
 25	O
-%,	O
+%
 85	O
 %	O
 and	O
@@ -9791,12 +9791,12 @@ and	O
 %	O
 at	O
 2	O
-,	O
+
 4	O
 and	O
 8	O
 weeks	O
-,	O
+
 respectively	O
 .	O
 	
@@ -9831,7 +9831,7 @@ mRNA	O
 expression	O
 was	O
 elevated	O
-,	O
+
 protein	O
 abundance	O
 was	O
@@ -9858,7 +9858,7 @@ the	O
 first	O
 4	O
 weeks	O
-,	O
+
 miRNA	O
 -	O
 193a	O
@@ -9872,7 +9872,7 @@ induction	O
 	
 In	O
 conclusion	O
-,	O
+
 the	O
 inducible	O
 R140Q	O
@@ -9894,7 +9894,7 @@ of	O
 human	O
 nephrotic	O
 syndrome	O
-,	O
+
 with	O
 a	O
 spontaneous	O
@@ -9932,7 +9932,7 @@ viability	O
 and	O
 attenuate	O
 proteinuria	O
-,	O
+
 glomerulosclerosis	O
 and	O
 progressive	O
@@ -10012,7 +10012,7 @@ ossificans	O
 progressiva	O
 (	O
 FOP	O
-),	O
+)
 a	O
 genetic	O
 disorder	O
@@ -10055,7 +10055,7 @@ murine	O
 short	O
 ear	O
 syndrome	O
-,	O
+
 characterized	O
 by	O
 small	O
@@ -10090,14 +10090,14 @@ with	O
 malformed	O
 external	O
 ears	O
-,	O
+
 multiple	O
 malformations	O
 of	O
 the	O
 axial	O
 skeleton	O
-,	O
+
 and	O
 progressive	O
 heterotopic	O
@@ -10260,7 +10260,7 @@ plaque	O
 index	O
 as	O
 phenotypes	O
-,	O
+
 the	O
 present	O
 study	O
@@ -10329,7 +10329,7 @@ index	O
 or	O
 =	O
 4	O
-),	O
+)
 low	O
 -	O
 risk	O
@@ -10339,7 +10339,7 @@ index	O
 1	O
 -	O
 3	O
-),	O
+)
 and	O
 reference	O
 (	O
@@ -10387,7 +10387,7 @@ between	O
 men	O
 and	O
 women	O
-,	O
+
 we	O
 carried	O
 out	O
@@ -10464,7 +10464,7 @@ In	O
 the	O
 overall	O
 analyses	O
-,	O
+
 the	O
 rare	O
 homozygote	O
@@ -10501,7 +10501,7 @@ were	O
 stratified	O
 by	O
 sex	O
-,	O
+
 the	O
 genetic	O
 effect	O
@@ -10533,7 +10533,7 @@ plaque	O
 index	O
 =	O
 0	O
-,	O
+
 the	O
 TT	O
 genotype	O
@@ -10552,7 +10552,7 @@ vs	O
 13	O
 .	O
 4	O
-%,	O
+%
 p	O
 =	O
 0	O
@@ -10566,7 +10566,7 @@ IMT	O
 data	O
 in	O
 men	O
-,	O
+
 the	O
 TT	O
 genotype	O
@@ -10606,7 +10606,7 @@ genotypes	O
 	
 In	O
 women	O
-,	O
+
 neither	O
 IMT	O
 nor	O
@@ -10619,7 +10619,7 @@ rs702553	O
 .	O
 	
 Similarly	O
-,	O
+
 SNP	O
 rs702553	O
 was	O
@@ -10635,7 +10635,7 @@ OR	O
 1	O
 .	O
 8	O
-,	O
+
 p	O
 =	O
 0	O
@@ -10669,12 +10669,12 @@ of	O
 PDE4D	O
 on	O
 IMT	O
-,	O
+
 plaque	O
 index	O
 and	O
 stroke	O
-,	O
+
 which	O
 highlights	O
 its	O
@@ -10734,7 +10734,7 @@ cancer	O
 .	O
 	
 However	O
-,	O
+
 standard	O
 EGFR	O
 mutation	O
@@ -10746,7 +10746,7 @@ amount	O
 of	O
 tumor	O
 tissue	O
-,	O
+
 which	O
 may	O
 not	O
@@ -10760,7 +10760,7 @@ situations	O
 In	O
 this	O
 study	O
-,	O
+
 we	O
 combined	O
 a	O
@@ -10898,7 +10898,7 @@ By	O
 mass	O
 spectrometry	O
 genotyping	O
-,	O
+
 the	O
 plasma	O
 samples	O
@@ -10961,7 +10961,7 @@ patients	O
 treated	O
 with	O
 erlotinib	B-Chemical
-,	O
+
 overall	O
 survival	O
 was	O
@@ -10985,7 +10985,7 @@ p	O
 0	O
 .	O
 2	O
-),	O
+)
 with	O
 the	O
 two	O
@@ -11073,7 +11073,7 @@ specimens	O
 Psoriasin	O
 promotes	O
 invasion	O
-,	O
+
 aggregation	O
 and	O
 survival	O
@@ -11130,9 +11130,9 @@ cell	O
 functions	O
 including	O
 proliferation	O
-,	O
+
 differentiation	O
-,	O
+
 migration	O
 and	O
 apoptosis	O
@@ -11221,7 +11221,7 @@ using	O
 specifically	O
 constructed	O
 plasmids	O
-,	O
+
 which	O
 either	O
 had	O
@@ -11332,7 +11332,7 @@ cells	O
 	
 In	O
 addition	O
-,	O
+
 Psoriasin	O
 overexpression	O
 resulted	O
@@ -11383,7 +11383,7 @@ anchorage	O
 	
 Taken	O
 together	O
-,	O
+
 higher	O
 expression	O
 of	O
@@ -11407,14 +11407,14 @@ pancreatic	O
 cancer	O
 cell	O
 growth	O
-,	O
+
 migration	O
-,	O
+
 cell	O
 -	O
 matrix	O
 adhesion	O
-,	O
+
 and	O
 invasion	O
 via	O
@@ -11425,7 +11425,7 @@ MMPs	O
 	
 As	O
 such	O
-,	O
+
 the	O
 proposed	O
 implications	O
@@ -11433,7 +11433,7 @@ of	O
 Psoriasin	O
 in	O
 invasion	O
-,	O
+
 disease	O
 progression	O
 and	O
@@ -11509,7 +11509,7 @@ mobility	O
 group	O
 -	O
 box	O
-),	O
+)
 which	O
 acts	O
 as	O
@@ -11536,7 +11536,7 @@ reversal	O
 .	O
 	
 Here	O
-,	O
+
 we	O
 described	O
 the	O
@@ -11548,7 +11548,7 @@ who	O
 presented	O
 with	O
 46	O
-,	O
+
 XY	O
 sex	O
 reversal	O
@@ -11591,7 +11591,7 @@ SRY	O
 gene	O
 was	O
 amplified	O
-,	O
+
 using	O
 primers	O
 XES	O
@@ -11615,7 +11615,7 @@ pUCm	O
 -	O
 T	O
 vectors	O
-,	O
+
 and	O
 direct	O
 sequencing	O
@@ -11656,7 +11656,7 @@ sequencing	O
 In	O
 two	O
 patients	O
-,	O
+
 de	O
 novo	O
 mutations	O
@@ -11692,7 +11692,7 @@ of	O
 the	O
 SRY	O
 gene	O
-,	O
+
 resulting	O
 in	O
 the	O
@@ -11730,7 +11730,7 @@ instead	O
 of	O
 a	O
 Term	O
-,	O
+
 whereas	O
 her	O
 father	O
@@ -11768,16 +11768,16 @@ Gene	O
 Mutation	O
 Database	O
 analysis	O
-,	O
+
 homology	O
 search	O
-,	O
+
 and	O
 review	O
 of	O
 the	O
 literature	O
-,	O
+
 these	O
 two	O
 mutations	O
@@ -11819,7 +11819,7 @@ for	O
 the	O
 sex	O
 reversal	O
-,	O
+
 not	O
 only	O
 inside	O
@@ -11856,7 +11856,7 @@ the	O
 patient	O
 with	O
 46	O
-,	O
+
 XY	O
 female	O
 sex	O
@@ -11867,9 +11867,9 @@ A	O
 novel	O
 missense	O
 mutation	O
-,	O
+
 F826Y	O
-,	O
+
 in	O
 the	O
 mineralocorticoid	O
@@ -11912,7 +11912,7 @@ mineralocorticoid	O
 receptor	O
 (	O
 MR	O
-,	O
+
 locus	O
 symbol	O
 NR3C2	O
@@ -11961,7 +11961,7 @@ Japanese	O
 .	O
 	
 Here	O
-,	O
+
 we	O
 screened	O
 942	O
@@ -11992,7 +11992,7 @@ in	O
 our	O
 hypertensive	O
 population	O
-,	O
+
 indicating	O
 that	O
 S810L	O
@@ -12013,16 +12013,16 @@ Japanese	O
 .	O
 	
 However	O
-,	O
+
 we	O
 identified	O
 a	O
 novel	O
 missense	O
 mutation	O
-,	O
+
 F826Y	O
-,	O
+
 in	O
 three	O
 patients	O
@@ -12030,7 +12030,7 @@ in	O
 a	O
 heterozygous	O
 state	O
-,	O
+
 in	O
 addition	O
 to	O
@@ -12038,7 +12038,7 @@ four	O
 single	O
 nucleotide	O
 polymorphisms	O
-,	O
+
 including	O
 one	O
 synonymous	O
@@ -12092,7 +12092,7 @@ population	O
 n	O
 =	O
 3	O
-,	O
+
 655	O
 ).	O
 	
@@ -12129,7 +12129,7 @@ group	O
 5	O
 /	O
 1	O
-,	O
+
 480	O
 )	O
 and	O
@@ -12140,7 +12140,7 @@ group	O
 8	O
 /	O
 2	O
-,	O
+
 175	O
 )	O
 in	O
@@ -12151,7 +12151,7 @@ were	O
 not	O
 significantly	O
 different	O
-,	O
+
 suggesting	O
 that	O
 this	O
@@ -12184,17 +12184,17 @@ the	O
 mineralocorticoid	O
 receptor	O
 activity	O
-,	O
+
 this	O
 missense	O
 mutation	O
 may	O
 contribute	O
-,	O
+
 to	O
 some	O
 extent	O
-,	O
+
 to	O
 clinical	O
 phenotypes	O
@@ -12234,7 +12234,7 @@ HIV	O
 -	O
 infected	O
 individuals	O
-,	O
+
 resulting	O
 in	O
 symptomatic	O
@@ -12268,7 +12268,7 @@ immunodeficiency	O
 syndrome	O
 (	O
 AIDS	O
-),	O
+)
 but	O
 has	O
 resulted	O
@@ -12327,7 +12327,7 @@ murine	O
 model	O
 of	O
 DCM	O
-,	O
+
 8	O
 -	O
 week	O
@@ -12364,15 +12364,15 @@ of	O
 AZT	B-Chemical
 (	O
 0	O
-,	O
+
 0	O
 .	O
 7	O
-,	O
+
 0	O
 .	O
 2	O
-,	O
+
 and	O
 0	O
 .	O
@@ -12385,7 +12385,7 @@ ml	O
 After	O
 6	O
 weeks	O
-,	O
+
 cardiac	O
 function	O
 was	O
@@ -12423,7 +12423,7 @@ function	O
 	
 In	O
 contrast	O
-,	O
+
 AZT	B-Chemical
 -	O
 treated	O
@@ -12443,7 +12443,7 @@ dose	O
 -	O
 dependent	O
 manner	O
-,	O
+
 with	O
 concomitant	O
 inflammatory	O
@@ -12466,7 +12466,7 @@ of	O
 Fas	O
 and	O
 FasL	O
-,	O
+
 as	O
 well	O
 as	O
@@ -12475,7 +12475,7 @@ activation	O
 of	O
 caspase	O
 3	O
-,	O
+
 translocation	O
 of	O
 calpain	O
@@ -12485,7 +12485,7 @@ the	O
 sarcolemma	O
 and	O
 sarcomere	O
-,	O
+
 and	O
 increased	O
 numbers	O
@@ -12507,7 +12507,7 @@ cardiac	O
 troponin	O
 I	O
 localization	O
-,	O
+
 as	O
 well	O
 as	O
@@ -12527,7 +12527,7 @@ ligand	O
 in	O
 the	O
 myocardium	O
-,	O
+
 as	O
 identified	O
 in	O
@@ -12535,7 +12535,7 @@ HIV	O
 -	O
 positive	O
 patients	O
-,	O
+
 might	O
 increase	O
 the	O
@@ -12551,7 +12551,7 @@ activation	O
 of	O
 apoptotic	O
 pathways	O
-,	O
+
 resulting	O
 in	O
 cardiac	O
@@ -12571,7 +12571,7 @@ sense	O
 mediated	O
 mRNA	O
 decay	O
-,	O
+
 adrenal	O
 hyperplasia	O
 and	O
@@ -12601,7 +12601,7 @@ insensitivity	O
 to	O
 glucocorticoid	B-Chemical
 action	O
-,	O
+
 due	O
 to	O
 genetic	O
@@ -12632,16 +12632,16 @@ individuals	O
 spanning	O
 three	O
 generations	O
-),	O
+)
 prone	O
 to	O
 cortisol	O
 resistance	O
-,	O
+
 bilateral	O
 adrenal	O
 hyperplasia	O
-,	O
+
 arterial	O
 hypertension	O
 and	O
@@ -12653,7 +12653,7 @@ phenotype	O
 exacerbated	O
 over	O
 time	O
-,	O
+
 cosegregates	O
 with	O
 the	O
@@ -12666,7 +12666,7 @@ p	O
 R469	O
 [	O
 R	O
-,	O
+
 X	O
 ]	O
 reported	O
@@ -12675,7 +12675,7 @@ date	O
 for	O
 the	O
 GR	O
-,	O
+
 replacing	O
 an	O
 arginine	O
@@ -12711,7 +12711,7 @@ receptor	O
 	
 In	O
 vitro	O
-,	O
+
 this	O
 mutation	O
 leads	O
@@ -12728,7 +12728,7 @@ and	O
 DNA	O
 binding	O
 capacity	O
-,	O
+
 devoid	O
 of	O
 hormone	O
@@ -12747,7 +12747,7 @@ proband	O
 '	O
 s	O
 fibroblasts	O
-,	O
+
 we	O
 provided	O
 evidence	O
@@ -12805,7 +12805,7 @@ glucocorticoid	B-Chemical
 induced	O
 target	O
 genes	O
-,	O
+
 FKBP5	O
 in	O
 fibroblasts	O
@@ -12884,7 +12884,7 @@ resistance	O
 .	O
 	
 Indeed	O
-,	O
+
 apparent	O
 mineralocorticoid	O
 excess	O
@@ -12902,7 +12902,7 @@ ratio	O
 in	O
 affected	O
 patients	O
-,	O
+
 revealing	O
 reduced	O
 glucocorticoid	B-Chemical
@@ -12918,7 +12918,7 @@ hydroxysteroid	O
 dehydrogenase	O
 type	O
 2	O
-,	O
+
 a	O
 GR	O
 regulated	O
@@ -12944,7 +12944,7 @@ cause	O
 of	O
 subclinical	O
 hypercortisolism	O
-,	O
+
 incidentally	O
 revealed	O
 bilateral	O
@@ -12991,16 +12991,16 @@ mice	O
 have	O
 fatty	O
 livers	O
-,	O
+
 and	O
 it	O
 is	O
 possible	O
 that	O
-,	O
+
 in	O
 humans	O
-,	O
+
 nonalcoholic	O
 fatty	O
 liver	O
@@ -13043,7 +13043,7 @@ exon	O
 8	O
 of	O
 PEMT	O
-,	O
+
 which	O
 leads	O
 to	O
@@ -13059,7 +13059,7 @@ loss	O
 of	O
 function	O
 mutation	O
-,	O
+
 as	O
 determined	O
 by	O
@@ -13175,7 +13175,7 @@ a	O
 common	O
 dermatological	O
 disorder	O
-,	O
+
 in	O
 which	O
 autoimmunity	O
@@ -13224,9 +13224,9 @@ winged	O
 helix	O
 transcription	O
 factor	O
-,	O
+
 FOXP3	O
-,	O
+
 which	O
 appears	O
 to	O
@@ -13270,7 +13270,7 @@ disorders	O
 .	O
 	
 However	O
-,	O
+
 information	O
 about	O
 FOXP3	O
@@ -13314,7 +13314,7 @@ case	O
 -	O
 control	O
 study	O
-,	O
+
 524	O
 patients	O
 with	O
@@ -13344,21 +13344,21 @@ FOXP3	O
 gene	O
 (-	O
 6054	O
-,	O
+
 deletion	O
 /	O
 ATT	O
 ;	O
 -	O
 3279	O
-,	O
+
 A	O
 /	O
 C	O
 ;	O
 -	O
 924	O
-,	O
+
 A	O
 /	O
 G	O
@@ -13366,7 +13366,7 @@ G	O
 IVS9	O
 +	O
 459	O
-,	O
+
 A	O
 /	O
 G	O
@@ -13374,7 +13374,7 @@ G	O
 in	O
 psoriatic	O
 patients	O
-,	O
+
 and	O
 assessed	O
 allele	O
@@ -13387,7 +13387,7 @@ patients	O
 (	O
 237	O
 females	O
-,	O
+
 287	O
 males	O
 )	O
@@ -13397,7 +13397,7 @@ controls	O
 (	O
 272	O
 females	O
-,	O
+
 277	O
 males	O
 ).	O
@@ -13453,7 +13453,7 @@ genotype	O
 (	O
 adjusted	O
 OR	O
-,	O
+
 1	O
 .	O
 32	O
@@ -13461,7 +13461,7 @@ OR	O
 95	O
 %	O
 CI	O
-,	O
+
 1	O
 .	O
 1	O
@@ -13480,7 +13480,7 @@ genotype	O
 (	O
 adjusted	O
 OR	O
-,	O
+
 1	O
 .	O
 38	O
@@ -13488,7 +13488,7 @@ OR	O
 95	O
 %	O
 CI	O
-,	O
+
 1	O
 .	O
 7	O
@@ -13496,7 +13496,7 @@ CI	O
 1	O
 .	O
 78	O
-),	O
+)
 compared	O
 with	O
 the	O
@@ -13528,7 +13528,7 @@ genotype	O
 (	O
 adjusted	O
 OR	O
-,	O
+
 2	O
 .	O
 24	O
@@ -13536,7 +13536,7 @@ OR	O
 95	O
 %	O
 CI	O
-,	O
+
 1	O
 .	O
 41	O
@@ -13547,7 +13547,7 @@ CI	O
 ).	O
 	
 However	O
-,	O
+
 the	O
 combined	O
 GA	O
@@ -13569,7 +13569,7 @@ OR	O
 95	O
 %	O
 CI	O
-,	O
+
 1	O
 .	O
 0	O
@@ -13577,7 +13577,7 @@ CI	O
 1	O
 .	O
 64	O
-),	O
+)
 compared	O
 with	O
 the	O
@@ -13619,7 +13619,7 @@ In	O
 combined	O
 genotype	O
 analyses	O
-,	O
+
 the	O
 FOXP3	O
 -	O
@@ -13641,7 +13641,7 @@ OR	O
 1	O
 .	O
 60	O
-,	O
+
 95	O
 %	O
 CI	O
@@ -13670,7 +13670,7 @@ OR	O
 1	O
 .	O
 97	O
-,	O
+
 95	O
 %	O
 CI	O
@@ -13685,7 +13685,7 @@ CI	O
 ).	O
 	
 Meanwhile	O
-,	O
+
 the	O
 FOXP3	O
 IVS9	O
@@ -13709,7 +13709,7 @@ OR	O
 1	O
 .	O
 69	O
-,	O
+
 95	O
 %	O
 CI	O
@@ -13767,9 +13767,9 @@ a	O
 kindred	O
 with	O
 anemia	O
-,	O
+
 hyperuricemia	O
-,	O
+
 and	O
 CKD	O
 .	O
@@ -13788,7 +13788,7 @@ cause	O
 renal	O
 tubular	O
 dysgenesis	O
-,	O
+
 which	O
 is	O
 characterized	O
@@ -13827,7 +13827,7 @@ pregnancy	O
 .	O
 	
 Recently	O
-,	O
+
 heterozygous	O
 REN	O
 mutations	O
@@ -13840,9 +13840,9 @@ early	O
 -	O
 onset	O
 hyperuricemia	O
-,	O
+
 anemia	O
-,	O
+
 and	O
 chronic	O
 kidney	O
@@ -13853,7 +13853,7 @@ CKD	O
 	
 To	O
 date	O
-,	O
+
 only	O
 3	O
 different	O
@@ -13922,7 +13922,7 @@ the	O
 REN	O
 complementary	O
 DNA	O
-,	O
+
 corresponding	O
 to	O
 a	O
@@ -13934,7 +13934,7 @@ at	O
 amino	O
 acid	O
 10	O
-,	O
+
 which	O
 is	O
 found	O
@@ -13957,7 +13957,7 @@ W10R	O
 On	O
 this	O
 basis	O
-,	O
+
 we	O
 conclude	O
 that	O
@@ -13975,7 +13975,7 @@ CKD	O
 Within	O
 the	O
 kindred	O
-,	O
+
 we	O
 found	O
 affected	O
@@ -13995,9 +13995,9 @@ characterized	O
 by	O
 significant	O
 anemia	O
-,	O
+
 hyperuricemia	O
-,	O
+
 and	O
 CKD	O
 .	O
@@ -14031,7 +14031,7 @@ in	O
 the	O
 signal	O
 sequence	O
-,	O
+
 screening	O
 of	O
 the	O
@@ -14054,7 +14054,7 @@ sequencing	O
 of	O
 exon	O
 1	O
-,	O
+
 which	O
 encodes	O
 the	O
@@ -14115,7 +14115,7 @@ defined	O
 .	O
 	
 Here	O
-,	O
+
 mice	O
 were	O
 housed	O
@@ -14138,10 +14138,10 @@ MRI	O
 	
 In	O
 isolated	O
-,	O
+
 perfused	O
 hearts	O
-,	O
+
 energetics	O
 were	O
 measured	O
@@ -14155,7 +14155,7 @@ resonance	O
 spectroscopy	O
 (	O
 MRS	O
-),	O
+)
 and	O
 glycolysis	O
 and	O
@@ -14177,23 +14177,23 @@ Compared	O
 with	O
 a	O
 normoxic	O
-,	O
+
 chow	O
 -	O
 fed	O
 control	O
 mouse	O
 heart	O
-,	O
+
 hypoxia	O
 decreased	O
 PPARa	O
 expression	O
-,	O
+
 fatty	B-Chemical
 acid	I-Chemical
 oxidation	O
-,	O
+
 and	O
 mitochondrial	O
 uncoupling	O
@@ -14203,11 +14203,11 @@ protein	O
 UCP3	O
 )	O
 levels	O
-,	O
+
 while	O
 increasing	O
 glycolysis	O
-,	O
+
 all	O
 of	O
 which	O
@@ -14222,7 +14222,7 @@ ATP	B-Chemical
 ])	O
 and	O
 thereby	O
-,	O
+
 ejection	O
 fractions	O
 .	O
@@ -14236,11 +14236,11 @@ increased	O
 cardiac	O
 PPARa	O
 expression	O
-,	O
+
 fatty	B-Chemical
 acid	I-Chemical
 oxidation	O
-,	O
+
 and	O
 UCP3	O
 levels	O
@@ -14270,7 +14270,7 @@ high	O
 -	O
 fat	O
 diet	O
-,	O
+
 with	O
 the	O
 result	O
@@ -14340,7 +14340,7 @@ metabolic	O
 remodeling	O
 in	O
 hypoxia	O
-,	O
+
 but	O
 is	O
 prevented	O
@@ -14349,114 +14349,114 @@ dietary	O
 fat	O
 .-	O
 Cole	O
-,	O
+
 M	O
 .	O
 A	O
-.,	O
+.
 Abd	O
 Jamil	O
-,	O
+
 A	O
 .	O
 H	O
-.,	O
+.
 Heather	O
-,	O
+
 L	O
 .	O
 C	O
-.,	O
+.
 Murray	O
-,	O
+
 A	O
 .	O
 J	O
-.,	O
+.
 Sutton	O
-,	O
+
 E	O
 .	O
 R	O
-.,	O
+.
 Slingo	O
-,	O
+
 M	O
-.,	O
+.
 Sebag	O
 -	O
 Montefiore	O
-,	O
+
 L	O
-.,	O
+.
 Tan	O
-,	O
+
 S	O
 .	O
 C	O
-.,	O
+.
 Aksentijevic	O
-,	O
+
 D	O
-.,	O
+.
 Gildea	O
-,	O
+
 O	O
 .	O
 S	O
-.,	O
+.
 Stuckey	O
-,	O
+
 D	O
 .	O
 J	O
-.,	O
+.
 Yeoh	O
-,	O
+
 K	O
 .	O
 K	O
-.,	O
+.
 Carr	O
-,	O
+
 C	O
 .	O
 A	O
-.,	O
+.
 Evans	O
-,	O
+
 R	O
 .	O
 D	O
-.,	O
+.
 Aasum	O
-,	O
+
 E	O
-.,	O
+.
 Schofield	O
-,	O
+
 C	O
 .	O
 J	O
-.,	O
+.
 Ratcliffe	O
-,	O
+
 P	O
 .	O
 J	O
-.,	O
+.
 Neubauer	O
-,	O
+
 S	O
-.,	O
+.
 Robbins	O
-,	O
+
 P	O
 .	O
 A	O
-.,	O
+.
 Clarke	O
-,	O
+
 K	O
 .	O
 On	O
@@ -14514,7 +14514,7 @@ In	O
 central	O
 nervous	O
 system	O
-,	O
+
 glioma	O
 is	O
 the	O
@@ -14540,16 +14540,16 @@ treatment	O
 .	O
 	
 Gartanin	B-Chemical
-,	O
+
 a	O
 natural	O
 xanthone	B-Chemical
 of	O
 mangosteen	O
-,	O
+
 suppressed	O
 proliferation	O
-,	O
+
 migration	O
 and	O
 colony	O
@@ -14578,11 +14578,11 @@ cells	O
 .	O
 	
 Gartanin	B-Chemical
-,	O
+
 at	O
 low	O
 micromole	O
-,	O
+
 led	O
 to	O
 cell	O
@@ -14604,7 +14604,7 @@ regulatory	O
 proteins	O
 cyclin	O
 D1	O
-,	O
+
 while	O
 increased	O
 expression	O
@@ -14620,7 +14620,7 @@ p27Kip1	O
 	
 In	O
 addition	O
-,	O
+
 the	O
 secretion	O
 and	O
@@ -14647,7 +14647,7 @@ cells	O
 treated	O
 with	O
 gartanin	B-Chemical
-,	O
+
 and	O
 it	O
 might	O
@@ -14671,7 +14671,7 @@ cells	O
 .	O
 	
 Moreover	O
-,	O
+
 gartanin	B-Chemical
 significantly	O
 induced	O
@@ -14699,7 +14699,7 @@ and	O
 LC3	O
 -	O
 II	O
-,	O
+
 while	O
 suppressed	O
 expression	O
@@ -14722,7 +14722,7 @@ Akt	O
 mTOR	O
 signalling	O
 pathway	O
-,	O
+
 which	O
 is	O
 important	O
@@ -14732,7 +14732,7 @@ autophagy	O
 .	O
 	
 Notably	O
-,	O
+
 gartanin	B-Chemical
 -	O
 mediated	O
@@ -14783,7 +14783,7 @@ arrest	O
 modulated	O
 by	O
 autophagy	O
-,	O
+
 which	O
 is	O
 regulated	O
@@ -14795,7 +14795,7 @@ Akt	O
 mTOR	O
 signalling	O
 pathway	O
-,	O
+
 while	O
 anti	O
 -	O
@@ -14862,11 +14862,11 @@ realistic	O
 option	O
 for	O
 treatment	O
-,	O
+
 and	O
 as	O
 such	O
-,	O
+
 it	O
 has	O
 long	O
@@ -14882,7 +14882,7 @@ diseases	O
 .	O
 	
 However	O
-,	O
+
 despite	O
 the	O
 cloning	O
@@ -14896,7 +14896,7 @@ regulator	O
 gene	O
 in	O
 1989	O
-,	O
+
 over	O
 15	O
 years	O
@@ -14920,7 +14920,7 @@ of	O
 reasons	O
 for	O
 this	O
-,	O
+
 and	O
 analysis	O
 of	O
@@ -14980,7 +14980,7 @@ suitable	O
 gene	O
 delivery	O
 technologies	O
-,	O
+
 the	O
 complexities	O
 of	O
@@ -14991,14 +14991,14 @@ the	O
 host	O
 and	O
 vector	O
-,	O
+
 the	O
 biology	O
 of	O
 the	O
 lung	O
 airways	O
-,	O
+
 and	O
 the	O
 nature	O
@@ -15039,7 +15039,7 @@ at	O
 present	O
 :	O
 namely	O
-,	O
+
 the	O
 question	O
 of	O
@@ -15055,13 +15055,13 @@ gene	O
 delivery	O
 in	O
 CF	O
-,	O
+
 what	O
 cells	O
 must	O
 be	O
 targeted	O
-,	O
+
 how	O
 airway	O
 epithelium	O
@@ -15076,7 +15076,7 @@ allow	O
 efficient	O
 gene	O
 delivery	O
-,	O
+
 how	O
 to	O
 ensure	O
@@ -15215,9 +15215,9 @@ in	O
 its	O
 human	O
 orthologue	O
-,	O
+
 CACNA2D4	O
-,	O
+
 were	O
 not	O
 yet	O
@@ -15245,14 +15245,14 @@ diagnosis	O
 of	O
 night	O
 blindness	O
-,	O
+
 and	O
-,	O
+
 in	O
 two	O
 affected	O
 siblings	O
-,	O
+
 we	O
 detected	O
 a	O
@@ -15342,10 +15342,10 @@ with	O
 early	O
 onset	O
 encephalopathy	O
-,	O
+
 lactic	O
 acidosis	O
-,	O
+
 and	O
 severe	O
 reduction	O
@@ -15375,7 +15375,7 @@ respiratory	O
 chain	O
 are	O
 rare	O
-,	O
+
 having	O
 been	O
 found	O
@@ -15386,14 +15386,14 @@ cIII	O
 assembly	O
 factors	O
 and	O
-,	O
+
 as	O
 private	O
 changes	O
 in	O
 single	O
 families	O
-,	O
+
 three	O
 cIII	O
 structural	O
@@ -15401,18 +15401,18 @@ subunits	O
 .	O
 	
 Recently	O
-,	O
+
 human	O
 LYRM7	O
 /	O
 MZM1L	O
-,	O
+
 the	O
 ortholog	O
 of	O
 yeast	O
 MZM1	O
-,	O
+
 has	O
 been	O
 identified	O
@@ -15432,22 +15432,22 @@ patient	O
 with	O
 early	O
 onset	O
-,	O
+
 severe	O
 encephalopathy	O
-,	O
+
 lactic	O
 acidosis	O
 and	O
 profound	O
-,	O
+
 isolated	O
 cIII	O
 deficiency	O
 in	O
 skeletal	O
 muscle	O
-,	O
+
 we	O
 identified	O
 a	O
@@ -15467,7 +15467,7 @@ in	O
 LYRM7	O
 /	O
 MZM1L	O
-,	O
+
 predicting	O
 a	O
 drastic	O
@@ -15491,7 +15491,7 @@ a	O
 mzm1D	O
 yeast	O
 strain	O
-,	O
+
 the	O
 expression	O
 of	O
@@ -15509,11 +15509,11 @@ sensitive	O
 respiratory	O
 growth	O
 defect	O
-,	O
+
 decreased	O
 oxygen	B-Chemical
 consumption	O
-,	O
+
 impaired	O
 maturation	O
 /	O
@@ -15525,7 +15525,7 @@ Fe	O
 -	O
 S	O
 protein	O
-,	O
+
 and	O
 reduced	O
 complex	O
@@ -15543,15 +15543,15 @@ a	O
 novel	O
 disease	O
 gene	O
-,	O
+
 causing	O
 cIII	O
 -	O
 defective	O
-,	O
+
 early	O
 onset	O
-,	O
+
 severe	O
 mitochondrial	O
 encephalopathy	O
@@ -15690,7 +15690,7 @@ analysed	O
 	
 In	O
 parallel	O
-,	O
+
 we	O
 used	O
 glycoprotein	O
@@ -15699,7 +15699,7 @@ B	O
 gB	O
 )	O
 genotyping	O
-,	O
+
 and	O
 a	O
 -	O
@@ -15740,7 +15740,7 @@ strains	O
 Resistance	O
 to	O
 ganciclovir	B-Chemical
-,	O
+
 cidofovir	B-Chemical
 and	O
 foscarnet	B-Chemical
@@ -15772,7 +15772,7 @@ residues	O
 591	O
 and	O
 592	O
-,	O
+
 and	O
 then	O
 at	O
@@ -15796,7 +15796,7 @@ N495K	O
 in	O
 DNA	O
 polymerase	O
-,	O
+
 whereas	O
 cross	O
 -	O
@@ -15910,7 +15910,7 @@ genes	O
 may	O
 accumulate	O
 and	O
-,	O
+
 consequently	O
 lead	O
 to	O
@@ -15919,7 +15919,7 @@ impairment	O
 .	O
 	
 Therefore	O
-,	O
+
 we	O
 screened	O
 47	O
@@ -16060,7 +16060,7 @@ c	O
 357C	O
 >	O
 T	O
-,	O
+
 c	O
 .	O
 798C	O
@@ -16171,7 +16171,7 @@ protein	O
 -	O
 coupled	O
 receptor	O
-,	O
+
 which	O
 is	O
 involved	O
@@ -16179,13 +16179,13 @@ in	O
 maintaining	O
 calcium	B-Chemical
 homeostasis	O
-,	O
+
 regulating	O
 cell	O
 proliferation	O
 and	O
 apoptosis	O
-,	O
+
 and	O
 so	O
 on	O
@@ -16195,13 +16195,13 @@ In	O
 our	O
 previous	O
 study	O
-,	O
+
 we	O
 found	O
 that	O
 CaSR	O
 expression	O
-,	O
+
 intracellular	O
 calcium	B-Chemical
 levels	O
@@ -16217,7 +16217,7 @@ DCM	O
 rats	O
 ;	O
 however	O
-,	O
+
 the	O
 exact	O
 mechanism	O
@@ -16257,7 +16257,7 @@ mechanism	O
 .	O
 	
 Here	O
-,	O
+
 we	O
 demonstrated	O
 that	O
@@ -16267,15 +16267,15 @@ the	O
 expression	O
 of	O
 CaSR	O
-,	O
+
 mitochondrial	O
 fusion	O
 proteins	O
 (	O
 Mfn1	O
-,	O
+
 Mfn2	O
-),	O
+)
 cell	O
 gap	O
 junction	O
@@ -16283,15 +16283,15 @@ related	O
 proteins	O
 (	O
 Cx43	O
-,	O
+
 beta	O
 -	O
 catenin	O
-,	O
+
 N	O
 -	O
 cadherin	O
-),	O
+)
 and	O
 intracellular	O
 ATP	B-Chemical
@@ -16300,40 +16300,40 @@ concentration	O
 	
 In	O
 contrast	O
-,	O
+
 HG	O
 increased	O
 extracellular	O
 ATP	B-Chemical
 concentration	O
-,	O
+
 the	O
 expression	O
 of	O
 gp78	O
-,	O
+
 mitochondrial	O
 fission	O
 proteins	O
 (	O
 Fis1	O
-,	O
+
 Drp1	O
-),	O
+)
 and	O
 the	O
 ubiquitination	O
 levels	O
 of	O
 Mfn1	O
-,	O
+
 Mfn2	O
 and	O
 Cx43	O
 .	O
 	
 Moreover	O
-,	O
+
 CaSR	O
 agonist	O
 and	O
@@ -16349,7 +16349,7 @@ changes	O
 	
 Taken	O
 together	O
-,	O
+
 these	O
 results	O
 suggest	O
@@ -16365,7 +16365,7 @@ decrease	O
 of	O
 CaSR	O
 expression	O
-,	O
+
 and	O
 activation	O
 of	O
@@ -16378,7 +16378,7 @@ system	O
 	
 In	O
 turn	O
-,	O
+
 these	O
 effects	O
 disrupt	O
@@ -16394,7 +16394,7 @@ the	O
 cell	O
 gap	O
 junction	O
-,	O
+
 result	O
 in	O
 the	O
@@ -16420,7 +16420,7 @@ abnormal	O
 myocardial	O
 energy	O
 metabolism	O
-,	O
+
 suggesting	O
 CaSR	O
 would	O
@@ -16438,12 +16438,12 @@ DCM	O
 A	O
 novel	O
 compound	O
-,	O
+
 maltolyl	B-Chemical
 p	I-Chemical
 -	I-Chemical
 coumarate	I-Chemical
-,	O
+
 attenuates	O
 cognitive	O
 deficits	O
@@ -16474,7 +16474,7 @@ cognitive	O
 function	O
 and	O
 neuroprotection	O
-,	O
+
 we	O
 newly	O
 synthesized	O
@@ -16498,7 +16498,7 @@ In	O
 the	O
 present	O
 study	O
-,	O
+
 we	O
 investigated	O
 whether	O
@@ -16599,7 +16599,7 @@ maltolyl	B-Chemical
 p	I-Chemical
 -	I-Chemical
 coumarate	I-Chemical
-,	O
+
 before	O
 exposed	O
 to	O
@@ -16633,11 +16633,11 @@ reduced	O
 reactive	B-Chemical
 oxygen	I-Chemical
 species	I-Chemical
-,	O
+
 cytochrome	B-Chemical
 c	I-Chemical
 release	O
-,	O
+
 and	O
 caspase	O
 3	O
@@ -16653,7 +16653,7 @@ in	O
 vivo	O
 results	O
 together	O
-,	O
+
 our	O
 study	O
 suggests	O
@@ -16735,7 +16735,7 @@ characterized	O
 by	O
 a	O
 progressive	O
-,	O
+
 fatal	O
 brain	O
 and	O
@@ -16752,7 +16752,7 @@ with	O
 mutations	O
 in	O
 POLG	O
-,	O
+
 the	O
 gene	O
 encoding	O
@@ -16777,7 +16777,7 @@ to	O
 be	O
 compound	O
 heterozygotes	O
-,	O
+
 carrying	O
 two	O
 pathogenic	O
@@ -16804,7 +16804,7 @@ is	O
 imported	O
 into	O
 mitochondria	O
-,	O
+
 where	O
 it	O
 is	O
@@ -16887,14 +16887,14 @@ to	O
 produce	O
 a	O
 truncated	O
-,	O
+
 catalytically	O
 inactive	O
 polymerase	O
 .	O
 	
 However	O
-,	O
+
 only	O
 full	O
 -	O
@@ -16911,7 +16911,7 @@ analysis	O
 .	O
 	
 Here	O
-,	O
+
 we	O
 show	O
 that	O
@@ -16982,7 +16982,7 @@ allele	O
 .	O
 	
 Therefore	O
-,	O
+
 the	O
 Alpers	O
 phenotype	O
@@ -17003,7 +17003,7 @@ of	O
 the	O
 A467T	O
 allele	O
-,	O
+
 and	O
 selective	O
 elimination	O
@@ -17117,7 +17117,7 @@ presence	O
 of	O
 splicing	O
 mutations	O
-,	O
+
 polymerase	O
 chain	O
 reaction	O
@@ -17160,7 +17160,7 @@ g	O
 this	O
 gross	O
 deletion	O
-,	O
+
 involving	O
 the	O
 entire	O
@@ -17254,7 +17254,7 @@ at	O
 the	O
 cellular	O
 level	O
-,	O
+
 relatively	O
 few	O
 methods	O
@@ -17266,7 +17266,7 @@ available	O
 In	O
 this	O
 study	O
-,	O
+
 we	O
 developed	O
 a	O
@@ -17324,7 +17324,7 @@ kidney	O
 With	O
 this	O
 model	O
-,	O
+
 we	O
 were	O
 able	O
@@ -17365,7 +17365,7 @@ throughout	O
 the	O
 observation	O
 period	O
-,	O
+
 reaching	O
 2	O
 .	O
@@ -17394,7 +17394,7 @@ the	O
 remnant	O
 kidney	O
 model	O
-,	O
+
 whereas	O
 that	O
 of	O
@@ -17406,7 +17406,7 @@ showed	O
 a	O
 mild	O
 decrease	O
-,	O
+
 reflecting	O
 distinct	O
 behaviors	O
@@ -17434,7 +17434,7 @@ models	O
 .	O
 	
 Finally	O
-,	O
+
 we	O
 identified	O
 the	O
@@ -17446,13 +17446,13 @@ nuclear	O
 antigen	O
 -	O
 positive	O
-,	O
+
 ED	O
 -	O
 1	O
 -	O
 positive	O
-,	O
+
 and	O
 terminal	O
 dUTP	B-Chemical
@@ -17539,7 +17539,7 @@ caused	O
 by	O
 inherited	O
 disorders	O
-,	O
+
 isolated	O
 or	O
 as	O
@@ -17572,7 +17572,7 @@ tumors	O
 In	O
 our	O
 study	O
-,	O
+
 we	O
 examined	O
 the	O
@@ -17602,7 +17602,7 @@ parathyroid	O
 adenoma	O
 or	O
 hyperplasia	O
-,	O
+
 4	O
 with	O
 a	O
@@ -17627,7 +17627,7 @@ paraffin	B-Chemical
 -	O
 embedded	O
 tissues	O
-,	O
+
 we	O
 amplified	O
 by	O
@@ -17666,7 +17666,7 @@ examined	O
 17	O
 .	O
 1	O
-%),	O
+%)
 whereas	O
 no	O
 alterations	O
@@ -17692,19 +17692,19 @@ frameshift	O
 mutation	O
 (	O
 222insT	O
-,	O
+
 exon	O
 2	O
-),	O
+)
 one	O
 frameshift	O
 deletion	O
 (	O
 912delTA	O
-,	O
+
 exon	O
 5	O
-),	O
+)
 one	O
 in	O
 -	O
@@ -17712,7 +17712,7 @@ frame	O
 deletion	O
 (	O
 835del18	O
-,	O
+
 exon	O
 4	O
 )	O
@@ -17722,20 +17722,20 @@ missense	O
 mutation	O
 (	O
 P291A	O
-,	O
+
 exon	O
 6	O
 ).	O
 	
 In	O
 addition	O
-,	O
+
 one	O
 missense	O
 mutation	O
 (	O
 L89R	O
-,	O
+
 exon	O
 2	O
 )	O
@@ -17745,7 +17745,7 @@ nonsense	O
 mutation	O
 (	O
 Q536X	O
-,	O
+
 exon	O
 10	O
 )	O
@@ -17755,7 +17755,7 @@ reported	O
 .	O
 	
 Moreover	O
-,	O
+
 two	O
 polymorphisms	O
 were	O
@@ -17773,7 +17773,7 @@ polymorphism	O
 /	O
 39	O
 tumors	O
-),	O
+)
 while	O
 a	O
 D418D	O
@@ -17799,7 +17799,7 @@ and	O
 homozygosity	O
 (	O
 TT	O
-),	O
+)
 respectively	O
 .	O
 	
@@ -17825,7 +17825,7 @@ correlation	O
 	
 In	O
 conclusion	O
-,	O
+
 our	O
 data	O
 demonstrate	O
@@ -17859,9 +17859,9 @@ genotype	O
 -	O
 phenotype	O
 correlation	O
-,	O
+
 however	O
-,	O
+
 suggests	O
 the	O
 involvement	O
@@ -17927,7 +17927,7 @@ microphthalmia	O
 In	O
 this	O
 study	O
-,	O
+
 we	O
 evaluated	O
 34	O
@@ -17982,12 +17982,12 @@ two	O
 sets	O
 of	O
 siblings	O
-),	O
+)
 five	O
 unaffected	O
 family	O
 members	O
-,	O
+
 and	O
 80	O
 healthy	O
@@ -18056,12 +18056,12 @@ T	O
 p	O
 .	O
 Glu104X	O
-),	O
+)
 found	O
 in	O
 one	O
 patient	O
-,	O
+
 was	O
 in	O
 the	O
@@ -18095,13 +18095,13 @@ codon	O
 The	O
 second	O
 mutation	O
-,	O
+
 noted	O
 in	O
 two	O
 affected	O
 siblings	O
-,	O
+
 was	O
 a	O
 single	O
@@ -18122,7 +18122,7 @@ encoding	O
 the	O
 activation	O
 domain	O
-,	O
+
 resulting	O
 in	O
 a	O
@@ -18151,7 +18151,7 @@ function	O
 	
 In	O
 addition	O
-,	O
+
 a	O
 novel	O
 nucleotide	O
@@ -18201,7 +18201,7 @@ c	O
 C	O
 >	O
 A	O
-,	O
+
 SNP	O
 rs11915160	O
 )	O
@@ -18224,7 +18224,7 @@ two	O
 synonymous	O
 sequence	O
 variants	O
-,	O
+
 c	O
 .	O
 471	O
@@ -18235,7 +18235,7 @@ T	O
 p	O
 .	O
 Ser157Ser	O
-,	O
+
 rs35435463	O
 )	O
 and	O
@@ -18249,10 +18249,10 @@ A	O
 p	O
 .	O
 Gln193Gln	O
-,	O
+
 novel	O
 SNP	O
-),	O
+)
 and	O
 one	O
 non	O
@@ -18260,7 +18260,7 @@ non	O
 synonymous	O
 sequence	O
 variant	O
-,	O
+
 c	O
 .	O
 871	O
@@ -18271,7 +18271,7 @@ A	O
 p	O
 .	O
 Asp291Asn	O
-,	O
+
 novel	O
 SNP	O
 ).	O
@@ -18287,7 +18287,7 @@ present	O
 in	O
 healthy	O
 controls	O
-,	O
+
 suggesting	O
 non	O
 -	O
@@ -18373,35 +18373,35 @@ in	O
 genes	O
 (	O
 GSTP1	O
-,	O
+
 COX2	O
-,	O
+
 IL10	O
-,	O
+
 EGFR	O
-,	O
+
 EGF	O
-,	O
+
 FGFR4	O
-,	O
+
 CCDN1	O
-,	O
+
 VEGFR2	O
-,	O
+
 VEGF	O
-,	O
+
 CXCR2	O
-,	O
+
 IL8	O
-,	O
+
 MMP3	O
-,	O
+
 ICAM1	O
-,	O
+
 ERCC1	O
-,	O
+
 RAD51	O
-,	O
+
 and	O
 XRCC3	O
 )	O
@@ -18413,19 +18413,19 @@ free	O
 survival	O
 (	O
 DFS	O
-),	O
+)
 overall	O
 survival	O
 (	O
 OS	O
-),	O
+)
 and	O
 toxicity	O
 in	O
 the	O
 INT0144	O
 trial	O
-,	O
+
 which	O
 was	O
 designed	O
@@ -18540,7 +18540,7 @@ from	O
 formalin	B-Chemical
 -	O
 fixed	O
-,	O
+
 paraffin	B-Chemical
 -	O
 embedded	O
@@ -18613,14 +18613,14 @@ were	O
 %	O
 and	O
 58	O
-%,	O
+%
 respectively	O
-,	O
+
 for	O
 G	O
 /	O
 G	O
-,	O
+
 66	O
 %	O
 and	O
@@ -18630,7 +18630,7 @@ for	O
 G	O
 /	O
 A	O
-,	O
+
 and	O
 57	O
 %	O
@@ -18647,7 +18647,7 @@ patients	O
 In	O
 arm	O
 2	O
-,	O
+
 IL8	O
 -	O
 251A	O
@@ -18715,11 +18715,11 @@ arm	O
 .	O
 	
 However	O
-,	O
+
 in	O
 arm	O
 1	O
-,	O
+
 this	O
 genotype	O
 was	O
@@ -18765,7 +18765,7 @@ different	O
 associations	O
 with	O
 toxicity	O
-,	O
+
 according	O
 to	O
 the	O
@@ -19023,20 +19023,20 @@ Three	O
 F5	O
 gene	O
 mutations	O
-,	O
+
 IVS8	O
 -	O
 2A	O
 >	O
 G	O
-,	O
+
 2238	O
 -	O
 9del	O
 AG	O
 and	O
 G6410T	O
-,	O
+
 have	O
 been	O
 identified	O
@@ -19048,7 +19048,7 @@ with	O
 congenital	O
 FV	O
 deficiency	O
-,	O
+
 respectively	O
 .	O
 	
@@ -19100,7 +19100,7 @@ mg	O
 /	O
 kg	O
 ip	O
-),	O
+)
 a	O
 relatively	O
 selective	O
@@ -19143,7 +19143,7 @@ mg	O
 /	O
 kg	O
 ip	O
-),	O
+)
 on	O
 antihyperalgesic	O
 action	O
@@ -19194,7 +19194,7 @@ kg	O
 ip	O
 )	O
 respectively	O
-,	O
+
 in	O
 model	O
 of	O
@@ -19286,7 +19286,7 @@ not	O
 7	B-Chemical
 -	I-Chemical
 NI	I-Chemical
-,	O
+
 significantly	O
 increases	O
 antihyperalgesic	O
@@ -19331,7 +19331,7 @@ vincristine	B-Chemical
 .	O
 	
 Moreover	O
-,	O
+
 L	B-Chemical
 -	I-Chemical
 NOArg	I-Chemical
@@ -19392,7 +19392,7 @@ streptozotocin	B-Chemical
 -	O
 induced	O
 hyperalgesia	O
-,	O
+
 inducible	O
 NO	O
 synthase	O
@@ -19402,7 +19402,7 @@ pronociceptive	O
 activity	O
 of	O
 bradykinin	O
-,	O
+
 whereas	O
 in	O
 vincristine	B-Chemical
@@ -19420,7 +19420,7 @@ pathway	O
 .	O
 	
 Therefore	O
-,	O
+
 concomitant	O
 administration	O
 of	O
@@ -19442,7 +19442,7 @@ alleviation	O
 of	O
 neuropathic	O
 pain	O
-,	O
+
 even	O
 in	O
 hospital	O
@@ -19484,7 +19484,7 @@ disease	O
 of	O
 premature	O
 birth	O
-,	O
+
 characterized	O
 by	O
 impaired	O
@@ -19504,7 +19504,7 @@ understood	O
 .	O
 	
 However	O
-,	O
+
 it	O
 is	O
 assumed	O
@@ -19521,7 +19521,7 @@ diseases	O
 of	O
 preterm	O
 neonates	O
-,	O
+
 such	O
 as	O
 neonatal	O
@@ -19535,7 +19535,7 @@ RDS	O
 For	O
 association	O
 studies	O
-,	O
+
 genes	O
 upregulated	O
 during	O
@@ -19546,10 +19546,10 @@ candidates	O
 for	O
 genetic	O
 analysis	O
-,	O
+
 for	O
 example	O
-,	O
+
 matrix	O
 metalloproteinases	O
 (	O
@@ -19610,43 +19610,43 @@ RFLP	O
 MMP	O
 -	O
 1	O
-,	O
+
 -	O
 2	O
-,	O
+
 -	O
 9	O
-,	O
+
 and	O
 -	O
 12	O
-,	O
+
 -	O
 16	O
-,	O
+
 FGF	O
 receptors	O
 2	O
 and	O
 4	O
-,	O
+
 FGF	O
 -	O
 2	O
-,	O
+
 -	O
 3	O
-,	O
+
 -	O
 4	O
-,	O
+
 -	O
 7	O
-,	O
+
 and	O
 -	O
 18	O
-,	O
+
 Signal	O
 -	O
 Regulatory	O
@@ -19680,19 +19680,19 @@ in	O
 MMP	O
 -	O
 9	O
-,	O
+
 MMP	O
 -	O
 12	O
-,	O
+
 FGFR	O
 -	O
 4	O
-,	O
+
 FGF	O
 -	O
 3	O
-,	O
+
 and	O
 FGF	O
 -	O
@@ -19708,7 +19708,7 @@ P	O
 )	O
 with	O
 RDS	O
-,	O
+
 defined	O
 as	O
 surfactant	O
@@ -19725,14 +19725,14 @@ birth	O
 One	O
 of	O
 them	O
-,	O
+
 in	O
 FGFR	O
 -	O
 4	O
 (	O
 rs1966265	O
-),	O
+)
 is	O
 associated	O
 with	O
@@ -19880,7 +19880,7 @@ In	O
 the	O
 present	O
 study	O
-,	O
+
 we	O
 confirmed	O
 the	O
@@ -19958,7 +19958,7 @@ upregulated	O
 mesenchymal	O
 marker	O
 proteins	O
-,	O
+
 N	O
 -	O
 cadherin	O
@@ -19976,12 +19976,12 @@ cadherin	O
 .	O
 	
 Subsequently	O
-,	O
+
 through	O
 western	O
 blot	O
 assay	O
-,	O
+
 we	O
 found	O
 that	O
@@ -20024,7 +20024,7 @@ tail	O
 vein	O
 of	O
 rats	O
-,	O
+
 compared	O
 with	O
 the	O
@@ -20097,7 +20097,7 @@ vein	O
 SMV	O
 )	O
 thrombosis	O
-,	O
+
 which	O
 was	O
 refractory	O
@@ -20127,7 +20127,7 @@ rate	O
 .	O
 	
 However	O
-,	O
+
 successful	O
 anticoagulation	O
 was	O
@@ -20138,7 +20138,7 @@ of	O
 direct	O
 thrombin	O
 inhibitor	O
-,	O
+
 argatroban	B-Chemical
 .	O
 	
@@ -20176,7 +20176,7 @@ at	O
 7916	O
 and	O
 7917	O
-,	O
+
 Glu	O
 272	O
 to	O
@@ -20231,14 +20231,14 @@ antipsychotics	B-Chemical
 such	O
 as	O
 risperidone	B-Chemical
-,	O
+
 olanzapine	B-Chemical
 and	O
 ziprasidone	B-Chemical
 .	O
 	
 However	O
-,	O
+
 there	O
 are	O
 two	O
@@ -20250,13 +20250,13 @@ tic	O
 -	O
 like	O
 symptoms	O
-,	O
+
 including	O
 motor	O
 and	O
 phonic	O
 variants	O
-,	O
+
 occurring	O
 during	O
 treatment	O
@@ -20320,7 +20320,7 @@ day	O
 .	O
 	
 However	O
-,	O
+
 her	O
 psychosis	O
 recurred	O
@@ -20388,7 +20388,7 @@ with	O
 previously	O
 reported	O
 cases	O
-,	O
+
 our	O
 patient	O
 suggests	O
@@ -20411,9 +20411,9 @@ antipsychotics	B-Chemical
 such	O
 as	O
 quetiapine	B-Chemical
-,	O
+
 clozapine	B-Chemical
-,	O
+
 or	O
 amisulpride	B-Chemical
 .	O
@@ -20484,7 +20484,7 @@ serum	O
 potassium	B-Chemical
 was	O
 high	O
-,	O
+
 and	O
 normal	O
 sinus	O
@@ -20512,11 +20512,11 @@ several	O
 doses	O
 of	O
 spiranolactone	B-Chemical
-,	O
+
 an	O
 aldosterone	B-Chemical
 antagonist	O
-,	O
+
 in	O
 addition	O
 to	O
@@ -20527,7 +20527,7 @@ term	O
 intake	O
 of	O
 ramipril	B-Chemical
-,	O
+
 an	O
 ACE	O
 inhibitor	O
@@ -20560,7 +20560,7 @@ the	O
 possibility	O
 of	O
 hyperkalemia	O
-,	O
+
 especially	O
 in	O
 elderly	O
@@ -20601,7 +20601,7 @@ mutation	O
 .	O
 	
 Clinical	O
-,	O
+
 laboratory	O
 and	O
 genetic	O
@@ -20644,11 +20644,11 @@ one	O
 son	O
 aged	O
 30	O
-,	O
+
 29	O
 and	O
 27	O
-,	O
+
 respectively	O
 .	O
 	
@@ -20664,9 +20664,9 @@ childhood	O
 	
 In	O
 proband	O
-,	O
+
 PT	O
-,	O
+
 PTT	O
 and	O
 platelet	O
@@ -20686,7 +20686,7 @@ VIII	O
 C	O
 was	O
 51	O
-%,	O
+%
 von	O
 Willebrand	O
 factor	O
@@ -20695,7 +20695,7 @@ antigen	O
 VWF	O
 :	O
 Ag	O
-),	O
+)
 42	O
 %	O
 and	O
@@ -20709,7 +20709,7 @@ cofactor	O
 VWF	O
 :	O
 RCo	O
-,	O
+
 15	O
 %);	O
 ristocetin	O
@@ -20738,7 +20738,7 @@ was	O
 %	O
 and	O
 68	O
-%,	O
+%
 respectively	O
 .	O
 	
@@ -20753,12 +20753,12 @@ to	O
 be	O
 in	O
 plasma	O
-,	O
+
 not	O
 in	O
 platelet	O
 itself	O
-,	O
+
 by	O
 mixing	O
 studies	O
@@ -20872,7 +20872,7 @@ plasma	O
 VWF	O
 for	O
 platelets	O
-,	O
+
 and	O
 thus	O
 cause	O
@@ -20887,7 +20887,7 @@ thrombocytopenia	O
 	
 In	O
 conclusion	O
-,	O
+
 a	O
 first	O
 report	O
@@ -20962,7 +20962,7 @@ in	O
 type	O
 2	O
 diabetes	O
-,	O
+
 we	O
 performed	O
 a	O
@@ -20972,7 +20972,7 @@ wide	O
 analysis	O
 of	O
 115	O
-,	O
+
 352	O
 single	O
 nucleotide	O
@@ -21018,7 +21018,7 @@ statistic	O
 of	O
 ranked	O
 SNPs	O
-,	O
+
 we	O
 identified	O
 a	O
@@ -21053,7 +21053,7 @@ individuals	O
 comprising	O
 each	O
 pool	O
-,	O
+
 and	O
 strong	O
 evidence	O
@@ -21086,7 +21086,7 @@ CI	O
 3	O
 .	O
 96	O
-]),	O
+])
 which	O
 is	O
 located	O
@@ -21103,12 +21103,12 @@ We	O
 sequenced	O
 all	O
 exons	O
-,	O
+
 exon	O
 -	O
 intron	O
 boundaries	O
-,	O
+
 and	O
 the	O
 promoter	O
@@ -21118,7 +21118,7 @@ and	O
 identified	O
 47	O
 variants	O
-,	O
+
 11	O
 of	O
 which	O
@@ -21209,7 +21209,7 @@ P	O
 4	O
 .	O
 65	O
-]),	O
+])
 which	O
 maps	O
 to	O
@@ -21220,7 +21220,7 @@ PVT1	O
 .	O
 	
 Together	O
-,	O
+
 these	O
 results	O
 suggest	O
@@ -21274,11 +21274,11 @@ adipokine	O
 with	O
 potent	O
 antidiabetic	O
-,	O
+
 anti	O
 -	O
 inflammatory	O
-,	O
+
 and	O
 antiatherogenic	O
 activity	O
@@ -21287,7 +21287,7 @@ activity	O
 Long	O
 -	O
 term	O
-,	O
+
 high	O
 -	O
 fat	O
@@ -21298,16 +21298,16 @@ gain	O
 of	O
 body	O
 weight	O
-,	O
+
 adiposity	O
-,	O
+
 further	O
 inflammatory	O
 -	O
 based	O
 cardiovascular	O
 diseases	O
-,	O
+
 and	O
 reduced	O
 adiponectin	O
@@ -21326,7 +21326,7 @@ several	O
 of	O
 these	O
 processes	O
-,	O
+
 which	O
 mainly	O
 take	O
@@ -21342,7 +21342,7 @@ WAT	O
 In	O
 this	O
 study	O
-,	O
+
 we	O
 examined	O
 adiponectin	O
@@ -21383,10 +21383,10 @@ dehydrogenase	O
 A1	O
 (	O
 ALDH1A1	O
-),	O
+)
 retinoid	O
 signaling	O
-,	O
+
 and	O
 retinoic	B-Chemical
 acid	I-Chemical
@@ -21406,7 +21406,7 @@ normal	O
 -	O
 vitamin	B-Chemical
 A	I-Chemical
-,	O
+
 high	O
 -	O
 fat	O
@@ -21453,7 +21453,7 @@ RARg	O
 -	O
 selective	O
 agonists	O
-,	O
+
 as	O
 well	O
 as	O
@@ -21463,12 +21463,12 @@ retinoid	O
 X	O
 receptor	O
 agonist	O
-,	O
+
 efficiently	O
 reduced	O
 adiponectin	O
 expression	O
-,	O
+
 whereas	O
 ALDH1A1	O
 expression	O
@@ -21501,7 +21501,7 @@ ALDH1A1	O
 expression	O
 in	O
 adipocytes	O
-,	O
+
 which	O
 does	O
 not	O
@@ -21521,11 +21521,11 @@ RAR	O
 ligand	O
 -	O
 induced	O
-,	O
+
 WAT	O
 -	O
 selective	O
-,	O
+
 increased	O
 retinoic	B-Chemical
 acid	I-Chemical
@@ -21548,56 +21548,56 @@ adiponectin	O
 expression	O
 .-	O
 Landrier	O
-,	O
+
 J	O
 .-	O
 F	O
-.,	O
+.
 Kasiri	O
-,	O
+
 E	O
-.,	O
+.
 Karkeni	O
-,	O
+
 E	O
-.,	O
+.
 Mihaly	O
-,	O
+
 J	O
-.,	O
+.
 Beke	O
-,	O
+
 G	O
-.,	O
+.
 Weiss	O
-,	O
+
 K	O
-.,	O
+.
 Lucas	O
-,	O
+
 R	O
-.,	O
+.
 Aydemir	O
-,	O
+
 G	O
-.,	O
+.
 Salles	O
-,	O
+
 J	O
-.,	O
+.
 Walrand	O
-,	O
+
 S	O
-.,	O
+.
 de	O
 Lera	O
-,	O
+
 A	O
 .	O
 R	O
-.,	O
+.
 Ruhl	O
-,	O
+
 R	O
 .	O
 Reduced	O
@@ -21642,12 +21642,12 @@ response	O
 in	O
 allergic	O
 asthma	O
-,	O
+
 but	O
 not	O
 lung	O
 mechanics	O
-,	O
+
 in	O
 female	O
 mice	O
@@ -21734,7 +21734,7 @@ and	O
 challenge	O
 were	O
 conducted	O
-,	O
+
 and	O
 AHR	O
 to	O
@@ -21751,15 +21751,15 @@ Changes	O
 in	O
 gene	O
 expression	O
-,	O
+
 chemokine	O
 and	O
 cytokine	O
 secretion	O
-,	O
+
 plasma	O
 IgE	O
-,	O
+
 and	O
 lung	O
 histology	O
@@ -21769,12 +21769,12 @@ using	O
 RT	O
 -	O
 qPCR	O
-,	O
+
 ELISA	O
-,	O
+
 and	O
 immunohistochemistry	O
-,	O
+
 respectively	O
 .	O
 	
@@ -21793,7 +21793,7 @@ OVA	O
 -	O
 induced	O
 AHR	O
-,	O
+
 but	O
 attenuated	O
 OVA	O
@@ -21806,19 +21806,19 @@ of	O
 Arg2	O
 and	O
 Nos2	O
-,	O
+
 Slc7a1	O
-,	O
+
 Slc7a2	O
-,	O
+
 and	O
 Slc7a7	O
 (	O
 arginine	O
 transporters	O
-),	O
+)
 Il4	O
-,	O
+
 Il5	O
 and	O
 Il13	O
@@ -21827,20 +21827,20 @@ TH2	O
 -	O
 type	O
 cytokines	O
-),	O
+)
 Ccl2	O
 and	O
 Ccl11	O
 (	O
 chemokines	O
-),	O
+)
 Ifng	O
 (	O
 TH1	O
 -	O
 type	O
 cytokine	O
-),	O
+)
 Clca3	O
 and	O
 Muc5ac	O
@@ -21848,7 +21848,7 @@ Muc5ac	O
 goblet	O
 cell	O
 markers	O
-),	O
+)
 and	O
 OVA	O
 -	O
@@ -21863,29 +21863,29 @@ IL	O
 protein	O
 content	O
 increased	O
-,	O
+
 but	O
 IL	O
 -	O
 4	O
-,	O
+
 IL	O
 -	O
 5	O
-,	O
+
 IL	O
 -	O
 13	O
-,	O
+
 TNFalpha	O
 and	O
 IFNgamma	O
 content	O
-,	O
+
 and	O
 lung	O
 histopathology	O
-,	O
+
 were	O
 not	O
 affected	O
@@ -21935,7 +21935,7 @@ IgE	O
 response	O
 than	O
 males	O
-,	O
+
 but	O
 the	O
 correlation	O
@@ -21973,12 +21973,12 @@ and	O
 -	O
 transporting	O
 genes	O
-,	O
+
 higher	O
 plasma	O
 arginine	O
 levels	O
-,	O
+
 a	O
 smaller	O
 OVA	O
@@ -21986,7 +21986,7 @@ OVA	O
 specific	O
 IgE	O
 response	O
-,	O
+
 and	O
 no	O
 improvement	O
@@ -22016,13 +22016,13 @@ and	O
 -	O
 metabolizing	O
 genes	O
-,	O
+
 and	O
 pro	O
 -	O
 inflammatory	O
 genes	O
-,	O
+
 but	O
 not	O
 methacholine	B-Chemical
@@ -22127,9 +22127,9 @@ empirically	O
 initiated	O
 with	O
 vancomycin	B-Chemical
-,	O
+
 levofloxacin	B-Chemical
-,	O
+
 and	O
 piperacillin	B-Chemical
 /	I-Chemical
@@ -22162,7 +22162,7 @@ day	O
 On	O
 day	O
 8	O
-,	O
+
 the	O
 patient	O
 developed	O
@@ -22178,7 +22178,7 @@ creatinine	B-Chemical
 mg	O
 /	O
 dL	O
-,	O
+
 increased	O
 from	O
 1	O
@@ -22210,7 +22210,7 @@ Coma	O
 Score	O
 was	O
 3	O
-,	O
+
 with	O
 normal	O
 findings	O
@@ -22244,7 +22244,7 @@ bacteremia	O
 on	O
 day	O
 9	O
-,	O
+
 increasing	O
 the	O
 suspicion	O
@@ -22308,9 +22308,9 @@ and	O
 ug	O
 /	O
 mL	O
-,	O
+
 respectively	O
-,	O
+
 prior	O
 to	O
 the	O
@@ -22379,7 +22379,7 @@ of	O
 mg	O
 /	O
 kg	O
-,	O
+
 resultant	O
 penetration	O
 of	O
@@ -22391,7 +22391,7 @@ than	O
 in	O
 previous	O
 reports	O
-,	O
+
 more	O
 consistent	O
 with	O
@@ -22460,14 +22460,14 @@ status	O
 with	O
 rheumatoid	O
 arthritis	O
-,	O
+
 systemic	O
 lupus	O
 erythematosus	O
-,	O
+
 lupus	O
 nephritis	O
-,	O
+
 and	O
 disease	O
 severity	O
@@ -22554,13 +22554,13 @@ rheumatoid	O
 arthritis	O
 (	O
 RA	O
-),	O
+)
 systemic	O
 lupus	O
 erythematosus	O
 (	O
 SLE	O
-),	O
+)
 and	O
 lupus	O
 nephritis	O
@@ -22585,15 +22585,15 @@ from	O
 405	O
 RA	O
 patients	O
-,	O
+
 97	O
 SLE	O
 patients	O
-,	O
+
 113	O
 LN	O
 patients	O
-,	O
+
 and	O
 431	O
 healthy	O
@@ -22659,7 +22659,7 @@ controls	O
 CCR5	O
 /	O
 DD32	O
-,	O
+
 DD32	O
 /	O
 DD32	O
@@ -22673,7 +22673,7 @@ and	O
 1	O
 .	O
 2	O
-%,	O
+%
 respectively	O
 ;	O
 SLE	O
@@ -22708,7 +22708,7 @@ and	O
 %).	O
 	
 However	O
-,	O
+
 there	O
 was	O
 a	O
@@ -22747,9 +22747,9 @@ disease	O
 severity	O
 in	O
 RA	O
-,	O
+
 SLE	O
-,	O
+
 or	O
 LN	O
 .	O
@@ -22764,7 +22764,7 @@ LN	O
 cannot	O
 be	O
 excluded	O
-,	O
+
 the	O
 CCR5	O
 DD32	O
@@ -22780,9 +22780,9 @@ susceptibility	O
 genotype	O
 for	O
 RA	O
-,	O
+
 SLE	O
-,	O
+
 or	O
 LN	O
 .	O
@@ -22848,7 +22848,7 @@ context	O
 of	O
 tumor	O
 angiogenesis	O
-,	O
+
 its	O
 blockade	O
 shown	O
@@ -22871,7 +22871,7 @@ inhibitors	O
 enter	O
 the	O
 clinic	O
-,	O
+
 there	O
 is	O
 an	O
@@ -22882,7 +22882,7 @@ understand	O
 their	O
 side	O
 effects	O
-,	O
+
 namely	O
 the	O
 systemic	O
@@ -22942,12 +22942,12 @@ sub	O
 lethally	O
 irradiated	O
 mice	O
-,	O
+
 resulting	O
 in	O
 increased	O
 CD31	O
-(+),	O
+(+)
 VE	O
 -	O
 Cadherin	O
@@ -22959,17 +22959,17 @@ kit	O
 (+)	O
 vessel	O
 density	O
-,	O
+
 and	O
 also	O
 increased	O
 megakaryocytes	O
-,	O
+
 whereas	O
 CD105	O
-(+),	O
+(+)
 VEGFR3	O
-(+),	O
+(+)
 SMA	O
 (+)	O
 and	O
@@ -22994,18 +22994,18 @@ Dll4	O
 treatment	O
 in	O
 vivo	O
-,	O
+
 and	O
 demonstrate	O
 that	O
 IGFbp2	O
-,	O
+
 IGFbp3	O
-,	O
+
 Angpt2	O
-,	O
+
 Dll4	O
-,	O
+
 DHH	O
 and	O
 VEGF	O
@@ -23013,7 +23013,7 @@ VEGF	O
 A	O
 are	O
 upregulated	O
-,	O
+
 while	O
 FGF1	O
 and	O
@@ -23055,14 +23055,14 @@ the	O
 BM	O
 vascular	O
 niche	O
-,	O
+
 anti	O
 -	O
 Dll4	O
 treatment	O
 perturbed	O
 hematopoiesis	O
-,	O
+
 as	O
 evidenced	O
 by	O
@@ -23070,7 +23070,7 @@ increased	O
 myeloid	O
 (	O
 CD11b	O
-(+)),	O
+(+))
 decreased	O
 B	O
 (	O
@@ -23087,7 +23087,7 @@ content	O
 of	O
 treated	O
 mice	O
-,	O
+
 with	O
 a	O
 corresponding	O
@@ -23099,7 +23099,7 @@ cells	O
 .	O
 	
 Moreover	O
-,	O
+
 anti	O
 -	O
 Dll4	O
@@ -23119,14 +23119,14 @@ colonies	O
 in	O
 methylcellulose	O
 assays	O
-,	O
+
 independently	O
 of	O
 Notch1	O
 .	O
 	
 Finally	O
-,	O
+
 anti	O
 -	O
 Dll4	O
@@ -23149,7 +23149,7 @@ setting	O
 .	O
 	
 Together	O
-,	O
+
 our	O
 data	O
 reveals	O
@@ -23176,7 +23176,7 @@ direct	O
 hematopoietic	O
 cell	O
 modulation	O
-,	O
+
 which	O
 may	O
 be	O
@@ -23279,14 +23279,14 @@ L	O
 FABP	O
 (+/-)	O
 AT1a	O
-(-/-),	O
+(-/-)
 and	O
 L	O
 -	O
 FABP	O
 (+/-)	O
 AT1a	O
-(+/+),	O
+(+/+)
 respectively	O
 )	O
 were	O
@@ -23346,7 +23346,7 @@ DOCA	B-Chemical
 -	O
 salt	O
 treatment	O
-,	O
+
 hypertension	O
 was	O
 induced	O
@@ -23356,10 +23356,10 @@ expansion	O
 of	O
 glomerular	O
 area	O
-,	O
+
 glomerular	O
 sclerosis	O
-,	O
+
 and	O
 tubulointerstitial	O
 damage	O
@@ -23381,7 +23381,7 @@ DOCA	B-Chemical
 -	O
 salt	O
 treatment	O
-,	O
+
 hypertension	O
 was	O
 similarly	O
@@ -23468,7 +23468,7 @@ pressure	O
 	
 In	O
 summary	O
-,	O
+
 activation	O
 of	O
 the	O
@@ -23488,37 +23488,37 @@ renal	O
 damage	O
 .-	O
 Hisamichi	O
-,	O
+
 M	O
-.,	O
+.
 Kamijo	O
 -	O
 Ikemori	O
-,	O
+
 A	O
-.,	O
+.
 Sugaya	O
-,	O
+
 T	O
-.,	O
+.
 Ichikawa	O
-,	O
+
 D	O
-.,	O
+.
 Natsuki	O
-,	O
+
 T	O
-.,	O
+.
 Hoshino	O
-,	O
+
 S	O
-.,	O
+.
 Kimura	O
-,	O
+
 K	O
-.,	O
+.
 Shibagaki	O
-,	O
+
 Y	O
 .	O
 Role	O
@@ -23568,7 +23568,7 @@ bacterial	O
 and	O
 fungal	O
 infections	O
-,	O
+
 but	O
 they	O
 are	O
@@ -23611,7 +23611,7 @@ susceptibility	O
 to	O
 autoimmune	O
 disease	O
-,	O
+
 notably	O
 rheumatoid	O
 arthritis	O
@@ -23625,7 +23625,7 @@ highly	O
 expressed	O
 in	O
 neutrophils	O
-,	O
+
 its	O
 function	O
 in	O
@@ -23645,16 +23645,16 @@ that	O
 neutrophil	O
 effector	O
 functions	O
-,	O
+
 including	O
 adhesion	O
-,	O
+
 production	O
 of	O
 reactive	B-Chemical
 oxygen	I-Chemical
 species	I-Chemical
-,	O
+
 and	O
 degranulation	O
 induced	O
@@ -23662,7 +23662,7 @@ by	O
 immobilized	O
 immune	O
 complexes	O
-,	O
+
 were	O
 reduced	O
 in	O
@@ -23691,7 +23691,7 @@ with	O
 immobilized	O
 immune	O
 complexes	O
-,	O
+
 Ptpn22	O
 (-/-)	O
 neutrophils	O
@@ -23715,7 +23715,7 @@ complex	O
 -	O
 mediated	O
 arthritis	O
-,	O
+
 induced	O
 by	O
 the	O
@@ -23727,7 +23727,7 @@ serum	O
 	
 In	O
 contrast	O
-,	O
+
 in	O
 vivo	O
 neutrophil	O
@@ -23762,7 +23762,7 @@ PTPN22	O
 dependent	O
 dephosphorylation	O
 events	O
-,	O
+
 which	O
 are	O
 required	O
@@ -23773,7 +23773,7 @@ FcgR	O
 -	O
 induced	O
 activation	O
-,	O
+
 pointing	O
 to	O
 an	O
@@ -23850,7 +23850,7 @@ gene	O
 	
 To	O
 date	O
-,	O
+
 almost	O
 90	O
 mutations	O
@@ -23877,7 +23877,7 @@ mutations	O
 In	O
 this	O
 study	O
-,	O
+
 we	O
 analysed	O
 mutations	O
@@ -23905,7 +23905,7 @@ from	O
 patients	O
 with	O
 GS	O
-,	O
+
 their	O
 family	O
 members	O
@@ -23948,7 +23948,7 @@ or	O
 splice	O
 site	O
 mutation	O
-,	O
+
 we	O
 undertook	O
 cDNA	O
@@ -23975,7 +23975,7 @@ c	O
 T	O
 (	O
 Thr60Met	O
-),	O
+)
 c	O
 .	O
 1712C	O
@@ -23983,7 +23983,7 @@ c	O
 T	O
 (	O
 Ala569Val	O
-),	O
+)
 c	O
 .	O
 1930C	O
@@ -23991,7 +23991,7 @@ c	O
 T	O
 (	O
 Arg642Cys	O
-),	O
+)
 c	O
 .	O
 2552T	O
@@ -24011,7 +24011,7 @@ reported	O
 in	O
 Japanese	O
 patients	O
-,	O
+
 but	O
 not	O
 in	O
@@ -24035,13 +24035,13 @@ c	O
 T	O
 (	O
 Met1Leu	O
-),	O
+)
 c	O
 .	O
 1181_1186	O
 +	O
 20del26	O
-,	O
+
 c	O
 .	O
 1811_1812delAT	O
@@ -24068,7 +24068,7 @@ c	O
 1181_1186	O
 +	O
 20del26	O
-,	O
+
 a	O
 deletion	O
 of	O
@@ -24098,7 +24098,7 @@ IVS16	O
 1G	O
 >	O
 A	O
-,	O
+
 an	O
 additional	O
 96	O
@@ -24121,7 +24121,7 @@ patients	O
 were	O
 compound	O
 heterozygotes	O
-,	O
+
 and	O
 the	O
 remaining	O
@@ -24153,7 +24153,7 @@ GS	O
 .	O
 	
 Moreover	O
-,	O
+
 our	O
 study	O
 suggests	O
@@ -24207,7 +24207,7 @@ in	O
 the	O
 urinary	O
 bladder	O
-,	O
+
 and	O
 their	O
 expression	O
@@ -24234,7 +24234,7 @@ carry	O
 their	O
 own	O
 ligands	O
-,	O
+
 which	O
 remain	O
 cryptic	O
@@ -24274,7 +24274,7 @@ genes	O
 involved	O
 in	O
 inflammation	O
-,	O
+
 the	O
 effect	O
 of	O
@@ -24313,7 +24313,7 @@ infiltration	O
 .	O
 	
 Moreover	O
-,	O
+
 the	O
 inflammatory	O
 response	O
@@ -24334,12 +24334,12 @@ coli	O
 lipopolysaccharide	B-Chemical
 (	O
 LPS	B-Chemical
-),	O
+)
 substance	B-Chemical
 P	I-Chemical
 (	O
 SP	B-Chemical
-),	O
+)
 and	O
 antigen	O
 was	O
@@ -24362,7 +24362,7 @@ deficiency	O
 RESULTS	O
 :	O
 Here	O
-,	O
+
 cDNA	O
 array	O
 experiments	O
@@ -24381,7 +24381,7 @@ activation	O
 For	O
 this	O
 purpose	O
-,	O
+
 we	O
 compared	O
 the	O
@@ -24405,9 +24405,9 @@ inflammatory	O
 stimuli	O
 (	O
 LPS	B-Chemical
-,	O
+
 SP	B-Chemical
-,	O
+
 and	O
 antigen	O
 ).	O
@@ -24462,7 +24462,7 @@ PAR1	O
 -	O
 dependent	O
 transcripts	O
-,	O
+
 the	O
 following	O
 have	O
@@ -24474,53 +24474,53 @@ inflammatory	O
 process	O
 :	O
 b2m	O
-,	O
+
 ccl7	O
-,	O
+
 cd200	O
-,	O
+
 cd63	O
-,	O
+
 cdbpd	O
-,	O
+
 cfl1	O
-,	O
+
 dusp1	O
-,	O
+
 fkbp1a	O
-,	O
+
 fth1	O
-,	O
+
 hspb1	O
-,	O
+
 marcksl1	O
-,	O
+
 mmp2	O
-,	O
+
 myo5a	O
-,	O
+
 nfkbia	O
-,	O
+
 pax1	O
-,	O
+
 plaur	O
-,	O
+
 ppia	O
-,	O
+
 ptpn1	O
-,	O
+
 ptprcap	O
-,	O
+
 s100a10	O
-,	O
+
 sim2	O
-,	O
+
 and	O
 tnfaip2	O
 .	O
 	
 However	O
-,	O
+
 a	O
 balanced	O
 response	O
@@ -24552,7 +24552,7 @@ inflammation	O
 In	O
 this	O
 context	O
-,	O
+
 the	O
 activation	O
 of	O
@@ -24588,7 +24588,7 @@ production	O
 	
 In	O
 contrast	O
-,	O
+
 transcripts	O
 such	O
 as	O
@@ -24643,7 +24643,7 @@ PAR1	O
 in	O
 bladder	O
 inflammation	O
-,	O
+
 provides	O
 a	O
 working	O
@@ -24654,7 +24654,7 @@ involvement	O
 of	O
 downstream	O
 signaling	O
-,	O
+
 and	O
 evokes	O
 testable	O
@@ -24739,7 +24739,7 @@ Manual	O
 of	O
 Mental	O
 Disorders	O
-,	O
+
 Fourth	O
 Edition	O
 criteria	O
@@ -24770,11 +24770,11 @@ selected	O
 patients	O
 with	O
 PD	O
-,	O
+
 27	O
 with	O
 MDP	O
-,	O
+
 25	O
 with	O
 major	O
@@ -24784,7 +24784,7 @@ panic	O
 attacks	O
 (	O
 MD	O
-),	O
+)
 and	O
 28	O
 healthy	O
@@ -24821,7 +24821,7 @@ occasions	O
 7	O
 days	O
 apart	O
-,	O
+
 480	O
 mg	O
 caffeine	B-Chemical
@@ -24868,7 +24868,7 @@ of	O
 patients	O
 with	O
 PD	O
-,	O
+
 44	O
 .	O
 4	O
@@ -24882,7 +24882,7 @@ of	O
 patients	O
 with	O
 MDP	O
-,	O
+
 12	O
 .	O
 0	O
@@ -24896,7 +24896,7 @@ of	O
 patients	O
 with	O
 MD	O
-,	O
+
 and	O
 7	O
 .	O
@@ -24933,7 +24933,7 @@ chi	O
 16	O
 .	O
 22	O
-,	O
+
 P	O
 =	O
 .	O
@@ -25000,7 +25000,7 @@ way	O
 analysis	O
 of	O
 variance	O
-,	O
+
 group	O
 by	O
 time	O
@@ -25014,14 +25014,14 @@ correction	O
 F	O
 (	O
 3	O
-,	O
+
 762	O
 )	O
 =	O
 2	O
 .	O
 85	O
-,	O
+
 P	O
 =	O
 .	O
@@ -25039,7 +25039,7 @@ association	O
 between	O
 panic	O
 attacks	O
-,	O
+
 no	O
 matter	O
 if	O
@@ -25048,7 +25048,7 @@ with	O
 PD	O
 or	O
 MDP	O
-,	O
+
 and	O
 hyperreactivity	O
 to	O
@@ -25094,9 +25094,9 @@ involved	O
 in	O
 cell	O
 proliferation	O
-,	O
+
 survival	O
-,	O
+
 migration	O
 and	O
 invasion	O
@@ -25117,7 +25117,7 @@ proteins	O
 .	O
 	
 However	O
-,	O
+
 the	O
 role	O
 of	O
@@ -25143,7 +25143,7 @@ unknown	O
 AIM	O
 :	O
 Here	O
-,	O
+
 we	O
 investigated	O
 TCF	O
@@ -25273,7 +25273,7 @@ Wnt	O
 beta	O
 -	O
 catenin	O
-,	O
+
 insulin	O
 /	O
 IGF	O
@@ -25306,27 +25306,27 @@ that	O
 genes	O
 (	O
 CLDN2	O
-,	O
+
 STK17B	O
-,	O
+
 SPP1	O
-,	O
+
 AXIN2	O
-,	O
+
 WISP2	O
-,	O
+
 MMP7	O
-,	O
+
 IRS1	O
-,	O
+
 ANXA1	O
-,	O
+
 CAMK2N1	O
-,	O
+
 ASPH	O
-,	O
+
 GPR56	O
-,	O
+
 CD24	O
 and	O
 JAG1	O
@@ -25340,7 +25340,7 @@ isoform	O
 in	O
 HCC	O
 cells	O
-,	O
+
 were	O
 also	O
 upregulated	O
@@ -25355,7 +25355,7 @@ tissue	O
 ;	O
 more	O
 importantly	O
-,	O
+
 10	O
 genes	O
 exhibited	O
@@ -25416,7 +25416,7 @@ Wnt	O
 beta	O
 -	O
 catenin	O
-,	O
+
 insulin	O
 /	O
 IGF	O
@@ -25430,7 +25430,7 @@ signal	O
 transduction	O
 pathway	O
 activation	O
-,	O
+
 which	O
 contribute	O
 to	O
@@ -25493,7 +25493,7 @@ pharmacological	O
 interactions	O
 between	O
 them	O
-,	O
+
 no	O
 studies	O
 have	O
@@ -25525,9 +25525,9 @@ and	O
 another	O
 anxiogenic	B-Chemical
 drug	I-Chemical
-,	O
+
 pentylenetetrazole	B-Chemical
-,	O
+
 in	O
 mice	O
 .	O
@@ -25621,7 +25621,7 @@ injections	O
 After	O
 15	O
 min	O
-,	O
+
 mice	O
 were	O
 evaluated	O
@@ -25692,7 +25692,7 @@ in	O
 the	O
 EPM	O
 test	O
-,	O
+
 whereas	O
 caffeine	B-Chemical
 (	O
@@ -25713,7 +25713,7 @@ produced	O
 an	O
 anxiogenic	O
 effect	O
-,	O
+
 apparent	O
 with	O
 decreases	O
@@ -25785,7 +25785,7 @@ is	O
 specific	O
 to	O
 caffeine	B-Chemical
-,	O
+
 instead	O
 of	O
 a	O
@@ -25797,7 +25797,7 @@ effect	O
 .	O
 	
 Thus	O
-,	O
+
 it	O
 may	O
 extend	O
@@ -25845,7 +25845,7 @@ well	O
 -	O
 known	O
 cardiotoxicity	O
-,	O
+
 the	O
 anthracyclin	B-Chemical
 doxorubicin	I-Chemical
@@ -25942,7 +25942,7 @@ monoHER	B-Chemical
 about	O
 30	O
 min	O
-),	O
+)
 it	O
 is	O
 expected	O
@@ -25967,7 +25967,7 @@ monoHER	B-Chemical
 .	O
 	
 Therefore	O
-,	O
+
 the	O
 aim	O
 of	O
@@ -25996,7 +25996,7 @@ were	O
 treated	O
 with	O
 saline	O
-,	O
+
 DOX	B-Chemical
 alone	O
 or	O
@@ -26029,9 +26029,9 @@ an	O
 interval	O
 of	O
 10	O
-,	O
+
 30	O
-,	O
+
 60	O
 or	O
 120	O
@@ -26051,7 +26051,7 @@ observation	O
 for	O
 2	O
 weeks	O
-,	O
+
 the	O
 mice	O
 were	O
@@ -26066,7 +26066,7 @@ processed	O
 for	O
 light	O
 microscopy	O
-,	O
+
 after	O
 which	O
 cardiomyocyte	O
@@ -26088,7 +26088,7 @@ Rep	O
 865	O
 -	O
 872	O
-,	O
+
 1978	O
 ).	O
 	
@@ -26195,7 +26195,7 @@ mean	O
 2	O
 .	O
 2	O
-,	O
+
 95	O
 %	O
 CI	O
@@ -26206,7 +26206,7 @@ CI	O
 4	O
 .	O
 1	O
-,	O
+
 P	O
 =	O
 0	O
@@ -26239,7 +26239,7 @@ P	O
 0	O
 .	O
 1	O
-,	O
+
 95	O
 %	O
 CI	O
@@ -26349,14 +26349,14 @@ cinacalcet	B-Chemical
 on	O
 CYP2D6	O
 activity	O
-,	O
+
 using	O
 desipramine	B-Chemical
 as	O
 a	O
 probe	O
 substrate	O
-,	O
+
 in	O
 healthy	O
 subjects	O
@@ -26378,11 +26378,11 @@ enrolled	O
 in	O
 this	O
 randomized	O
-,	O
+
 open	O
 -	O
 label	O
-,	O
+
 crossover	O
 study	O
 to	O
@@ -26401,7 +26401,7 @@ on	O
 two	O
 separate	O
 occasions	O
-,	O
+
 once	O
 alone	O
 and	O
@@ -26446,7 +26446,7 @@ Relative	O
 to	O
 desipramine	B-Chemical
 alone	O
-,	O
+
 mean	O
 AUC	O
 and	O
@@ -26479,7 +26479,7 @@ t	O
 1	O
 /	O
 2	O
-,	O
+
 z	O
 )	O
 of	O
@@ -26535,7 +26535,7 @@ cinacalcet	B-Chemical
 33	O
 versus	O
 86	O
-%),	O
+%)
 the	O
 most	O
 frequent	O
@@ -26583,7 +26583,7 @@ concomitant	O
 treatment	O
 with	O
 cinacalcet	B-Chemical
-,	O
+
 dose	O
 adjustment	O
 may	O
@@ -26611,7 +26611,7 @@ like	O
 profile	O
 of	O
 thioperamide	B-Chemical
-,	O
+
 a	O
 selective	O
 H3	O
@@ -26663,7 +26663,7 @@ neuroleptic	B-Chemical
 -	O
 induced	O
 catalepsy	O
-,	O
+
 apomorphine	B-Chemical
 -	O
 induced	O
@@ -26694,7 +26694,7 @@ p	O
 o	O
 .	O
 	
-),	O
+)
 while	O
 apomorphine	B-Chemical
 (	O
@@ -26730,7 +26730,7 @@ behavior	O
 and	O
 locomotor	O
 activities	O
-,	O
+
 respectively	O
 .	O
 	
@@ -26768,7 +26768,7 @@ i	O
 p	O
 .	O
 	
-),	O
+)
 per	O
 se	O
 did	O
@@ -26784,7 +26784,7 @@ THP	B-Chemical
 3	O
 .	O
 75	O
-,	O
+
 7	O
 .	O
 5	O
@@ -26823,7 +26823,7 @@ P	O
 ).	O
 	
 However	O
-,	O
+
 pretreatment	O
 with	O
 RAMH	B-Chemical
@@ -26853,7 +26853,7 @@ reduction	O
 in	O
 locomotor	O
 time	O
-,	O
+
 distance	O
 traveled	O
 and	O
@@ -26886,7 +26886,7 @@ amphetamine	B-Chemical
 -	O
 induced	O
 hyperactivity	O
-,	O
+
 THP	B-Chemical
 (	O
 3	O
@@ -26907,7 +26907,7 @@ p	O
 reduced	O
 locomotor	O
 time	O
-,	O
+
 distance	O
 traveled	O
 and	O
@@ -26971,9 +26971,9 @@ Such	O
 an	O
 effect	O
 was	O
-,	O
+
 however	O
-,	O
+
 reversed	O
 in	O
 presence	O
@@ -26994,7 +26994,7 @@ haloperidol	B-Chemical
 -	O
 induced	O
 catalepsy	O
-,	O
+
 reducing	O
 amphetamine	B-Chemical
 -	O
@@ -27081,10 +27081,10 @@ extrapyramidal	O
 symptoms	O
 (	O
 EPS	O
-),	O
+)
 including	O
 akathisia	O
-,	O
+
 with	O
 quetiapine	B-Chemical
 in	O
@@ -27103,13 +27103,13 @@ from	O
 four	O
 similarly	O
 designed	O
-,	O
+
 randomized	O
-,	O
+
 double	O
 -	O
 blind	O
-,	O
+
 3	O
 -	O
 to	O
@@ -27143,7 +27143,7 @@ placebo	O
 n	O
 =	O
 198	O
-),	O
+)
 with	O
 lithium	B-Chemical
 or	O
@@ -27177,7 +27177,7 @@ stabilizer	O
 lithium	B-Chemical
 or	O
 divalproex	B-Chemical
-,	O
+
 QTP	B-Chemical
 +	O
 Li	B-Chemical
@@ -27220,7 +27220,7 @@ Angus	O
 Scale	O
 (	O
 SAS	O
-),	O
+)
 the	O
 Barnes	O
 Akathisia	O
@@ -27228,7 +27228,7 @@ Rating	O
 Scale	O
 (	O
 BARS	O
-),	O
+)
 adverse	O
 event	O
 reports	O
@@ -27248,10 +27248,10 @@ EPS	O
 related	O
 adverse	O
 events	O
-,	O
+
 including	O
 akathisia	O
-,	O
+
 was	O
 no	O
 different	O
@@ -27273,7 +27273,7 @@ placebo	O
 %).	O
 	
 Similarly	O
-,	O
+
 EPS	O
 -	O
 related	O
@@ -27328,7 +27328,7 @@ n	O
 99	O
 )	O
 monotherapy	O
-,	O
+
 whereas	O
 26	O
 .	O
@@ -27375,7 +27375,7 @@ placebo	O
 6	O
 .	O
 1	O
-%),	O
+%)
 and	O
 with	O
 QTP	B-Chemical
@@ -27431,7 +27431,7 @@ quetiapine	B-Chemical
 %);	O
 cerebellar	O
 tremor	O
-,	O
+
 which	O
 is	O
 a	O
@@ -27440,7 +27440,7 @@ adverse	O
 effect	O
 of	O
 lithium	B-Chemical
-,	O
+
 may	O
 have	O
 contributed	O
@@ -27481,7 +27481,7 @@ versus	O
 5	O
 .	O
 9	O
-%),	O
+%)
 tremor	O
 (	O
 30	O
@@ -27492,7 +27492,7 @@ versus	O
 7	O
 .	O
 8	O
-%),	O
+%)
 and	O
 extrapyramidal	O
 syndrome	O
@@ -27543,15 +27543,15 @@ CONCLUSIONS	O
 In	O
 bipolar	O
 mania	O
-,	O
+
 the	O
 incidence	O
 of	O
 EPS	O
-,	O
+
 including	O
 akathisia	O
-,	O
+
 with	O
 quetiapine	B-Chemical
 therapy	O
@@ -27642,12 +27642,12 @@ episode	O
 schizophrenia	O
 (	O
 75	O
-%),	O
+%)
 schizophreniform	O
 disorder	O
 (	O
 17	O
-%),	O
+%)
 or	O
 schizoaffective	O
 disorder	O
@@ -27696,7 +27696,7 @@ olanzapine	B-Chemical
 43	O
 .	O
 7	O
-%,	O
+%
 95	O
 %	O
 CI	O
@@ -27715,7 +27715,7 @@ risperidone	B-Chemical
 54	O
 .	O
 3	O
-%,	O
+%
 95	O
 %	O
 CI	O
@@ -27734,7 +27734,7 @@ those	O
 responding	O
 to	O
 treatment	O
-,	O
+
 more	O
 subjects	O
 in	O
@@ -27745,7 +27745,7 @@ group	O
 40	O
 .	O
 9	O
-%,	O
+%
 95	O
 %	O
 CI	O
@@ -27767,7 +27767,7 @@ group	O
 18	O
 .	O
 9	O
-%,	O
+%
 95	O
 %	O
 CI	O
@@ -28006,7 +28006,7 @@ to	O
 those	O
 with	O
 olanzapine	B-Chemical
-,	O
+
 and	O
 response	O
 may	O
@@ -28033,7 +28033,7 @@ substantial	O
 rapid	O
 weight	O
 gain	O
-,	O
+
 but	O
 weight	O
 gain	O
@@ -28138,7 +28138,7 @@ COX	B-Chemical
 -	I-Chemical
 2	I-Chemical
 inhibitors	I-Chemical
-,	O
+
 NS	O
 -	O
 NSAIDs	B-Chemical
@@ -28210,25 +28210,25 @@ aspirin	B-Chemical
 were	O
 :	O
 75	O
-,	O
+
 761	O
 to	O
 acetaminophen	B-Chemical
-,	O
+
 42	O
-,	O
+
 671	O
 to	O
 rofecoxib	B-Chemical
 65	O
-,	O
+
 860	O
 to	O
 celecoxib	B-Chemical
-,	O
+
 and	O
 37	O
-,	O
+
 495	O
 to	O
 NS	O
@@ -28240,24 +28240,24 @@ Among	O
 users	O
 of	O
 aspirin	B-Chemical
-,	O
+
 they	O
 were	O
 :	O
 14	O
-,	O
+
 671	O
 to	O
 rofecoxib	B-Chemical
-,	O
+
 22	O
-,	O
+
 875	O
 to	O
 celecoxib	B-Chemical
-,	O
+
 9	O
-,	O
+
 832	O
 to	O
 NS	O
@@ -28265,7 +28265,7 @@ NS	O
 NSAIDs	B-Chemical
 and	O
 38	O
-,	O
+
 48	O
 to	O
 acetaminophen	B-Chemical
@@ -28277,7 +28277,7 @@ non	O
 users	O
 of	O
 aspirin	B-Chemical
-,	O
+
 the	O
 adjusted	O
 hazard	O
@@ -28313,11 +28313,11 @@ rofecoxib	B-Chemical
 1	O
 .	O
 13	O
-,	O
+
 1	O
 .	O
 42	O
-),	O
+)
 celecoxib	B-Chemical
 0	O
 .	O
@@ -28326,11 +28326,11 @@ celecoxib	B-Chemical
 0	O
 .	O
 83	O
-,	O
+
 1	O
 .	O
 3	O
-),	O
+)
 naproxen	B-Chemical
 1	O
 .	O
@@ -28339,11 +28339,11 @@ naproxen	B-Chemical
 1	O
 .	O
 31	O
-,	O
+
 1	O
 .	O
 93	O
-),	O
+)
 diclofenac	B-Chemical
 1	O
 .	O
@@ -28352,7 +28352,7 @@ diclofenac	B-Chemical
 0	O
 .	O
 99	O
-,	O
+
 1	O
 .	O
 38	O
@@ -28366,7 +28366,7 @@ ibuprofen	B-Chemical
 0	O
 .	O
 74	O
-,	O
+
 1	O
 .	O
 51	O
@@ -28376,7 +28376,7 @@ Among	O
 users	O
 of	O
 aspirin	B-Chemical
-,	O
+
 they	O
 were	O
 :	O
@@ -28388,11 +28388,11 @@ rofecoxib	B-Chemical
 1	O
 .	O
 52	O
-,	O
+
 1	O
 .	O
 98	O
-),	O
+)
 celecoxib	B-Chemical
 1	O
 .	O
@@ -28401,11 +28401,11 @@ celecoxib	B-Chemical
 1	O
 .	O
 19	O
-,	O
+
 1	O
 .	O
 52	O
-),	O
+)
 ibuprofen	B-Chemical
 1	O
 .	O
@@ -28414,11 +28414,11 @@ ibuprofen	B-Chemical
 0	O
 .	O
 95	O
-,	O
+
 2	O
 .	O
 41	O
-),	O
+)
 diclofenac	B-Chemical
 1	O
 .	O
@@ -28427,11 +28427,11 @@ diclofenac	B-Chemical
 1	O
 .	O
 35	O
-,	O
+
 2	O
 .	O
 10	O
-),	O
+)
 naproxen	B-Chemical
 1	O
 .	O
@@ -28440,7 +28440,7 @@ naproxen	B-Chemical
 0	O
 .	O
 97	O
-,	O
+
 1	O
 .	O
 88	O
@@ -28454,7 +28454,7 @@ acetaminophen	B-Chemical
 1	O
 .	O
 17	O
-,	O
+
 1	O
 .	O
 42	O
@@ -28468,7 +28468,7 @@ non	O
 users	O
 of	O
 aspirin	B-Chemical
-,	O
+
 naproxen	B-Chemical
 seemed	O
 to	O
@@ -28515,7 +28515,7 @@ Among	O
 users	O
 of	O
 aspirin	B-Chemical
-,	O
+
 both	O
 celecoxib	B-Chemical
 and	O
@@ -28574,11 +28574,11 @@ reported	O
 	
 A	O
 man	O
-,	O
+
 25	O
 years	O
 old	O
-,	O
+
 was	O
 admitted	O
 to	O
@@ -28586,11 +28586,11 @@ hospital	O
 with	O
 high	O
 fever	O
-,	O
+
 chill	O
-,	O
+
 vomiting	O
-,	O
+
 jaundice	O
 .	O
 	
@@ -28599,33 +28599,33 @@ patient	O
 was	O
 fully	O
 conscious	O
-,	O
+
 blood	O
 pressure	O
 120	O
 /	O
 80	O
 mmHg	O
-,	O
+
 pulse	O
 rate	O
 100	O
 x	O
 /	O
 minute	O
-,	O
+
 regular	O
 .	O
 	
 On	O
 admission	O
-,	O
+
 laboratory	O
 examination	O
 showed	O
 Plasmodium	O
 falciparum	O
-(++++),	O
+(++++)
 total	O
 bilirubin	B-Chemical
 8	O
@@ -28634,7 +28634,7 @@ bilirubin	B-Chemical
 mg	O
 /	O
 dL	O
-,	O
+
 conjugated	O
 bilirubin	B-Chemical
 4	O
@@ -28643,7 +28643,7 @@ bilirubin	B-Chemical
 mg	O
 /	O
 dL	O
-,	O
+
 unconjugated	O
 bilirubin	B-Chemical
 3	O
@@ -28652,7 +28652,7 @@ bilirubin	B-Chemical
 mg	O
 /	O
 dL	O
-,	O
+
 potassium	B-Chemical
 3	O
 .	O
@@ -28691,11 +28691,11 @@ the	O
 patient	O
 had	O
 vomitus	O
-,	O
+
 diarrhea	O
-,	O
+
 tinnitus	O
-,	O
+
 loss	O
 of	O
 hearing	O
@@ -28729,15 +28729,15 @@ PVC	O
 x	O
 /	O
 minute	O
-,	O
+
 trigemini	O
-,	O
+
 constant	O
 type	O
 --	O
 sinoatrial	O
 block	O
-,	O
+
 positive	O
 U	O
 wave	O
@@ -28787,7 +28787,7 @@ the	O
 patient	O
 felt	O
 better	O
-,	O
+
 the	O
 frequency	O
 of	O
@@ -28808,7 +28808,7 @@ day	O
 ECG	O
 was	O
 normal	O
-,	O
+
 potassium	B-Chemical
 level	O
 was	O
@@ -28832,10 +28832,10 @@ condition	O
 .	O
 	
 Quinine	B-Chemical
-,	O
+
 like	O
 quinidine	B-Chemical
-,	O
+
 is	O
 a	O
 chincona	B-Chemical
@@ -28846,7 +28846,7 @@ anti	O
 -	O
 arrhythmic	O
 property	O
-,	O
+
 although	O
 it	O
 also	O
@@ -28858,7 +28858,7 @@ can	O
 cause	O
 various	O
 arrhythmias	O
-,	O
+
 including	O
 severe	O
 arrhythmia	O
@@ -28887,7 +28887,7 @@ pro	O
 -	O
 arrhythmic	O
 effect	O
-,	O
+
 especially	O
 in	O
 older	O
@@ -28923,9 +28923,9 @@ Succimer	B-Chemical
 chelation	O
 improves	O
 learning	O
-,	O
+
 attention	O
-,	O
+
 and	O
 arousal	O
 regulation	O
@@ -28969,7 +28969,7 @@ levels	O
 .	O
 	
 However	O
-,	O
+
 very	O
 few	O
 studies	O
@@ -28985,7 +28985,7 @@ Pb	B-Chemical
 -	O
 exposed	O
 children	O
-,	O
+
 or	O
 whether	O
 these	O
@@ -29017,7 +29017,7 @@ to	O
 answer	O
 these	O
 questions	O
-,	O
+
 using	O
 a	O
 rodent	O
@@ -29031,7 +29031,7 @@ and	O
 treatment	O
 with	O
 succimer	B-Chemical
-,	O
+
 a	O
 widely	O
 used	O
@@ -29054,16 +29054,16 @@ lasting	O
 impairments	O
 in	O
 learning	O
-,	O
+
 attention	O
-,	O
+
 inhibitory	O
 control	O
-,	O
+
 and	O
 arousal	O
 regulation	O
-,	O
+
 paralleling	O
 the	O
 areas	O
@@ -29088,13 +29088,13 @@ rats	O
 significantly	O
 improved	O
 learning	O
-,	O
+
 attention	O
-,	O
+
 and	O
 arousal	O
 regulation	O
-,	O
+
 although	O
 the	O
 efficacy	O
@@ -29119,7 +29119,7 @@ deficit	O
 	
 In	O
 contrast	O
-,	O
+
 succimer	B-Chemical
 treatment	O
 of	O
@@ -29158,11 +29158,11 @@ are	O
 the	O
 first	O
 data	O
-,	O
+
 to	O
 our	O
 knowledge	O
-,	O
+
 to	O
 show	O
 that	O
@@ -29207,7 +29207,7 @@ children	O
 .	O
 	
 However	O
-,	O
+
 they	O
 also	O
 suggest	O
@@ -29272,14 +29272,14 @@ damage	O
 In	O
 this	O
 study	O
-,	O
+
 we	O
 examined	O
 the	O
 roles	O
 of	O
 lipopolysaccharide	B-Chemical
-,	O
+
 a	O
 pro	O
 -	O
@@ -29287,7 +29287,7 @@ inflammatory	O
 and	O
 inflammatory	O
 factor	O
-,	O
+
 treatment	O
 in	O
 modulating	O
@@ -29362,7 +29362,7 @@ was	O
 administered	O
 two	O
 weeks	O
-,	O
+
 one	O
 day	O
 before	O
@@ -29372,7 +29372,7 @@ the	O
 methamphetamine	B-Chemical
 dosing	O
 regimen	O
-,	O
+
 methamphetamine	B-Chemical
 -	O
 induced	O
@@ -29391,7 +29391,7 @@ unaltered	O
 .	O
 	
 Moreover	O
-,	O
+
 systemic	O
 lipopolysaccharide	B-Chemical
 pretreatment	O
@@ -29419,7 +29419,7 @@ depletions	O
 in	O
 the	O
 striatum	O
-,	O
+
 indicating	O
 that	O
 the	O
@@ -29472,10 +29472,10 @@ messenger	O
 ribonucleic	B-Chemical
 acid	I-Chemical
 levels	O
-,	O
+
 prolactin	O
 signaling	O
-,	O
+
 and	O
 hyperprolactinemic	O
 inhibition	O
@@ -29508,7 +29508,7 @@ to	O
 contribute	O
 to	O
 this	O
-,	O
+
 the	O
 mechanisms	O
 are	O
@@ -29562,7 +29562,7 @@ frequency	O
 in	O
 ovariectomized	O
 rats	O
-,	O
+
 but	O
 only	O
 in	O
@@ -29644,7 +29644,7 @@ and	O
 sensitivity	O
 to	O
 prolactin	O
-,	O
+
 we	O
 next	O
 demonstrated	O
@@ -29660,7 +29660,7 @@ activation	O
 .	O
 	
 Lastly	O
-,	O
+
 we	O
 measured	O
 PRL	O
@@ -29680,7 +29680,7 @@ and	O
 3	O
 and	O
 CIS	O
-,	O
+
 which	O
 reflect	O
 the	O
@@ -29709,13 +29709,13 @@ the	O
 medial	O
 preoptic	O
 area	O
-,	O
+
 where	O
 GnRH	O
 neurons	O
 are	O
 regulated	O
-,	O
+
 but	O
 in	O
 the	O
@@ -29724,15 +29724,15 @@ nucleus	O
 and	O
 choroid	O
 plexus	O
-,	O
+
 PRL	O
 -	O
 R	O
-,	O
+
 SOCS	O
 -	O
 3	O
-,	O
+
 and	O
 CIS	O
 mRNA	O
@@ -29755,18 +29755,18 @@ CIS	O
 .	O
 	
 Interestingly	O
-,	O
+
 estradiol	B-Chemical
 also	O
 induced	O
 PRL	O
 -	O
 R	O
-,	O
+
 SOCS	O
 -	O
 3	O
-,	O
+
 and	O
 CIS	O
 mRNA	O
@@ -29838,7 +29838,7 @@ rats	O
 .	O
 	
 Rg1	B-Chemical
-,	O
+
 as	O
 a	O
 ginsenoside	B-Chemical
@@ -29846,7 +29846,7 @@ extracted	O
 from	O
 Panax	O
 ginseng	O
-,	O
+
 could	O
 ameliorate	O
 spatial	O
@@ -29929,7 +29929,7 @@ intervals	O
 for	O
 10	O
 days	O
-,	O
+
 and	O
 Rg1	B-Chemical
 (	O
@@ -30004,7 +30004,7 @@ electrophysiological	O
 recording	O
 in	O
 vivo	O
-,	O
+
 the	O
 results	O
 showed	O
@@ -30050,7 +30050,7 @@ rats	O
 treated	O
 with	O
 morphine	B-Chemical
-,	O
+
 but	O
 not	O
 changed	O
@@ -30146,14 +30146,14 @@ a	O
 placebo	O
 -	O
 controlled	O
-,	O
+
 single	O
 -	O
 blinded	O
-,	O
+
 crossover	O
 study	O
-,	O
+
 we	O
 assessed	O
 the	O
@@ -30200,7 +30200,7 @@ had	O
 rTMS	O
 (	O
 1	O
-,	O
+
 800	O
 pulses	O
 ;	O
@@ -30218,7 +30218,7 @@ for	O
 consecutive	O
 days	O
 twice	O
-,	O
+
 once	O
 real	O
 stimuli	O
@@ -30270,7 +30270,7 @@ severity	O
 .	O
 	
 However	O
-,	O
+
 comparison	O
 with	O
 the	O
@@ -30301,11 +30301,11 @@ subscore	O
 .	O
 	
 Similarly	O
-,	O
+
 in	O
 patient	O
 diaries	O
-,	O
+
 although	O
 both	O
 treatments	O
@@ -30320,7 +30320,7 @@ the	O
 days	O
 of	O
 intervention	O
-,	O
+
 the	O
 effect	O
 was	O
@@ -30340,7 +30340,7 @@ only	O
 	
 Following	O
 rTMS	O
-,	O
+
 no	O
 side	O
 effects	O
@@ -30432,7 +30432,7 @@ neurotransmission	O
 .	O
 	
 However	O
-,	O
+
 the	O
 observation	O
 that	O
@@ -30479,7 +30479,7 @@ receptor	O
 As	O
 a	O
 result	O
-,	O
+
 there	O
 is	O
 a	O
@@ -30526,7 +30526,7 @@ inhibitors	O
 such	O
 as	O
 SSR103800	B-Chemical
-,	O
+
 which	O
 indirectly	O
 enhance	O
@@ -30566,7 +30566,7 @@ like	O
 properties	O
 of	O
 SSR103800	B-Chemical
-,	O
+
 with	O
 a	O
 particular	O
@@ -30575,14 +30575,14 @@ on	O
 models	O
 of	O
 hyperactivity	O
-,	O
+
 involving	O
 either	O
 drug	O
 challenge	O
 (	O
 ie	O
-,	O
+
 amphetamine	B-Chemical
 and	O
 MK	B-Chemical
@@ -30594,7 +30594,7 @@ transgenic	O
 mice	O
 (	O
 ie	O
-,	O
+
 NMDA	O
 Nr1	O
 (	O
@@ -30631,7 +30631,7 @@ competitive	O
 NMDA	O
 receptor	O
 antagonist	O
-,	O
+
 MK	B-Chemical
 -	I-Chemical
 801	I-Chemical
@@ -30651,7 +30651,7 @@ mice	O
 	
 In	O
 contrast	O
-,	O
+
 SSR103800	B-Chemical
 failed	O
 to	O
@@ -30684,7 +30684,7 @@ o	O
 .).	O
 	
 Importantly	O
-,	O
+
 both	O
 classical	O
 (	O
@@ -30694,7 +30694,7 @@ and	O
 atypical	O
 (	O
 olanzapine	B-Chemical
-,	O
+
 clozapine	B-Chemical
 and	O
 aripiprazole	B-Chemical
@@ -30711,11 +30711,11 @@ hyperactivity	O
 .	O
 	
 However	O
-,	O
+
 unlike	O
 these	O
 latter	O
-,	O
+
 SSR103800	B-Chemical
 did	O
 not	O
@@ -30747,15 +30747,15 @@ that	O
 the	O
 GlyT1	O
 inhibitor	O
-,	O
+
 SSR103800	B-Chemical
-,	O
+
 produces	O
 antipsychotic	O
 -	O
 like	O
 effects	O
-,	O
+
 which	O
 differ	O
 from	O
@@ -30768,7 +30768,7 @@ targeting	O
 the	O
 dopaminergic	B-Chemical
 system	O
-,	O
+
 and	O
 has	O
 a	O
@@ -30824,7 +30824,7 @@ widely	O
 used	O
 chemotherapeutic	O
 agent	O
-,	O
+
 5	B-Chemical
 -	I-Chemical
 fluorouracil	I-Chemical
@@ -30832,7 +30832,7 @@ fluorouracil	I-Chemical
 5	B-Chemical
 -	I-Chemical
 FU	I-Chemical
-),	O
+)
 readily	O
 crosses	O
 the	O
@@ -30984,7 +30984,7 @@ spatial	O
 working	O
 memory	O
 test	O
-,	O
+
 the	O
 object	O
 location	O
@@ -31157,14 +31157,14 @@ patients	O
 during	O
 cardiac	O
 procedures	O
-,	O
+
 the	O
 studies	O
 in	O
 pediatrics	O
 are	O
 limited	O
-,	O
+
 with	O
 even	O
 less	O
@@ -31198,11 +31198,11 @@ contrast	B-Chemical
 media	I-Chemical
 (	O
 CM	B-Chemical
-),	O
+)
 iopromide	B-Chemical
 and	O
 iohexol	B-Chemical
-,	O
+
 among	O
 80	O
 patients	O
@@ -31246,7 +31246,7 @@ iopromide	B-Chemical
 (	O
 group	O
 A	O
-,	O
+
 n	O
 =	O
 40	O
@@ -31256,7 +31256,7 @@ iohexol	B-Chemical
 (	O
 group	O
 B	O
-,	O
+
 n	O
 =	O
 40	O
@@ -31266,11 +31266,11 @@ Serum	O
 sodium	B-Chemical
 (	O
 Na	B-Chemical
-),	O
+)
 potassium	B-Chemical
 (	O
 K	B-Chemical
-),	O
+)
 and	O
 creatinine	B-Chemical
 (	O
@@ -31285,15 +31285,15 @@ angiography	O
 as	O
 baseline	O
 values	O
-,	O
+
 then	O
 measured	O
 again	O
 at	O
 12	O
--,	O
+-
 24	O
--,	O
+-
 and	O
 48	O
 -	O
@@ -31323,22 +31323,22 @@ Risk	O
 of	O
 renal	O
 failure	O
-,	O
+
 Injury	O
 to	O
 the	O
 kidney	O
-,	O
+
 Failure	O
 of	O
 kidney	O
 function	O
-,	O
+
 Loss	O
 of	O
 kidney	O
 function	O
-,	O
+
 and	O
 End	O
 -	O
@@ -31364,7 +31364,7 @@ population	O
 .	O
 	
 Accordingly	O
-,	O
+
 among	O
 the	O
 15	O
@@ -31374,7 +31374,7 @@ patients	O
 18	O
 .	O
 75	O
-%),	O
+%)
 7	O
 .	O
 5	O
@@ -31396,7 +31396,7 @@ and	O
 had	O
 renal	O
 injury	O
-,	O
+
 whereas	O
 5	O
 %	O
@@ -31436,7 +31436,7 @@ proper	O
 dosage	O
 of	O
 CM	B-Chemical
-,	O
+
 the	O
 percentage	O
 increased	O
@@ -31451,7 +31451,7 @@ who	O
 received	O
 larger	O
 doses	O
-,	O
+
 with	O
 a	O
 significant	O
@@ -31482,14 +31482,14 @@ the	O
 patients	O
 with	O
 CIN	O
-,	O
+
 6	O
 had	O
 cyanotic	O
 congenital	O
 heart	O
 diseases	O
-,	O
+
 but	O
 the	O
 incidence	O
@@ -31514,7 +31514,7 @@ p	O
 Although	O
 clinically	O
 silent	O
-,	O
+
 CIN	O
 is	O
 not	O
@@ -31537,21 +31537,21 @@ of	O
 consumed	O
 nonionic	O
 CM	B-Chemical
-,	O
+
 nor	O
 on	O
 the	O
 presence	O
 of	O
 cyanosis	O
-,	O
+
 and	O
 although	O
 CIN	O
 usually	O
 is	O
 reversible	O
-,	O
+
 more	O
 concern	O
 is	O
@@ -31571,9 +31571,9 @@ children	O
 Elevation	O
 of	O
 ADAM10	O
-,	O
+
 ADAM17	O
-,	O
+
 MMP	O
 -	O
 2	O
@@ -31640,7 +31640,7 @@ and	O
 metalloproteinase	O
 (	O
 ADAM	O
-),	O
+)
 matrix	O
 metalloproteinases	O
 (	O
@@ -31687,18 +31687,18 @@ NaCl	B-Chemical
 	
 After	O
 12weeks	O
-,	O
+
 animals	O
 were	O
 euthanized	O
-,	O
+
 and	O
 CaCl	B-Chemical
 (	I-Chemical
 2	I-Chemical
 )-	I-Chemical
 treated	O
-,	O
+
 CaCl	B-Chemical
 (	I-Chemical
 2	I-Chemical
@@ -31761,7 +31761,7 @@ CaCl	B-Chemical
 2	I-Chemical
 )-	I-Chemical
 treated	O
-,	O
+
 non	O
 -	O
 CaCl	B-Chemical
@@ -31774,27 +31774,27 @@ NaCl	B-Chemical
 -	O
 treated	O
 segments	O
-,	O
+
 aneurymal	O
 alteration	O
 (	O
 n	O
 =	O
 6	O
-,	O
+
 50	O
-%),	O
+%)
 media	O
 degeneration	O
 with	O
 regional	O
 disruption	O
-,	O
+
 fragmentation	O
 of	O
 elastic	O
 fiber	O
-,	O
+
 and	O
 increased	O
 collagen	O
@@ -31803,7 +31803,7 @@ deposition	O
 n	O
 =	O
 12	O
-,	O
+
 100	O
 %)	O
 were	O
@@ -31820,11 +31820,11 @@ segments	O
 MMP	O
 -	O
 2	O
-,	O
+
 MMP	O
 -	O
 9	O
-,	O
+
 ADAM	O
 -	O
 10	O
@@ -31850,7 +31850,7 @@ p	O
 0	O
 .	O
 1	O
-),	O
+)
 with	O
 trends	O
 of	O
@@ -31862,7 +31862,7 @@ CaCl	B-Chemical
 )-	I-Chemical
 untreated	O
 segments	O
-,	O
+
 as	O
 compared	O
 with	O
@@ -31881,11 +31881,11 @@ of	O
 MMP	O
 -	O
 2	O
-,	O
+
 MMP	O
 -	O
 9	O
-,	O
+
 ADAM	O
 -	O
 10	O
@@ -31947,7 +31947,7 @@ CaCl	B-Chemical
 exposure	O
 in	O
 rats	O
-,	O
+
 and	O
 demonstrates	O
 a	O
@@ -31959,11 +31959,11 @@ of	O
 MMP	O
 -	O
 2	O
-,	O
+
 MMP	O
 -	O
 9	O
-,	O
+
 ADAM10	O
 and	O
 ADAM17	O
@@ -32055,12 +32055,12 @@ interval	O
 of	O
 24	O
 h	O
-,	O
+
 for	O
 two	O
 consecutive	O
 days	O
-,	O
+
 led	O
 to	O
 a	O
@@ -32070,39 +32070,39 @@ in	O
 serum	O
 lactate	O
 dehydrogenase	O
-,	O
+
 creatine	O
 phosphokinase	O
-,	O
+
 alanine	O
 transaminase	O
-,	O
+
 aspartate	O
 transaminase	O
-,	O
+
 and	O
 angiotensin	O
 -	O
 converting	O
 enzyme	O
 activities	O
-,	O
+
 total	O
 cholesterol	B-Chemical
-,	O
+
 triglycerides	B-Chemical
-,	O
+
 free	O
 serum	O
 fatty	B-Chemical
 acid	I-Chemical
-,	O
+
 cardiac	O
 tissue	O
 malondialdehyde	B-Chemical
 (	O
 MDA	B-Chemical
-),	O
+)
 and	O
 nitric	B-Chemical
 oxide	I-Chemical
@@ -32172,10 +32172,10 @@ mg	O
 kg	O
 /	O
 day	O
-,	O
+
 given	O
 orally	O
-),	O
+)
 an	O
 inhibitor	O
 of	O
@@ -32189,7 +32189,7 @@ a	O
 standard	O
 cardioprotective	B-Chemical
 drug	I-Chemical
-,	O
+
 was	O
 used	O
 as	O
@@ -32339,7 +32339,7 @@ increased	O
 expression	O
 of	O
 GFAP	O
-,	O
+
 CD11b	O
 and	O
 TNF	O
@@ -32360,9 +32360,9 @@ the	O
 level	O
 of	O
 ROS	B-Chemical
-,	O
+
 nitrite	B-Chemical
-,	O
+
 Ca	B-Chemical
 (	I-Chemical
 2	I-Chemical
@@ -32423,9 +32423,9 @@ and	O
 PSD	O
 -	O
 95	O
-,	O
+
 while	O
-,	O
+
 expression	O
 of	O
 pre	O
@@ -32473,7 +32473,7 @@ STZ	B-Chemical
 induced	O
 glial	O
 activation	O
-,	O
+
 apoptotic	O
 cell	O
 death	O
@@ -32487,7 +32487,7 @@ brain	O
 .	O
 	
 Further	O
-,	O
+
 in	O
 experiment	O
 set	O
@@ -32518,13 +32518,13 @@ The	O
 level	O
 of	O
 GFAP	O
-,	O
+
 CD11b	O
-,	O
+
 TNF	O
 -	O
 a	O
-,	O
+
 ROS	B-Chemical
 and	O
 nitrite	B-Chemical
@@ -32537,13 +32537,13 @@ On	O
 the	O
 other	O
 hand	O
-,	O
+
 apoptotic	O
 marker	O
-,	O
+
 synaptic	O
 markers	O
-,	O
+
 mitochondrial	O
 activity	O
 and	O
@@ -32638,7 +32638,7 @@ lethal	O
 doses	O
 of	O
 bupivacaine	B-Chemical
-,	O
+
 and	O
 the	O
 lipid	B-Chemical
@@ -32701,14 +32701,14 @@ intralipid	B-Chemical
 (	O
 Group	O
 P	O
-),	O
+)
 propofol	B-Chemical
 in	O
 medialipid	B-Chemical
 (	O
 Group	O
 L	O
-),	O
+)
 or	O
 saline	O
 (	O
@@ -32721,7 +32721,7 @@ min	O
 .	O
 	
 Thereafter	O
-,	O
+
 2	O
 mg	O
 /	O
@@ -32744,7 +32744,7 @@ to	O
 first	O
 dysrhythmia	O
 occurrence	O
-,	O
+
 respective	O
 times	O
 to	O
@@ -32765,7 +32765,7 @@ and	O
 mean	O
 arterial	O
 pressure	O
-,	O
+
 and	O
 time	O
 to	O
@@ -32796,7 +32796,7 @@ to	O
 first	O
 dysrhythmia	O
 occurrence	O
-,	O
+
 time	O
 to	O
 25	O
@@ -32807,7 +32807,7 @@ and	O
 reductions	O
 in	O
 HR	O
-,	O
+
 and	O
 time	O
 to	O
@@ -32885,7 +32885,7 @@ with	O
 propofol	B-Chemical
 in	O
 intralipid	B-Chemical
-,	O
+
 compared	O
 with	O
 propofol	B-Chemical
@@ -32893,7 +32893,7 @@ in	O
 medialipid	B-Chemical
 or	O
 saline	O
-,	O
+
 delayed	O
 the	O
 onset	O
@@ -32946,10 +32946,10 @@ relation	O
 to	O
 hemodynamic	O
 alterations	O
-,	O
+
 oxidative	O
 stress	O
-,	O
+
 mitochondrial	O
 oxygen	B-Chemical
 consumption	O
@@ -33034,11 +33034,11 @@ excretion	O
 of	O
 total	O
 protein	O
-,	O
+
 glucose	B-Chemical
-,	O
+
 sodium	B-Chemical
-,	O
+
 neutrophil	O
 gelatinase	O
 -	O
@@ -33058,7 +33058,7 @@ D	O
 glucosaminidase	O
 (	O
 NAG	O
-),	O
+)
 upregulation	O
 of	O
 kidney	O
@@ -33068,7 +33068,7 @@ molecule	O
 KIM	O
 )-	O
 1	O
-,	O
+
 decrease	O
 in	O
 renal	O
@@ -33158,7 +33158,7 @@ culture	O
 	
 In	O
 addition	O
-,	O
+
 maleate	B-Chemical
 treatment	O
 reduced	O
@@ -33254,7 +33254,7 @@ of	O
 respiratory	B-Chemical
 complex	I-Chemical
 I	I-Chemical
-,	O
+
 and	O
 the	O
 in	O
