@@ -7782,11 +7782,9 @@ be	O
 used	O
 even	O
 in	O
-"	1181	1182	O"	
 low	O
 -	O
 tech	O
-"	1190	1191	O"	
 laboratories	O
 .	O
 	
@@ -16615,9 +16613,7 @@ of	O
 a	O
 novel	O
 BCHE	O
-"	33	34	O"	
 silent	O
-"	40	41	O"	
 allele	O
 :	O
 point	O
@@ -16724,9 +16720,7 @@ triad	O
 and	O
 determines	O
 a	O
-"	647	648	O"	
 silent	O
-"	654	655	O"	
 phenotype	O
 .	O
 	
@@ -26293,9 +26287,7 @@ updating	O
 and	O
 also	O
 on	O
-"	420	421	O"	
 prefrontal	O
-"	431	432	O"	
 mediated	O
 social	O
 and	O
@@ -36624,11 +36616,10 @@ Osteogenesis	B-Disease
 imperfecta	I-Disease
 ","	O
 or	O
-"	132	133	O"	
 brittle	B-Disease
 bone	I-Disease
 disease	I-Disease
-"",""""	O
+","	O
 is	O
 a	O
 type	O
@@ -54914,9 +54905,8 @@ to	O
 the	O
 induction	O
 of	O
-"	240	241	O"	
 stemness	O
-"."""	O
+"."	O
 	
 This	O
 observation	O
@@ -70923,44 +70913,33 @@ revealed	O
 significant	O
 enrichment	O
 in	O
-"	1395	1396	O"	
 signal	O
 peptides	O
-"","	1411	1413	O"	
-"	1414	1415	O"	
+","	O
 extracellular	O
 matrix	O
-"	1435	1436	O"	
 and	O
-"	1440	1441	O"	
 secreted	O
 proteins	O
-"	1458	1459	O"	
 GO	O
 Terms	O
 .	O
-	
-"	1470	1471	O"	
+
 Angiogenesis	O
 and	O
 blood	O
 vessel	O
 development	O
-"","	1512	1514	O"	
-"	1515	1516	O"	
+","	O
 neuron	O
 differentiation	O
 /	O
 development	O
-"","	1550	1552	O"	
 cell	O
 adhesion	O
-"","	1566	1568	O"	
 and	O
-"	1573	1574	O"	
 cell	O
 migration	O
-"	1588	1589	O"	
 also	O
 showed	O
 significant	O
@@ -70983,13 +70962,11 @@ Analysis	O
 IPA	O
 )	O
 included	O
-"	1724	1725	O"	
 Clathrin	O
 -	O
 mediated	O
 Endocytosis	O
 Signaling	O
-"	1764	1765	O"	
 (	O
 p	O
 =	O
@@ -70999,13 +70976,11 @@ p	O
 -	O
 4	O
 )","	O
-"	1783	1784	O"	
 Virus	O
 Entry	O
 via	O
 Endocytic	O
 Pathways	O
-"	1818	1819	O"	
 (	O
 p	O
 =	O
@@ -71017,7 +70992,6 @@ p	O
 4	O
 )","	O
 and	O
-"	1842	1843	O"	
 High	O
 Mobility	O
 Group	O
@@ -71028,7 +71002,6 @@ Box	O
 HMGB1	O
 )	O
 Signaling	O
-"	1886	1887	O"	
 (	O
 p	O
 =	O
@@ -79002,11 +78975,9 @@ NTRK3	O
 actionable	O
 alterations	O
 in	O
-"	42	43	O"	
 Wild	O
 -	O
 Type	O
-"	52	53	O"	
 gastrointestinal	B-Disease
 stromal	I-Disease
 tumors	I-Disease
@@ -79944,11 +79915,9 @@ which	O
 we	O
 have	O
 called	O
-"	1029	1030	O"	
 puratrophin	O
 -	O
 1	O
-"	1043	1044	O"	
 (	O
 Purkinje	O
 cell	O
@@ -86511,10 +86480,9 @@ to	O
 arise	O
 following	O
 a	O
-"	1729	1730	O"	
 second	O
 hit	O
-"",""""	O
+","	O
 that	O
 MC	B-Disease
 may	O
@@ -88814,9 +88782,7 @@ a	O
 degree	O
 of	O
 severity	O
-"	1478	1479	O"	
 Bad	O
-"	1482	1483	O"	
 according	O
 to	O
 best	O
@@ -108582,9 +108548,7 @@ that	O
 may	O
 be	O
 considered	O
-"	1779	1780	O"	
 moderate	O
-"	1788	1789	O"	
 is	O
 not	O
 associated	O
@@ -112888,7 +112852,6 @@ and	O
 bodyweights	O
 (	O
 P	O
-"	805	806	O"	
 <	O
 0	O
 .	O
