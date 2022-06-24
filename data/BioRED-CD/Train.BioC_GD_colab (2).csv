@@ -1,4 +1,4 @@
-Token,Tag
+
 Hepatocyte,O
 nuclear,O
 factor,O
@@ -384,7 +384,7 @@ Langerhans,O
 cells,O
 (,O
 LC,O
-")"",""",O
+")"",O
 and,O
 named,O
 Langerin,O
@@ -398,7 +398,7 @@ Birbeck,O
 granules,O
 (,O
 BG,O
-")"",""",O
+")"",O
 which,O
 are,O
 organelles,O
@@ -791,9 +791,9 @@ and,O
 accounted,O
 for,O
 51,O
-"%"",""",O
+"%"",O
 20,O
-"%"",""",O
+"%"",O
 and,O
 11,O
 %,O
@@ -1194,7 +1194,7 @@ as,O
 doxorubicin,B-Chemical
 (,O
 DOX,B-Chemical
-")"",""",O
+")"",O
 taxol,B-Chemical
 ",",O
 vinblastine,B-Chemical
@@ -1829,7 +1829,7 @@ lateral,I-Disease
 sclerosis,I-Disease
 (,O
 ALS,B-Disease
-")"",""",O
+")"",O
 a,O
 fatal,O
 neurodegenerative,B-Disease
@@ -2355,7 +2355,7 @@ g,O
 35T,O
 >,O
 G,O
-")"",""",O
+")"",O
 a,O
 6,O
 base,O
@@ -2370,7 +2370,7 @@ g,O
 p,O
 .,O
 Asp46_Gln48delinsGlu,O
-"])"",""",O
+"])"",O
 a,O
 variant,O
 leading,O
@@ -2388,7 +2388,7 @@ A,O
 p,O
 .,O
 Tyr65X,O
-"])"",""",O
+"])"",O
 synonymous,O
 variants,O
 (,O
@@ -2401,7 +2401,7 @@ T,O
 p,O
 .,O
 Thr26,O
-"]"",""",O
+"]"",O
 g,O
 .,O
 3503C,O
@@ -2411,7 +2411,7 @@ T,O
 p,O
 .,O
 Asn62,O
-"]"",""",O
+"]"",O
 g,O
 .,O
 3627A,O
@@ -2421,7 +2421,7 @@ C,O
 p,O
 .,O
 Arg104,O
-"])"",""",O
+"])"",O
 and,O
 one,O
 non,O
@@ -2456,7 +2456,7 @@ designated,O
 or,O
 35,O
 delG,O
-")"",""",O
+")"",O
 g,O
 .,O
 3426G,O
@@ -2466,7 +2466,7 @@ A,O
 p,O
 .,O
 Val37Ile,O
-"]"",""",O
+"]"",O
 g,O
 .,O
 3697G,O
@@ -2476,7 +2476,7 @@ A,O
 p,O
 .,O
 Arg127His,O
-"]"",""",O
+"]"",O
 g,O
 .,O
 3774G,O
@@ -2486,7 +2486,7 @@ A,O
 p,O
 .,O
 Val153Ile,O
-"]"",""",O
+"]"",O
 and,O
 g,O
 .,O
@@ -2859,7 +2859,7 @@ inclusions,O
 MB,O
 -,O
 DRMs,B-Disease
-")"",""",O
+")"",O
 first,O
 described,O
 in,O
@@ -2890,7 +2890,7 @@ myopathy,I-Disease
 SEPN,B-Disease
 -,I-Disease
 RM,I-Disease
-")"",""",O
+")"",O
 a,O
 unique,O
 early,O
@@ -2970,7 +2970,7 @@ SEPN1,O
 locus,O
 (,O
 1p36,O
-")"",""",O
+")"",O
 and,O
 subsequently,O
 a,O
@@ -3517,7 +3517,7 @@ valdecoxib,B-Chemical
 80,O
 mg,O
 daily,O
-")"",""",O
+")"",O
 nonselective,O
 NSAID,B-Chemical
 (,O
@@ -4020,7 +4020,7 @@ tryptophan,O
 hydroxylase,O
 (,O
 TPH,O
-")"",""",O
+")"",O
 amino,O
 acid,O
 decarboxylase,O
@@ -4276,7 +4276,7 @@ FU,I-Chemical
 mg,O
 /,O
 day,O
-")"",""",O
+")"",O
 during,O
 which,O
 precordial,B-Disease
@@ -4363,7 +4363,7 @@ of,O
 5,B-Chemical
 -,I-Chemical
 FU,I-Chemical
-")"",""",O
+")"",O
 at,O
 200,O
 mg,O
@@ -4901,7 +4901,7 @@ positions,O
 1123,O
 (,O
 rs2488457,O
-")"",""",O
+")"",O
 +,O
 1858,O
 (,O
@@ -4910,7 +4910,7 @@ rs2476601,O
 the,O
 R620W,O
 substitution,O
-")"",""",O
+")"",O
 and,O
 +,O
 2740,O
@@ -5891,7 +5891,7 @@ group,O
 n,O
 =,O
 7,O
-")"",""",O
+")"",O
 the,O
 mean,O
 arterial,O
@@ -5911,7 +5911,7 @@ group,O
 n,O
 =,O
 7,O
-")"",""",O
+")"",O
 the,O
 MAP,O
 was,O
@@ -6103,7 +6103,7 @@ vs,O
 21,O
 +/-,O
 2,O
-"%"",""",O
+"%"",O
 P,O
 less,O
 than,O
@@ -6302,7 +6302,7 @@ p,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 and,O
 carriers,O
 of,O
@@ -6342,7 +6342,7 @@ p,O
 0,O
 .,O
 5,O
-")"",""",O
+")"",O
 and,O
 non,O
 -,O
@@ -6469,7 +6469,7 @@ chromosomal,O
 tenomodulin,O
 (,O
 TNMD,O
-")"",""",O
+")"",O
 a,O
 putative,O
 angiogenesis,O
@@ -7020,7 +7020,7 @@ versus,O
 51,O
 .,O
 5,O
-"%"",""",O
+"%"",O
 p,O
 <,O
 0,O
@@ -7039,7 +7039,7 @@ versus,O
 34,O
 .,O
 9,O
-"%"",""",O
+"%"",O
 p,O
 =,O
 0,O
@@ -7066,7 +7066,7 @@ p,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 independent,O
 of,O
 ileal,O
@@ -7135,13 +7135,13 @@ versus,O
 55,O
 .,O
 2,O
-"%"",""",O
+"%"",O
 p,O
 =,O
 0,O
 .,O
 14,O
-")"",""",O
+")"",O
 also,O
 with,O
 a,O
@@ -7177,7 +7177,7 @@ antibodies,O
 %,O
 versus,O
 35,O
-"%"",""",O
+"%"",O
 p,O
 =,O
 0,O
@@ -7196,13 +7196,13 @@ versus,O
 34,O
 .,O
 6,O
-"%"",""",O
+"%"",O
 p,O
 =,O
 0,O
 .,O
 9,O
-")"",""",O
+")"",O
 respectively,O
 .,O
 CONCLUSION,O
@@ -7538,12 +7538,12 @@ meiotic,O
 cDNA,O
 (,O
 DMC1,O
-")"",""",O
+")"",O
 MutS,O
 homolog,O
 (,O
 MSH4,O
-")"",""",O
+")"",O
 MSH5,O
 ",",O
 and,O
@@ -7553,7 +7553,7 @@ cerevisiae,O
 homolog,O
 (,O
 SPO11,O
-")"",""",O
+")"",O
 were,O
 associated,O
 with,O
@@ -7958,7 +7958,7 @@ RA,B-Disease
 and,O
 940,O
 controls,O
-")"",""",O
+")"",O
 and,O
 then,O
 performed,O
@@ -8220,7 +8220,7 @@ deletion,O
 G,O
 /,O
 D,O
-")"",""",O
+")"",O
 the,O
 -,O
 1607,O
@@ -8741,7 +8741,7 @@ theta,O
 slow,O
 and,O
 fast,O
-")"",""",O
+")"",O
 alpha,O
 -,O
 sigma,O
@@ -9247,14 +9247,14 @@ I,O
 /,O
 D,O
 ACE,O
-")"",""",O
+")"",O
 angiotensinogen,O
 gene,O
 polymorphism,O
 (,O
 M,O
 235,O
-")"",""",O
+")"",O
 angiotensin,O
 II,O
 receptor,O
@@ -9267,7 +9267,7 @@ polymorphism,O
 (,O
 A,O
 11666C,O
-")"",""",O
+")"",O
 and,O
 polymorphism,O
 of,O
@@ -9307,7 +9307,7 @@ to,O
 normal,O
 (,O
 SDNN,O
-")"",""",O
+")"",O
 and,O
 root,O
 mean,O
@@ -9385,7 +9385,7 @@ P,O
 0,O
 .,O
 7,O
-")"",""",O
+")"",O
 (,O
 minimal,O
 DBP,O
@@ -9578,7 +9578,7 @@ BACKGROUND,O
 Nephronophthisis,B-Disease
 (,O
 NPHP,B-Disease
-")"",""",O
+")"",O
 a,O
 rare,O
 recessive,O
@@ -9627,7 +9627,7 @@ Senior,B-Disease
 -,I-Disease
 Loken,I-Disease
 syndrome,I-Disease
-")"",""",O
+")"",O
 brainstem,O
 and,O
 cerebellar,B-Disease
@@ -9635,7 +9635,7 @@ anomalies,I-Disease
 (,O
 Joubert,B-Disease
 syndrome,I-Disease
-")"",""",O
+")"",O
 or,O
 liver,B-Disease
 fibrosis,I-Disease
@@ -10077,7 +10077,7 @@ CI,O
 2,O
 .,O
 5,O
-"]"",""",O
+"]"",O
 p,O
 =,O
 0,O
@@ -11497,7 +11497,7 @@ p,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 an,O
 ASP,O
 receptor,O
@@ -11541,7 +11541,7 @@ FASN,O
 ",",O
 and,O
 LPL,O
-")"",""",O
+")"",O
 lipolysis,O
 (,O
 HSL,O
@@ -11549,7 +11549,7 @@ HSL,O
 CES1,O
 ",",O
 perilipin,O
-")"",""",O
+")"",O
 fatty,O
 acid,O
 binding,O
@@ -11738,7 +11738,7 @@ binding,O
 protein,O
 (,O
 GHBP,O
-")"",""",O
+")"",O
 but,O
 clinical,O
 evidence,O
@@ -11822,7 +11822,7 @@ exon,O
 9,O
 (,O
 899dupC,O
-")"",""",O
+")"",O
 the,O
 latter,O
 resulting,O
@@ -12028,7 +12028,7 @@ C,O
 -,O
 344,O
 T,O
-")"",""",O
+")"",O
 intron,O
 2,O
 conversion,O
@@ -12044,7 +12044,7 @@ rs6410,O
 (,O
 G22,O
 5A,O
-")"",""",O
+")"",O
 rs6387,O
 (,O
 A2803G,O
@@ -12124,11 +12124,11 @@ haplotypes,O
 H1,O
 (,O
 AGACT,O
-")"",""",O
+")"",O
 H2,O
 (,O
 AGAWT,O
-")"",""",O
+")"",O
 and,O
 H3,O
 (,O
@@ -12172,7 +12172,7 @@ hypertension,B-Disease
 P,O
 <.,O
 5,O
-")"",""",O
+")"",O
 family,O
 history,O
 of,O
@@ -12182,7 +12182,7 @@ P,O
 =,O
 .,O
 1,O
-")"",""",O
+")"",O
 and,O
 elevated,O
 systolic,O
@@ -12200,7 +12200,7 @@ The,O
 rs4539,O
 (,O
 AA,O
-")"",""",O
+")"",O
 H1,O
 ",",O
 H2,O
@@ -12804,7 +12804,7 @@ rs763780,O
 7488T,O
 /,O
 C,O
-")"",""",O
+")"",O
 which,O
 causes,O
 a,O
@@ -12915,7 +12915,7 @@ vs,O
 4,O
 .,O
 8,O
-"%"",""",O
+"%"",O
 P,O
 <,O
 0,O
@@ -13026,7 +13026,7 @@ genotype,O
 vs,O
 .,O
 0,O
-"%"",""",O
+"%"",O
 P,O
 =,O
 0,O
@@ -14469,12 +14469,12 @@ microvascular,O
 ECs,O
 (,O
 hRMVECs,O
-")"",""",O
+")"",O
 choroidal,O
 ECs,O
 (,O
 CECs,O
-")"",""",O
+")"",O
 and,O
 human,O
 umbilical,O
@@ -14554,7 +14554,7 @@ day,O
 0,O
 (,O
 P0,O
-")"",""",O
+")"",O
 P14,O
 ",",O
 and,O
@@ -14974,7 +14974,7 @@ anorectal,B-Disease
 malformations,I-Disease
 (,O
 ARMs,B-Disease
-")"",""",O
+")"",O
 are,O
 frequently,O
 observed,O
@@ -15431,7 +15431,7 @@ aminobutyric,I-Chemical
 acid,I-Chemical
 (,O
 GABA,B-Chemical
-")"",""",O
+")"",O
 glutamine,B-Chemical
 ",",O
 aspartate,B-Chemical
@@ -15477,7 +15477,7 @@ kg,O
 .,O
 20,O
 min,O
-")"",""",O
+")"",O
 50mg,O
 /,O
 kg,O
@@ -15553,7 +15553,7 @@ of,O
 5,O
 .,O
 21,O
-"%"",""",O
+"%"",O
 13,O
 .,O
 55,O
@@ -15562,7 +15562,7 @@ and,O
 21,O
 .,O
 80,O
-"%"",""",O
+"%"",O
 respectively,O
 in,O
 mice,O
@@ -15972,7 +15972,7 @@ absent,O
 mild,O
 grade,O
 lesions,O
-")"",""",O
+")"",O
 while,O
 NGAL,O
 (,O
@@ -16735,7 +16735,7 @@ LYN,O
 ",",O
 and,O
 p38MAPK,O
-")"",""",O
+")"",O
 activation,O
 of,O
 lipolytic,O
@@ -16761,7 +16761,7 @@ AMPK,O
 ",",O
 and,O
 ACC,O
-")"",""",O
+")"",O
 and,O
 mitochondrial,O
 biogenesis,O
@@ -18111,7 +18111,7 @@ phosphatase,O
 SHP,O
 -,O
 1,O
-")"",""",O
+")"",O
 mainly,O
 expressed,O
 in,O
@@ -18935,7 +18935,7 @@ with,O
 ALD,B-Disease
 (#,O
 163,O
-")"",""",O
+")"",O
 in,O
 which,O
 mRNA,O
@@ -19301,7 +19301,7 @@ Myotonic,B-Disease
 dystrophy,I-Disease
 (,O
 DM,B-Disease
-")"",""",O
+")"",O
 the,O
 most,O
 prevalent,O
@@ -19592,14 +19592,14 @@ a,O
 flavoprotein,O
 (,O
 FP,O
-")"",""",O
+")"",O
 iron,O
 -,O
 sulfur,O
 protein,O
 (,O
 IP,O
-")"",""",O
+")"",O
 and,O
 hydrophobic,O
 protein,O
@@ -19651,12 +19651,12 @@ NDUFS2,O
 (,O
 49,O
 kDa,O
-")"",""",O
+")"",O
 NDUFS3,O
 (,O
 30,O
 kDa,O
-")"",""",O
+")"",O
 and,O
 NDUFS6,O
 (,O
@@ -19676,7 +19676,7 @@ reading,O
 frame,O
 (,O
 ORF,O
-")"",""",O
+")"",O
 which,O
 consist,O
 of,O
@@ -20046,7 +20046,7 @@ SLE,B-Disease
 ",",O
 277,O
 controls,O
-")"",""",O
+")"",O
 Thais,O
 (,O
 87,O
@@ -21218,7 +21218,7 @@ genes,O
 myocilin,O
 (,O
 MYOC,O
-")"",""",O
+")"",O
 optineurin,O
 (,O
 OPTN,O
@@ -21396,7 +21396,7 @@ Q48H,O
 q25,O
 .,O
 2,O
-")"",""",O
+")"",O
 a,O
 mutation,O
 known,O
@@ -21491,7 +21491,7 @@ thyroid,B-Chemical
 hormones,I-Chemical
 (,O
 TH,B-Chemical
-")"",""",O
+")"",O
 failure,O
 to,O
 suppress,O
@@ -22347,7 +22347,7 @@ several,O
 ',O
 anonymous,O
 genes,O
-"'"",""",O
+"'"",O
 we,O
 also,O
 identified,O
@@ -22370,7 +22370,7 @@ regulated,O
 pathways,O
 (,O
 PRKACB,O
-")"",""",O
+")"",O
 DNA,O
 damage,O
 repair,O
@@ -22389,7 +22389,7 @@ ATM,O
 ERCC5,O
 ",",O
 FBXO5,O
-")"",""",O
+")"",O
 energy,O
 metabolism,O
 (,O
@@ -23826,7 +23826,7 @@ endometrial,O
 glands,O
 (,O
 GEs,O
-")"",""",O
+")"",O
 binds,O
 to,O
 the,O
@@ -24251,7 +24251,7 @@ mu,O
 1,O
 (,O
 oprm1,O
-")"",""",O
+")"",O
 two,O
 hits,O
 were,O
@@ -25342,7 +25342,7 @@ task,O
 (,O
 set,O
 shifting,O
-")"",""",O
+")"",O
 Backward,O
 Digit,O
 Span,O
@@ -25350,13 +25350,13 @@ procedure,O
 (,O
 memory,O
 updating,O
-")"",""",O
+")"",O
 Inhibition,O
 of,O
 Return,O
 (,O
 inhibition,O
-")"",""",O
+")"",O
 an,O
 emotional,O
 intelligence,O
@@ -25543,7 +25543,7 @@ nucleotide,O
 polymorphism,O
 (,O
 SNP,O
-")"",""",O
+")"",O
 and,O
 TS,O
 1494del6,O
@@ -25745,7 +25745,7 @@ P,O
 <,O
 .,O
 1,O
-")"",""",O
+")"",O
 and,O
 the,O
 3R,O
@@ -26158,7 +26158,7 @@ and,O
 II,O
 (,O
 BMPRII,O
-")"",""",O
+")"",O
 LbetaT2,O
 cells,O
 also,O
@@ -26392,7 +26392,7 @@ tandem,O
 repeats,O
 (,O
 VNTR,O
-")"",""",O
+")"",O
 a,O
 G,O
 /,O
@@ -26402,7 +26402,7 @@ nucleotide,O
 polymorphism,O
 (,O
 SNP,O
-")"",""",O
+")"",O
 and,O
 a,O
 deletion,O
@@ -26519,11 +26519,11 @@ genotypes,O
 :,O
 C_allele,O
 6,O
-"-"",""",O
+"-"",O
 C_6,O
 +/,O
 6,O
-"+"",""",O
+"+"",O
 G_allele6,O
 -,O
 and,O
@@ -26585,7 +26585,7 @@ P,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 where,O
 the,O
 variant,O
@@ -26712,7 +26712,7 @@ compared,O
 with,O
 each,O
 other,O
-")"",""",O
+")"",O
 while,O
 combinations,O
 carrying,O
@@ -26867,7 +26867,7 @@ substitution,O
 the,O
 Met326Ile,O
 polymorphism,O
-")"",""",O
+")"",O
 and,O
 this,O
 amino,O
@@ -29271,7 +29271,7 @@ HuH,O
 -,O
 7,O
 mice,O
-")"",""",O
+")"",O
 in,O
 mosquitoes,O
 ",",O
@@ -29793,7 +29793,7 @@ fever,B-Disease
 2,O
 degrees,O
 C,O
-")"",""",O
+")"",O
 fluctuating,O
 blood,O
 pressure,O
@@ -29809,7 +29809,7 @@ and,O
 mg,O
 mm,O
 Hg,O
-")"",""",O
+")"",O
 and,O
 severe,O
 extrapyramidal,B-Disease
@@ -29828,7 +29828,7 @@ phosphokinase,I-Chemical
 IU,O
 /,O
 L,O
-")"",""",O
+")"",O
 aspartate,B-Chemical
 aminotransferase,I-Chemical
 (,O
@@ -29836,7 +29836,7 @@ aminotransferase,I-Chemical
 IU,O
 /,O
 L,O
-")"",""",O
+")"",O
 alanine,B-Chemical
 aminotransferase,I-Chemical
 (,O
@@ -29844,7 +29844,7 @@ aminotransferase,I-Chemical
 IU,O
 /,O
 L,O
-")"",""",O
+")"",O
 and,O
 BUN,O
 (,O
@@ -29902,7 +29902,7 @@ malignant,I-Disease
 syndrome,I-Disease
 (,O
 NMS,B-Disease
-")"",""",O
+")"",O
 thus,O
 demonstrating,O
 that,O
@@ -30440,7 +30440,7 @@ odds,O
 ratio,O
 [,O
 OR,O
-"]"",""",O
+"]"",O
 7,O
 .,O
 4,O
@@ -30451,7 +30451,7 @@ confidence,O
 interval,O
 [,O
 CI,O
-"]"",""",O
+"]"",O
 1,O
 .,O
 3,O
@@ -30883,7 +30883,7 @@ gene,O
 symbol,O
 -,O
 FH,O
-")"",""",O
+")"",O
 also,O
 known,O
 as,O
@@ -31173,7 +31173,7 @@ is,O
 missense,O
 (,O
 57,O
-"%)"",""",O
+"%)"",O
 followed,O
 by,O
 frameshifts,O
@@ -31181,7 +31181,7 @@ frameshifts,O
 nonsense,O
 (,O
 27,O
-"%)"",""",O
+"%)"",O
 and,O
 diverse,O
 deletions,O
@@ -32924,7 +32924,7 @@ i,O
 .,O
 p,O
 .,O
-")"",""",O
+")"",O
 in,O
 the,O
 presence,O
@@ -33328,7 +33328,7 @@ Ca,B-Chemical
 concentration,O
 ((,O
 i,O
-"))"",""",O
+"))"",O
 which,O
 decreased,O
 to,O
@@ -33556,7 +33556,7 @@ TRPV6,O
 Delta695,O
 -,O
 725,O
-")"",""",O
+")"",O
 which,O
 lacks,O
 the,O
@@ -33586,7 +33586,7 @@ human,O
 TRPV6,O
 (,O
 D542A,O
-")"",""",O
+")"",O
 carrying,O
 a,O
 point,O
@@ -34011,7 +34011,7 @@ SAD,B-Disease
 ",",O
 119,O
 controls,O
-")"",""",O
+")"",O
 and,O
 Canada,O
 (,O
@@ -34073,7 +34073,7 @@ p,O
 0,O
 .,O
 39,O
-")"",""",O
+")"",O
 body,O
 mass,O
 index,O
@@ -34085,7 +34085,7 @@ p,O
 0,O
 .,O
 38,O
-")"",""",O
+")"",O
 and,O
 seasonal,O
 appetite,O
@@ -34139,7 +34139,7 @@ p,O
 0,O
 .,O
 46,O
-")"",""",O
+")"",O
 with,O
 lowest,O
 values,O
@@ -34636,7 +34636,7 @@ at,O
 %,O
 and,O
 5,O
-"%"",""",O
+"%"",O
 respectively,O
 (,O
 P,O
@@ -35138,7 +35138,7 @@ zebrafish,O
 chordin,O
 (,O
 Chd,O
-")"",""",O
+")"",O
 suggesting,O
 differences,O
 but,O
@@ -35449,7 +35449,7 @@ interleukin,O
 IL,O
 -,O
 8,O
-")"",""",O
+")"",O
 which,O
 is,O
 chemoattractant,O
@@ -35678,7 +35678,7 @@ nucleotide,O
 polymorphisms,O
 (,O
 SNPs,O
-")"",""",O
+")"",O
 which,O
 have,O
 previously,O
@@ -35745,7 +35745,7 @@ LpA,B-Chemical
 Peptidoglycan,B-Chemical
 ",",O
 Ppg,B-Chemical
-")"",""",O
+")"",O
 adaptive,O
 stimuli,O
 (,O
@@ -35899,7 +35899,7 @@ p,O
 0,O
 .,O
 10,O
-")"",""",O
+")"",O
 trendwise,O
 increased,O
 IL,O
@@ -35907,7 +35907,7 @@ IL,O
 13,O
 (,O
 LpA,B-Chemical
-")"",""",O
+")"",O
 higher,O
 GM,O
 -,O
@@ -36215,7 +36215,7 @@ homologous,O
 protein,O
 (,O
 CHOP,O
-")"",""",O
+")"",O
 calnexin,O
 ",",O
 eukaryotic,O
@@ -36224,7 +36224,7 @@ factor,O
 2a,O
 (,O
 eIF2a,O
-")"",""",O
+")"",O
 protein,O
 kinase,O
 ribonucleic,O
@@ -36237,7 +36237,7 @@ ER,O
 kinase,O
 (,O
 PERK,O
-")"",""",O
+")"",O
 binding,O
 immunoglobulin,O
 protein,O
@@ -36259,7 +36259,7 @@ protein,O
 1a,O
 (,O
 IRE1a,O
-")"",""",O
+")"",O
 and,O
 the,O
 X,O
@@ -37029,7 +37029,7 @@ P,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 tumor,B-Disease
 nodule,O
 number,O
@@ -37935,7 +37935,7 @@ site,O
 C,O
 -,O
 1228T,O
-")"",""",O
+")"",O
 one,O
 in,O
 exon,O
@@ -37953,7 +37953,7 @@ UTR,O
 ),O
 (,O
 C111G,O
-")"",""",O
+")"",O
 and,O
 one,O
 missense,O
@@ -39305,7 +39305,7 @@ of,O
 rapamycin,O
 (,O
 mTOR,O
-")"",""",O
+")"",O
 has,O
 shown,O
 phase,O
@@ -39352,7 +39352,7 @@ inhibitors,O
 (,O
 stratum,O
 2,O
-")"",""",O
+")"",O
 received,O
 RAD001,B-Chemical
 10,O
@@ -40079,7 +40079,7 @@ population,O
 i,O
 .,O
 e,O
-"."",""",O
+"."",O
 Ile,O
 /,O
 Ile,O
@@ -40225,7 +40225,7 @@ cardiomyocytes,O
 hiPS,O
 -,O
 CMs,O
-")"",""",O
+")"",O
 which,O
 can,O
 express,O
@@ -40350,7 +40350,7 @@ corrected,O
 FPD,O
 (,O
 FPDc,O
-")"",""",O
+")"",O
 whereas,O
 Ca,B-Chemical
 (,I-Chemical
@@ -40597,7 +40597,7 @@ and,O
 thrombopoietin,O
 (,O
 TPO,O
-")"",""",O
+")"",O
 GCSF,O
 ",",O
 FGF,O
@@ -42457,7 +42457,7 @@ D572H,O
 c,O
 .,O
 G1714C,O
-")"",""",O
+")"",O
 of,O
 the,O
 TMC1,O
@@ -42821,7 +42821,7 @@ P,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 but,O
 also,O
 with,O
@@ -43041,7 +43041,7 @@ exon,O
 NM_203475,O
 .,O
 1,O
-")"",""",O
+")"",O
 converting,O
 a,O
 glutamic,O
@@ -43822,7 +43822,7 @@ Nov,O
 (,O
 period,O
 1,O
-")"",""",O
+")"",O
 Dec,O
 .,O
 1,O
@@ -43837,7 +43837,7 @@ Nov,O
 (,O
 period,O
 2,O
-")"",""",O
+")"",O
 and,O
 Dec,O
 .,O
@@ -44107,7 +44107,7 @@ codon,O
 435,O
 (,O
 Thr,O
-")"",""",O
+")"",O
 was,O
 reported,O
 as,O
@@ -44341,7 +44341,7 @@ P,O
 0,O
 .,O
 5,O
-")"",""",O
+")"",O
 leptin,O
 (,O
 78,O
@@ -44994,7 +44994,7 @@ EGF,O
 PDGF,O
 ",",O
 bFGF,O
-"]"",""",O
+"]"",O
 by,O
 secretagogues,O
 activating,O
@@ -45021,7 +45021,7 @@ activating,O
 PKC,O
 [,O
 TPA,B-Chemical
-"]"",""",O
+"]"",O
 but,O
 not,O
 agents,O
@@ -45157,7 +45157,7 @@ GTPases,O
 CDC42,O
 /,O
 Rac1,O
-")"",""",O
+")"",O
 PKC,O
 and,O
 SFK,O
@@ -45312,7 +45312,7 @@ Biedl,I-Disease
 syndrome,I-Disease
 (,O
 BBS,B-Disease
-")"",""",O
+")"",O
 frequently,O
 affecting,O
 many,O
@@ -45341,7 +45341,7 @@ intraflagellar,O
 transport,O
 (,O
 IFT,O
-")"",""",O
+")"",O
 which,O
 is,O
 driven,O
@@ -45437,13 +45437,13 @@ FAM,O
 (,O
 FAM161A,O
 orthologue,O
-")"",""",O
+")"",O
 CCDC,O
 -,O
 104,O
 (,O
 CCDC104,O
-")"",""",O
+")"",O
 and,O
 RPI,O
 -,O
@@ -45452,7 +45452,7 @@ RPI,O
 RP1,O
 /,O
 RP1L1,O
-")"",""",O
+")"",O
 which,O
 we,O
 confirm,O
@@ -45913,7 +45913,7 @@ fibrinolysis,O
 inhibitor,O
 (,O
 TAFI,O
-")"",""",O
+")"",O
 tissue,O
 -,O
 type,O
@@ -45921,7 +45921,7 @@ plasminogen,O
 activator,O
 (,O
 tPA,O
-")"",""",O
+")"",O
 and,O
 plasminogen,O
 activator,O
@@ -46085,7 +46085,7 @@ P,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 and,O
 a,O
 significant,O
@@ -46589,7 +46589,7 @@ DNA,O
 glycosylase,O
 (,O
 Fpg,O
-")"",""",O
+")"",O
 preferentially,O
 recognizing,O
 oxidized,O
@@ -46900,7 +46900,7 @@ position,O
 51,O
 (,O
 G51S,O
-")"",""",O
+")"",O
 was,O
 investigated,O
 in,O
@@ -47544,7 +47544,7 @@ CYP2F1,O
 25,O
 .,O
 6,O
-"%)"",""",O
+"%)"",O
 harbors,O
 a,O
 combination,O
@@ -47769,7 +47769,7 @@ time,O
 .,O
 5,O
 years,O
-")"",""",O
+")"",O
 disabling,O
 motor,O
 fluctuations,O
@@ -47846,7 +47846,7 @@ Rating,O
 Scale,O
 (,O
 UPDRS,O
-")"",""",O
+")"",O
 Hoehn_Yahr,O
 score,O
 and,O
@@ -48986,7 +48986,7 @@ term,I-Disease
 memory,I-Disease
 (,O
 STM,O
-")"",""",O
+")"",O
 as,O
 measured,O
 by,O
@@ -49027,7 +49027,7 @@ factor,O
 alpha,O
 (,O
 TNFalpha,O
-")"",""",O
+")"",O
 hippocampal,O
 MT,B-Chemical
 and,O
@@ -49389,7 +49389,7 @@ sizes,O
 8,O
 /,O
 8,O
-"%"",""",O
+"%"",O
 rs6232,O
 :,O
 pdominant,O
@@ -49462,7 +49462,7 @@ or,O
 0,O
 .,O
 47,O
-")"",""",O
+")"",O
 4,O
 .,O
 5,O
@@ -50059,7 +50059,7 @@ the,O
 refp17,O
 backbone,O
 (,O
-")"",""",O
+")"",O
 as,O
 in,O
 the,O
@@ -50125,7 +50125,7 @@ Src,O
 PAX2,O
 ",",O
 MAPK8,O
-")"",""",O
+")"",O
 cell,O
 cycle,O
 promotion,O
@@ -50201,7 +50201,7 @@ functional,O
 epitope,O
 (,O
 s,O
-")"",""",O
+")"",O
 masked,O
 in,O
 refp17,O
@@ -50428,7 +50428,7 @@ p,O
 0,O
 .,O
 9,O
-")"",""",O
+")"",O
 whereas,O
 there,O
 was,O
@@ -50546,7 +50546,7 @@ G,O
 82,O
 .,O
 4,O
-"%)"",""",O
+"%)"",O
 G,O
 /,O
 A,O
@@ -50554,7 +50554,7 @@ A,O
 10,O
 .,O
 8,O
-"%)"",""",O
+"%)"",O
 A,O
 /,O
 A,O
@@ -50562,7 +50562,7 @@ A,O
 6,O
 .,O
 8,O
-"%)"",""",O
+"%)"",O
 corresponding,O
 to,O
 G,O
@@ -50591,7 +50591,7 @@ G,O
 27,O
 .,O
 2,O
-"%)"",""",O
+"%)"",O
 G,O
 /,O
 A,O
@@ -50599,7 +50599,7 @@ A,O
 28,O
 .,O
 4,O
-"%)"",""",O
+"%)"",O
 A,O
 /,O
 A,O
@@ -50607,7 +50607,7 @@ A,O
 44,O
 .,O
 4,O
-"%)"",""",O
+"%)"",O
 corresponding,O
 to,O
 G,O
@@ -50889,7 +50889,7 @@ skin,I-Disease
 cancers,I-Disease
 (,O
 NMSCs,B-Disease
-")"",""",O
+")"",O
 predominantly,O
 squamous,B-Disease
 cell,I-Disease
@@ -51030,7 +51030,7 @@ actinic,I-Disease
 keratosis,I-Disease
 (,O
 AK,B-Disease
-")"",""",O
+")"",O
 suggesting,O
 that,O
 p53,O
@@ -52005,7 +52005,7 @@ invadopodia,O
 processes,O
 mediating,O
 invasion,O
-")"",""",O
+")"",O
 partially,O
 colocalized,O
 with,O
@@ -52299,7 +52299,7 @@ oncogene,O
 homolog2,O
 (,O
 ETS2,O
-")"",""",O
+")"",O
 located,O
 in,O
 the,O
@@ -52329,7 +52329,7 @@ DS,B-Disease
 N,O
 =,O
 132,O
-")"",""",O
+")"",O
 their,O
 parents,O
 (,O
@@ -52505,7 +52505,7 @@ Calbindin,O
 D28k,O
 (,O
 CB,O
-")"",""",O
+")"",O
 one,O
 of,O
 the,O
@@ -52554,7 +52554,7 @@ Alzheimer,B-Disease
 disease,I-Disease
 (,O
 AD,B-Disease
-")"",""",O
+")"",O
 it,O
 is,O
 unknown,O
@@ -52735,7 +52735,7 @@ receptor,O
 NMDA,O
 receptor,O
 1,O
-")"",""",O
+")"",O
 NMDA,O
 receptor,O
 2A,O
@@ -53500,20 +53500,20 @@ and,O
 eosin,O
 (,O
 HE,O
-")"",""",O
+")"",O
 Gomori,O
 Trichrome,O
 (,O
 MGT,O
-")"",""",O
+")"",O
 (,O
 PAS,O
-")"",""",O
+")"",O
 red,O
 oil,O
 (,O
 ORO,O
-")"",""",O
+")"",O
 NADH,O
 -,O
 TR,O
@@ -53754,7 +53754,7 @@ interstitial,I-Disease
 fibrosis,I-Disease
 (,O
 RIF,B-Disease
-")"",""",O
+")"",O
 and,O
 to,O
 explore,O
@@ -53904,7 +53904,7 @@ mesenchymal,O
 transition,O
 (,O
 EMT,O
-")"",""",O
+")"",O
 as,O
 evidenced,O
 by,O
@@ -54023,7 +54023,7 @@ protein,O
 kinases,O
 (,O
 MAPK,O
-")"",""",O
+")"",O
 both,O
 in,O
 vivo,O
@@ -54276,7 +54276,7 @@ and,O
 1665delC,O
 (,O
 V561X,O
-")"",""",O
+")"",O
 were,O
 found,O
 in,O
@@ -54291,7 +54291,7 @@ variation,O
 ->,O
 (,O
 I238M,O
-")"",""",O
+")"",O
 was,O
 also,O
 found,O
@@ -55490,7 +55490,7 @@ methylhistamine,I-Chemical
 dihydrobromide,I-Chemical
 (,O
 RAMH,B-Chemical
-")"",""",O
+")"",O
 we,O
 measured,O
 (,O
@@ -56159,7 +56159,7 @@ mutations,O
 0,O
 .,O
 6,O
-"%)"",""",O
+"%)"",O
 including,O
 one,O
 novel,O
@@ -56293,7 +56293,7 @@ domain,O
 receptors,O
 (,O
 DDRs,O
-")"",""",O
+")"",O
 DDR1,O
 and,O
 DDR2,O
@@ -57471,23 +57471,23 @@ ICH,B-Disease
 Li,O
 ",",O
 M,O
-"."",""",O
+"."",O
 Ren,O
 ",",O
 H,O
-"."",""",O
+"."",O
 Sheth,O
 ",",O
 K,O
 .,O
 N,O
-"."",""",O
+"."",O
 Shi,O
 ",",O
 F,O
 .-,O
 D,O
-"."",""",O
+"."",O
 Liu,O
 ",",O
 Q,O
@@ -57590,7 +57590,7 @@ missense,O
 mutation,O
 (,O
 S140G,O
-")"",""",O
+")"",O
 neurons,O
 accumulate,O
 ",",O
@@ -58597,7 +58597,7 @@ and,O
 C,O
 /,O
 T,O
-")"",""",O
+")"",O
 with,O
 an,O
 odds,O
@@ -58669,7 +58669,7 @@ population,O
 frequency,O
 of,O
 3,O
-"%"",""",O
+"%"",O
 was,O
 also,O
 significantly,O
@@ -59903,7 +59903,7 @@ protein,O
 88,O
 (,O
 MyD88,O
-")"",""",O
+")"",O
 tumor,O
 necrosis,O
 factor,O
@@ -59913,7 +59913,7 @@ alpha,O
 TNF,O
 -,O
 a,O
-")"",""",O
+")"",O
 and,O
 interleukin,O
 6,O
@@ -60163,7 +60163,7 @@ glucose,B-Chemical
 (,O
 20,O
 mM,O
-")"",""",O
+")"",O
 stepwise,O
 oxidative,O
 phosphorylation,O
@@ -60337,51 +60337,51 @@ milieu,O
 Imasawa,O
 ",",O
 T,O
-"."",""",O
+"."",O
 Obre,O
 ",",O
 E,O
-"."",""",O
+"."",O
 Bellance,O
 ",",O
 N,O
-"."",""",O
+"."",O
 Lavie,O
 ",",O
 J,O
-"."",""",O
+"."",O
 Imasawa,O
 ",",O
 T,O
-"."",""",O
+"."",O
 Rigothier,O
 ",",O
 C,O
-"."",""",O
+"."",O
 Delmas,O
 ",",O
 Y,O
-"."",""",O
+"."",O
 Combe,O
 ",",O
 C,O
-"."",""",O
+"."",O
 Lacombe,O
 ",",O
 D,O
-"."",""",O
+"."",O
 Benard,O
 ",",O
 G,O
-"."",""",O
+"."",O
 Claverol,O
 ",",O
 S,O
-"."",""",O
+"."",O
 Bonneu,O
 ",",O
 M,O
-"."",""",O
+"."",O
 Rossignol,O
 ",",O
 R,O
@@ -61447,7 +61447,7 @@ to,O
 bcg,O
 -,O
 88,O
-")"",""",O
+")"",O
 including,O
 27,O
 hitherto,O
@@ -61923,7 +61923,7 @@ Reis,B-Disease
 -,I-Disease
 Bucklers,I-Disease
 dystrophy,I-Disease
-")"",""",O
+")"",O
 had,O
 the,O
 Arg124Leu,O
@@ -62047,7 +62047,7 @@ forms,O
 NS,O
 -,O
 XLMR,B-Disease
-")"",""",O
+")"",O
 although,O
 the,O
 borderlines,O
@@ -62099,7 +62099,7 @@ mental,I-Disease
 retardation,I-Disease
 (,O
 MR,B-Disease
-")"",""",O
+")"",O
 microphthalmia,B-Disease
 ",",O
 choroid,B-Disease
@@ -62529,7 +62529,7 @@ kg,O
 over,O
 24,O
 h,O
-")"",""",O
+")"",O
 resulting,O
 in,O
 a,O
@@ -62695,7 +62695,7 @@ hematomas,B-Disease
 i,O
 .,O
 e,O
-"."",""",O
+"."",O
 >,O
 15,O
 microL,O
@@ -62775,7 +62775,7 @@ receptor,O
 4,O
 (,O
 FGFR4,O
-")"",""",O
+")"",O
 a,O
 member,O
 of,O
@@ -63153,7 +63153,7 @@ position,O
 (,O
 exon,O
 8,O
-")"",""",O
+")"",O
 which,O
 resulted,O
 in,O
@@ -63529,7 +63529,7 @@ p,O
 10,O
 (-,O
 4,O
-"))"",""",O
+"))"",O
 rs2071349,O
 (,O
 OR,O
@@ -63546,7 +63546,7 @@ p,O
 10,O
 (-,O
 3,O
-"))"",""",O
+"))"",O
 and,O
 rs2844580,O
 (,O
@@ -63564,7 +63564,7 @@ p,O
 10,O
 (-,O
 3,O
-"))"",""",O
+"))"",O
 to,O
 be,O
 associated,O
@@ -65141,7 +65141,7 @@ MSH2,O
 n,O
 =,O
 34,O
-")"",""",O
+")"",O
 but,O
 not,O
 in,O
@@ -65669,7 +65669,7 @@ variant,O
 PrlR,O
 (,O
 I146L,O
-"))"",""",O
+"))"",O
 as,O
 assessed,O
 in,O
@@ -65964,7 +65964,7 @@ DWI,O
 8,O
 /,O
 8,O
-")"",""",O
+")"",O
 apparent,O
 diffusion,O
 coefficient,O
@@ -65976,13 +65976,13 @@ map,O
 4,O
 /,O
 8,O
-")"",""",O
+")"",O
 FLAIR,O
 (,O
 7,O
 /,O
 8,O
-")"",""",O
+")"",O
 and,O
 T2,O
 -,O
@@ -66079,33 +66079,33 @@ nucleus,O
 8,O
 /,O
 8,O
-")"",""",O
+")"",O
 inferior,O
 colliculus,O
 (,O
 6,O
 /,O
 8,O
-")"",""",O
+")"",O
 corpus,O
 callosum,O
 (,O
 2,O
 /,O
 8,O
-")"",""",O
+")"",O
 pons,O
 (,O
 2,O
 /,O
 8,O
-")"",""",O
+")"",O
 medulla,O
 (,O
 1,O
 /,O
 8,O
-")"",""",O
+")"",O
 and,O
 bilateral,O
 cerebral,O
@@ -66136,7 +66136,7 @@ map,O
 3,O
 /,O
 4,O
-")"",""",O
+")"",O
 but,O
 in,O
 one,O
@@ -66475,7 +66475,7 @@ negativity,O
 PC,O
 /,O
 BCP,O
-")"",""",O
+")"",O
 sP120T,O
 ",",O
 and,O
@@ -66823,7 +66823,7 @@ fluorouracil,I-Chemical
 5,B-Chemical
 -,I-Chemical
 FU,I-Chemical
-")"",""",O
+")"",O
 have,O
 been,O
 the,O
@@ -68028,7 +68028,7 @@ esterase,O
 L1,O
 (,O
 UCHL1,O
-")"",""",O
+")"",O
 a,O
 deubiquitinase,O
 de,O
@@ -68268,7 +68268,7 @@ p,O
 14x10,O
 -,O
 4,O
-")"",""",O
+")"",O
 Virus,O
 Entry,O
 via,O
@@ -68283,7 +68283,7 @@ p,O
 10,O
 -,O
 4,O
-")"",""",O
+")"",O
 and,O
 High,O
 Mobility,O
@@ -69137,7 +69137,7 @@ A49T,O
 variant,O
 in,O
 heterozygosis,O
-")"",""",O
+")"",O
 whereas,O
 four,O
 were,O
@@ -69241,7 +69241,7 @@ nucleotide,O
 deletion,O
 (,O
 del642T,O
-")"",""",O
+")"",O
 a,O
 G158R,O
 amino,O
@@ -69258,7 +69258,7 @@ IVS3,O
 1G,O
 >,O
 A,O
-")"",""",O
+")"",O
 and,O
 the,O
 insertion,O
@@ -69744,7 +69744,7 @@ Ets,O
 Leukemia,O
 (,O
 TEL,O
-")"",""",O
+")"",O
 is,O
 an,O
 ETS,O
@@ -70880,7 +70880,7 @@ treatment,O
 (,O
 48,O
 h,O
-")"",""",O
+")"",O
 VIP,O
 (-/-),O
 control,O
@@ -70890,7 +70890,7 @@ treatment,O
 (,O
 48,O
 h,O
-")"",""",O
+")"",O
 WT,O
 control,O
 versus,O
@@ -71301,7 +71301,7 @@ Soulier,I-Disease
 Syndrome,I-Disease
 (,O
 BSS,B-Disease
-")"",""",O
+")"",O
 leading,O
 to,O
 abnormal,O
@@ -71386,7 +71386,7 @@ x,O
 platelets,O
 /,O
 L,O
-")"",""",O
+")"",O
 and,O
 platelet,O
 agglutination,O
@@ -71481,7 +71481,7 @@ pair,O
 deletion,O
 (,O
 TGAG,O
-")"",""",O
+")"",O
 starting,O
 from,O
 the,O
@@ -71797,7 +71797,7 @@ c,O
 28_610,O
 -,O
 16del,O
-")"",""",O
+")"",O
 failed,O
 to,O
 detect,O
@@ -71830,7 +71830,7 @@ mRNA,O
 decay,O
 (,O
 NMD,O
-")"",""",O
+")"",O
 patient,O
 fibroblasts,O
 were,O
@@ -73626,7 +73626,7 @@ domains,O
 I,O
 -,O
 IV,O
-")"",""",O
+")"",O
 each,O
 with,O
 six,O
@@ -75253,7 +75253,7 @@ squamous,I-Disease
 cancer,I-Disease
 (,O
 LSC,B-Disease
-")"",""",O
+")"",O
 small,B-Disease
 cell,I-Disease
 lung,I-Disease
@@ -76644,7 +76644,7 @@ tensin,O
 homolog,O
 (,O
 Pten,O
-")"",""",O
+")"",O
 Akt,O
 and,O
 Bcl,O
@@ -77241,7 +77241,7 @@ V,I-Disease
 GSD,B-Disease
 -,I-Disease
 V,I-Disease
-")"",""",O
+")"",O
 the,O
 most,O
 common,O
@@ -77404,7 +77404,7 @@ C,O
 p,O
 .,O
 W826S,O
-")"",""",O
+")"",O
 two,O
 nonsense,O
 mutations,O
@@ -77428,7 +77428,7 @@ T,O
 p,O
 .,O
 K543X,O
-")"",""",O
+")"",O
 five,O
 splice,O
 site,O
@@ -77473,7 +77473,7 @@ c,O
 1G,O
 >,O
 A,O
-")"",""",O
+")"",O
 and,O
 four,O
 deletions,O
@@ -78058,7 +78058,7 @@ liquid,O
 chromatography,O
 (,O
 DHPLC,O
-")"",""",O
+")"",O
 and,O
 confirmed,O
 the,O
@@ -78076,7 +78076,7 @@ deletion,O
 mutation,O
 (,O
 46delS,O
-")"",""",O
+")"",O
 two,O
 small,O
 insertion,O
@@ -78089,7 +78089,7 @@ and,O
 125,O
 -,O
 126insAA,O
-")"",""",O
+")"",O
 and,O
 six,O
 non,O
@@ -78586,7 +78586,7 @@ intracerebral,B-Disease
 hemorrhage,I-Disease
 (,O
 ICH,B-Disease
-")"",""",O
+")"",O
 but,O
 it,O
 is,O
@@ -78932,7 +78932,7 @@ P,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 but,O
 findings,O
 were,O
@@ -79662,7 +79662,7 @@ interleukin,O
 IL,O
 -,O
 10,O
-")"",""",O
+")"",O
 was,O
 associated,O
 with,O
@@ -79689,7 +79689,7 @@ CI,O
 3,O
 .,O
 10,O
-")"",""",O
+")"",O
 and,O
 the,O
 minor,O
@@ -81117,7 +81117,7 @@ of,O
 10,O
 .,O
 0,O
-"%"",""",O
+"%"",O
 including,O
 24,O
 (,O
@@ -82036,7 +82036,7 @@ factor,O
 H,O
 (,O
 CFH,O
-")"",""",O
+")"",O
 C2,O
 /,O
 BF,O
@@ -82068,7 +82068,7 @@ nucleotide,O
 polymorphisms,O
 (,O
 SNPs,O
-")"",""",O
+")"",O
 in,O
 these,O
 genes,O
@@ -82134,7 +82134,7 @@ in,O
 C2,O
 ",",O
 CFB,O
-"'"",""",O
+"'"",O
 and,O
 C3,O
 were,O
@@ -82183,7 +82183,7 @@ P,O
 0,O
 .,O
 276,O
-")"",""",O
+")"",O
 rs800292,O
 (,O
 P,O
@@ -82191,7 +82191,7 @@ P,O
 0,O
 .,O
 266,O
-")"",""",O
+")"",O
 rs1061170,O
 (,O
 P,O
@@ -82199,7 +82199,7 @@ P,O
 0,O
 .,O
 514,O
-")"",""",O
+")"",O
 and,O
 rs1329428,O
 (,O
@@ -82208,7 +82208,7 @@ P,O
 0,O
 .,O
 89,O
-")"",""",O
+")"",O
 in,O
 CFH,O
 showed,O
@@ -82374,7 +82374,7 @@ P,O
 0,O
 .,O
 276,O
-")"",""",O
+")"",O
 rs800292,O
 (,O
 P,O
@@ -82382,7 +82382,7 @@ P,O
 0,O
 .,O
 266,O
-")"",""",O
+")"",O
 rs1061170,O
 (,O
 P,O
@@ -82390,7 +82390,7 @@ P,O
 0,O
 .,O
 514,O
-")"",""",O
+")"",O
 and,O
 rs1329428,O
 (,O
@@ -82399,7 +82399,7 @@ P,O
 0,O
 .,O
 89,O
-")"",""",O
+")"",O
 but,O
 not,O
 rs7535263,O
@@ -82518,7 +82518,7 @@ termination,O
 codons,O
 (,O
 PTCs,O
-")"",""",O
+")"",O
 which,O
 are,O
 usually,O
@@ -83461,7 +83461,7 @@ p,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 longer,O
 duration,O
 of,O
@@ -83473,7 +83473,7 @@ p,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 longer,O
 disease,O
 duration,O
@@ -83483,7 +83483,7 @@ p,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 higher,O
 total,O
 daily,O
@@ -83495,7 +83495,7 @@ p,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 and,O
 higher,O
 total,O
@@ -83769,7 +83769,7 @@ IFN,O
 gamma,O
 (,O
 Th1,O
-")"",""",O
+")"",O
 and,O
 IL,O
 -,O
@@ -85119,7 +85119,7 @@ mutations,O
 Y245X,O
 ",",O
 G246X,O
-")"",""",O
+")"",O
 inherited,O
 in,O
 an,O
@@ -86092,7 +86092,7 @@ kinase,O
 1,O
 (,O
 TAK1,O
-")"",""",O
+")"",O
 a,O
 member,O
 of,O
@@ -86527,7 +86527,7 @@ keloid,B-Disease
 fibroblasts,O
 (,O
 KFs,O
-")"",""",O
+")"",O
 while,O
 expression,O
 of,O
@@ -87385,7 +87385,7 @@ days,O
 8,O
 and,O
 9,O
-")"",""",O
+")"",O
 these,O
 mice,O
 were,O
@@ -87409,7 +87409,7 @@ day,O
 (,O
 day,O
 10,O
-")"",""",O
+")"",O
 mice,O
 were,O
 subjected,O
@@ -88039,7 +88039,7 @@ n,O
 10,O
 per,O
 group,O
-")"",""",O
+")"",O
 as,O
 follows,O
 :,O
@@ -88528,7 +88528,7 @@ protein,O
 1,O
 (,O
 Sp1,O
-")"",""",O
+")"",O
 which,O
 then,O
 inhibited,O
@@ -88589,7 +88589,7 @@ heart,I-Disease
 disease,I-Disease
 (,O
 CHD,B-Disease
-")"",""",O
+")"",O
 one,O
 of,O
 the,O
@@ -89198,7 +89198,7 @@ radiotherapy,O
 n,O
 =,O
 133,O
-")"",""",O
+")"",O
 420,O
 patients,O
 diagnosed,O
@@ -89307,7 +89307,7 @@ AML,B-Disease
 75,O
 .,O
 0,O
-"%"",""",O
+"%"",O
 n,O
 =,O
 12,O
@@ -89345,7 +89345,7 @@ AML,B-Disease
 30,O
 .,O
 4,O
-"%"",""",O
+"%"",O
 n,O
 =,O
 69,O
@@ -89357,7 +89357,7 @@ patients,O
 27,O
 .,O
 2,O
-"%"",""",O
+"%"",O
 n,O
 =,O
 22,O
@@ -89389,7 +89389,7 @@ cases,O
 36,O
 .,O
 9,O
-"%"",""",O
+"%"",O
 n,O
 =,O
 420,O
@@ -89401,11 +89401,11 @@ controls,O
 36,O
 .,O
 3,O
-"%"",""",O
+"%"",O
 n,O
 =,O
 952,O
-")"",""",O
+")"",O
 and,O
 was,O
 associated,O
@@ -89437,7 +89437,7 @@ to,O
 20,O
 .,O
 15,O
-")"",""",O
+")"",O
 but,O
 only,O
 in,O
@@ -90921,7 +90921,7 @@ mg,O
 kg,O
 (-,O
 1,O
-")"",""",O
+")"",O
 should,O
 be,O
 weighed,O
@@ -91690,7 +91690,7 @@ cis,B-Chemical
 diamminedichloroplatinum,I-Chemical
 (,O
 II,O
-")"",""",O
+")"",O
 CDDP,B-Chemical
 ),O
 have,O
@@ -92521,7 +92521,7 @@ b1,O
 TGF,O
 -,O
 b1,O
-")"",""",O
+")"",O
 and,O
 F4,O
 /,O
@@ -92804,7 +92804,7 @@ SLC2A2,O
 [,O
 encoding,O
 GLUT2,O
-"]"",""",O
+"]"",O
 GCK,O
 ",",O
 TCF1,O
@@ -92813,7 +92813,7 @@ encoding,O
 HNF,O
 -,O
 1alpha,O
-"]"",""",O
+"]"",O
 HNF4A,O
 ",",O
 GIP,O
@@ -92949,7 +92949,7 @@ group,O
 17,O
 .,O
 39,O
-"]"",""",O
+"]"",O
 P,O
 =,O
 0,O
@@ -93282,7 +93282,7 @@ nucleotide,O
 polymorphism,O
 (,O
 SNP,O
-")"",""",O
+")"",O
 G472A,O
 ",",O
 codes,O
@@ -94485,7 +94485,7 @@ Osaka,O
 (,O
 Arg158,O
 Pro,O
-")"",""",O
+")"",O
 in,O
 a,O
 dyslipidemic,B-Disease
@@ -95359,7 +95359,7 @@ PAT,O
 mRNA,O
 by,O
 60,O
-"%"",""",O
+"%"",O
 but,O
 without,O
 a,O
@@ -95670,7 +95670,7 @@ BCL2,O
 -,O
 interacting,O
 killer,O
-")"",""",O
+")"",O
 Star,O
 -,O
 PAP,O
@@ -96337,7 +96337,7 @@ serotonergic,I-Chemical
 antidepressant,I-Chemical
 (,O
 NaSSA,B-Chemical
-")"",""",O
+")"",O
 has,O
 been,O
 associated,O
@@ -96499,14 +96499,14 @@ palate,I-Disease
 CL,B-Disease
 /,I-Disease
 P,I-Disease
-")"",""",O
+")"",O
 and,O
 cleft,B-Disease
 palate,I-Disease
 only,O
 (,O
 CPO,B-Disease
-")"",""",O
+")"",O
 among,O
 different,O
 geographic,O
@@ -96572,7 +96572,7 @@ in,O
 the,O
 same,O
 hospital,O
-")"",""",O
+")"",O
 over,O
 4,O
 ",",O
@@ -98460,7 +98460,7 @@ IRS2,O
 .,O
 5,O
 kb,O
-")"",""",O
+")"",O
 were,O
 bidirectionally,O
 sequenced,O
@@ -98772,7 +98772,7 @@ Takotsubo,B-Disease
 syndrome,I-Disease
 (,O
 TS,B-Disease
-")"",""",O
+")"",O
 also,O
 known,O
 as,O
@@ -99180,7 +99180,7 @@ cytidine,O
 deaminase,O
 (,O
 AID,O
-")"",""",O
+")"",O
 memory,O
 marker,O
 CD45RO,O
@@ -100403,7 +100403,7 @@ mg,O
 /,O
 kg,O
 iv,O
-")"",""",O
+")"",O
 whereas,O
 the,O
 control,O
@@ -100527,7 +100527,7 @@ convoluted,O
 tubule,O
 (,O
 DCT2,O
-")"",""",O
+")"",O
 connecting,O
 tubule,O
 ",",O
@@ -100593,7 +100593,7 @@ type,O
 3,O
 (,O
 NHE3,O
-")"",""",O
+")"",O
 Na,O
 (+)-,O
 K,O
@@ -100605,7 +100605,7 @@ cotransporter,O
 BSC,O
 -,O
 1,O
-")"",""",O
+")"",O
 and,O
 thiazide,O
 -,O
@@ -100827,7 +100827,7 @@ methyldopa,I-Chemical
 mg,O
 /,O
 kg,O
-")"",""",O
+")"",O
 selective,O
 I1,O
 -,O
@@ -101154,7 +101154,7 @@ kg,O
 min,O
 (-,O
 1,O
-"))"",""",O
+"))"",O
 increasing,O
 significantly,O
 to,O
@@ -101535,7 +101535,7 @@ i,O
 .,O
 p,O
 .,O
-")"",""",O
+")"",O
 on,O
 ergometrine,B-Chemical
 -,O
@@ -101763,7 +101763,7 @@ and,O
 mg,O
 /,O
 kg,O
-")"",""",O
+")"",O
 by,O
 blocking,O
 the,O
@@ -102048,7 +102048,7 @@ was,O
 months,O
 (,O
 clozapine,B-Chemical
-")"",""",O
+")"",O
 29,O
 .,O
 5,O
@@ -102059,7 +102059,7 @@ clozapine,B-Chemical
 months,O
 (,O
 olanzapine,B-Chemical
-")"",""",O
+")"",O
 and,O
 40,O
 .,O
@@ -102172,7 +102172,7 @@ clozapine,B-Chemical
 olanzapine,B-Chemical
 <,O
 risperidone,B-Chemical
-")"",""",O
+")"",O
 with,O
 subjects,O
 who,O
@@ -102452,7 +102452,7 @@ valproic,B-Chemical
 acid,I-Chemical
 (,O
 VPA,B-Chemical
-")"",""",O
+")"",O
 which,O
 is,O
 a,O
@@ -102573,7 +102573,7 @@ lipid,B-Chemical
 hydroperoxides,I-Chemical
 (,O
 LPO,B-Chemical
-")"",""",O
+")"",O
 and,O
 thiobarbituric,B-Chemical
 acid,I-Chemical
@@ -103648,7 +103648,7 @@ p,O
 .,O
 o,O
 .,O
-")"",""",O
+")"",O
 whereas,O
 Ro4368554,B-Chemical
 was,O
@@ -103682,7 +103682,7 @@ kg,O
 p,O
 .,O
 o,O
-"."",""",O
+"."",O
 respectively,O
 ),O
 reversed,O
@@ -103703,7 +103703,7 @@ kg,O
 i,O
 .,O
 p,O
-"."",""",O
+"."",O
 and,O
 3,O
 mg,O
@@ -103713,7 +103713,7 @@ kg,O
 p,O
 .,O
 o,O
-"."",""",O
+"."",O
 respectively,O
 ).,O
 In,O
@@ -103850,7 +103850,7 @@ DMSO,B-Chemical
 saline,O
 +,O
 DMSO,B-Chemical
-")"",""",O
+")"",O
 scopolamine,B-Chemical
 (,O
 2,O
@@ -103868,7 +103868,7 @@ side,O
 min,O
 before,O
 training,O
-")"",""",O
+")"",O
 ritanserin,B-Chemical
 (,O
 2,O
@@ -104286,7 +104286,7 @@ users,O
 55,O
 lifetime,O
 tablets,O
-")"",""",O
+")"",O
 22,O
 heavy,O
 MDMA,B-Chemical
@@ -104296,7 +104296,7 @@ users,O
 55,O
 lifetime,O
 tablets,O
-")"",""",O
+")"",O
 16,O
 ex,O
 -,O
@@ -104515,7 +104515,7 @@ Linn,O
 .,O
 (,O
 Anacardiaceae,O
-")"",""",O
+")"",O
 on,O
 isoproterenol,B-Chemical
 (,O
@@ -104585,7 +104585,7 @@ isoenzymes,O
 CK,O
 -,O
 MB,O
-")"",""",O
+")"",O
 increased,O
 uric,B-Chemical
 acid,I-Chemical
@@ -105685,7 +105685,7 @@ testing,O
 memory,O
 .,O
 Diazepam,B-Chemical
-"-"",""",O
+"-"",O
 scopolamine,B-Chemical
 -,O
 and,O
@@ -106223,7 +106223,7 @@ micromol,O
 kg,O
 (-,O
 1,O
-")"",""",O
+")"",O
 IV,O
 ),O
 did,O
@@ -106724,7 +106724,7 @@ day,O
 p,O
 .,O
 o,O
-"."",""",O
+"."",O
 Ato,B-Chemical
 could,O
 prevent,O
@@ -106944,7 +106944,7 @@ P,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 but,O
 was,O
 significantly,O
@@ -107134,7 +107134,7 @@ At,O
 puberty,O
 (,O
 P40,O
-")"",""",O
+")"",O
 half,O
 the,O
 PCPA,B-Chemical
@@ -107219,7 +107219,7 @@ acid,I-Chemical
 5,B-Chemical
 -,I-Chemical
 HIAA,I-Chemical
-")"",""",O
+")"",O
 were,O
 determined,O
 using,O
@@ -107564,7 +107564,7 @@ M,O
 5,O
 )-,O
 selective,O
-"')"",""",O
+"')"",O
 methoctramine,B-Chemical
 (',O
 M,O
@@ -107911,7 +107911,7 @@ diastolic,O
 BP,O
 [,O
 MSDBP,O
-"]"",""",O
+"]"",O
 >,O
 or,O
 =,O
@@ -108448,7 +108448,7 @@ xanthine,B-Chemical
 oxidase,I-Chemical
 (,O
 XO,B-Chemical
-")"",""",O
+")"",O
 which,O
 is,O
 implicated,O
@@ -108491,7 +108491,7 @@ saline,O
 dexamethasone,B-Chemical
 (,O
 dex,B-Chemical
-")"",""",O
+")"",O
 allopurinol,B-Chemical
 plus,O
 saline,O
@@ -108946,7 +108946,7 @@ P,O
 0,O
 .,O
 1,O
-")"",""",O
+")"",O
 while,O
 there,O
 were,O
@@ -110021,7 +110021,7 @@ lack,O
 norepinephrine,B-Chemical
 (,O
 NE,B-Chemical
-")"",""",O
+")"",O
 in,O
 the,O
 elevated,O
@@ -110589,13 +110589,13 @@ clonidine,B-Chemical
 n,O
 =,O
 31,O
-")"",""",O
+")"",O
 methylphenidate,B-Chemical
 (,O
 n,O
 =,O
 29,O
-")"",""",O
+")"",O
 clonidine,B-Chemical
 and,O
 methylphenidate,B-Chemical
@@ -110603,7 +110603,7 @@ methylphenidate,B-Chemical
 n,O
 =,O
 32,O
-")"",""",O
+")"",O
 or,O
 placebo,O
 (,O
@@ -110690,7 +110690,7 @@ versus,O
 p,O
 =.,O
 2,O
-")"",""",O
+")"",O
 but,O
 no,O
 other,O
@@ -110922,13 +110922,13 @@ activity,O
 (,O
 Fluo3,B-Chemical
 fluorescence,O
-")"",""",O
+")"",O
 cell,O
 volume,O
 (,O
 forward,O
 scatter,O
-")"",""",O
+")"",O
 and,O
 PS,B-Chemical
 -,O
@@ -111082,7 +111082,7 @@ Neurosci,O
 9,O
 (,O
 2006,O
-")"",""",O
+")"",O
 917,O
 ],O
 recently,O
@@ -111428,7 +111428,7 @@ NVP,B-Chemical
 54,O
 .,O
 8,O
-"%)"",""",O
+"%)"",O
 zidovudine,B-Chemical
 (,O
 AZT,B-Chemical
@@ -111441,7 +111441,7 @@ NVP,B-Chemical
 14,O
 .,O
 5,O
-"%)"",""",O
+"%)"",O
 3TC,B-Chemical
 +,O
 d4T,B-Chemical
@@ -111454,7 +111454,7 @@ EFV,B-Chemical
 20,O
 .,O
 1,O
-"%)"",""",O
+"%)"",O
 and,O
 AZT,B-Chemical
 +,O
@@ -112220,7 +112220,7 @@ P,O
 0,O
 .,O
 35,O
-")"",""",O
+")"",O
 respectively,O
 ",",O
 while,O
@@ -112421,7 +112421,7 @@ fat,B-Chemical
 diet,O
 (,O
 HFD,O
-")"",""",O
+")"",O
 which,O
 induces,O
 obesity,B-Disease
@@ -112436,7 +112436,7 @@ rats,O
 -,O
 275,O
 g,O
-")"",""",O
+")"",O
 sensitizes,O
 to,O
 doxorubicin,B-Chemical
@@ -112619,7 +112619,7 @@ g,O
 heart,O
 in,O
 OB,B-Disease
-")"",""",O
+")"",O
 (,O
 5,O
 ),O
@@ -113599,7 +113599,7 @@ groups,O
 SH,O
 (,O
 6,O
-")"",""",O
+")"",O
 SH,O
 (,O
 12,O
@@ -113611,7 +113611,7 @@ Groups,O
 ADR,B-Chemical
 (,O
 6,O
-")"",""",O
+")"",O
 ADR,B-Chemical
 +,O
 LOS,B-Chemical
@@ -113622,7 +113622,7 @@ and,O
 ADR,B-Chemical
 (,O
 12,O
-")"",""",O
+")"",O
 and,O
 ADR,B-Chemical
 +,O
@@ -114857,19 +114857,19 @@ users,O
 Nestor,O
 ",",O
 L,O
-"."",""",O
+"."",O
 Roberts,O
 ",",O
 G,O
-"."",""",O
+"."",O
 Garavan,O
 ",",O
 H,O
-"."",""",O
+"."",O
 Hester,O
 ",",O
 R,O
-"."",""",O
+"."",O
 2008,O
 .,O
 Deficits,B-Disease
@@ -115375,7 +115375,7 @@ evaluation,O
 Etodolac,B-Chemical
 (,O
 E,B-Chemical
-")"",""",O
+")"",O
 is,O
 a,O
 non,O
@@ -115433,7 +115433,7 @@ of,O
 etodolac,B-Chemical
 (,O
 EAI,B-Chemical
-")"",""",O
+")"",O
 was,O
 condensed,O
 with,O
@@ -115566,7 +115566,7 @@ pH,O
 7,O
 .,O
 4,O
-")"",""",O
+")"",O
 following,O
 first,O
 -,O
@@ -116002,7 +116002,7 @@ g,O
 -,O
 8,O
 wk,O
-")"",""",O
+")"",O
 were,O
 randomized,O
 into,O
@@ -116013,7 +116013,7 @@ groups,O
 saline,O
 (,O
 control,O
-")"",""",O
+")"",O
 2,O
 ),O
 NTG,B-Chemical
@@ -116530,7 +116530,7 @@ mg,O
 N,O
 =,O
 10,O
-")"",""",O
+")"",O
 or,O
 placebo,O
 (,O
@@ -116605,14 +116605,14 @@ at,O
 a,O
 .,O
 m,O
-"."",""",O
+"."",O
 2,O
 :,O
 0,O
 p,O
 .,O
 m,O
-"."",""",O
+"."",O
 and,O
 4,O
 :,O
@@ -117317,7 +117317,7 @@ and,O
 superoxide,O
 dismutase,O
 activity,O
-")"",""",O
+")"",O
 suppressed,O
 lipid,B-Chemical
 peroxidation,O
@@ -117515,7 +117515,7 @@ twice,O
 daily,O
 (,O
 BID,O
-")"",""",O
+")"",O
 asenapine,B-Chemical
 at,O
 10,O
@@ -117543,7 +117543,7 @@ carried,O
 forward,O
 (,O
 LOCF,O
-")"",""",O
+")"",O
 mean,O
 Positive,O
 and,O
@@ -117600,7 +117600,7 @@ repeated,O
 measures,O
 (,O
 MMRM,O
-")"",""",O
+")"",O
 changes,O
 at,O
 day,O
@@ -117710,9 +117710,9 @@ in,O
 %,O
 and,O
 52,O
-"%"",""",O
+"%"",O
 57,O
-"%"",""",O
+"%"",O
 and,O
 41,O
 %,O
@@ -117745,9 +117745,9 @@ in,O
 %,O
 and,O
 18,O
-"%"",""",O
+"%"",O
 34,O
-"%"",""",O
+"%"",O
 and,O
 10,O
 %,O
@@ -118375,7 +118375,7 @@ nmol,O
 .,O
 5,O
 microl,O
-")"",""",O
+")"",O
 or,O
 of,O
 the,O
@@ -118978,7 +118978,7 @@ kg,O
 i,O
 .,O
 p,O
-"."",""",O
+"."",O
 one,O
 day,O
 pre,O
@@ -119179,7 +119179,7 @@ Nitric,B-Chemical
 oxide,I-Chemical
 (,O
 NO,B-Chemical
-")"",""",O
+")"",O
 gaseous,O
 neurotransmitter,O
 ",",O
@@ -119203,7 +119203,7 @@ NO,O
 syntheses,O
 (,O
 NOS,O
-")"",""",O
+")"",O
 and,O
 L,B-Chemical
 -,I-Chemical
@@ -119521,7 +119521,7 @@ chromatid,O
 exchanges,O
 (,O
 SCEs,O
-")"",""",O
+")"",O
 proliferation,O
 rate,O
 index,O
@@ -119772,7 +119772,7 @@ Corn,B-Chemical
 oil,I-Chemical
 (,O
 control,O
-")"",""",O
+")"",O
 diazinon,B-Chemical
 (,O
 15mg,O
@@ -119963,7 +119963,7 @@ octapeptide,I-Chemical
 CCK,B-Chemical
 -,I-Chemical
 8,I-Chemical
-")"",""",O
+")"",O
 which,O
 is,O
 a,O
@@ -120067,7 +120067,7 @@ Population,O
 spikes,O
 (,O
 PS,O
-")"",""",O
+")"",O
 which,O
 were,O
 evoked,O
@@ -120352,7 +120352,7 @@ coronary,O
 angiography,O
 (,O
 PCAG,O
-")"",""",O
+")"",O
 all,O
 with,O
 creatinine,B-Chemical
@@ -120552,7 +120552,7 @@ was,O
 five,O
 (,O
 25,O
-"%)"",""",O
+"%)"",O
 in,O
 the,O
 second,O
@@ -120703,7 +120703,7 @@ pretreatment,O
 (,O
 Group,O
 NP,O
-")"",""",O
+")"",O
 fentanyl,B-Chemical
 1,O
 ug,O
@@ -120714,7 +120714,7 @@ kg,O
 (,O
 Group,O
 F,O
-")"",""",O
+")"",O
 midazolam,B-Chemical
 0,O
 .,O
@@ -120727,7 +120727,7 @@ kg,O
 (,O
 Group,O
 M,O
-")"",""",O
+")"",O
 and,O
 midazolam,B-Chemical
 0,O
@@ -120851,11 +120851,11 @@ myoclonus,B-Disease
 incidence,O
 was,O
 85,O
-"%"",""",O
+"%"",O
 40,O
-"%"",""",O
+"%"",O
 70,O
-"%"",""",O
+"%"",O
 and,O
 25,O
 %,O
@@ -121016,9 +121016,9 @@ kg,O
 d,O
 (-,O
 1,O
-")"",""",O
+")"",O
 sc,O
-")"",""",O
+")"",O
 the,O
 androgen,O
 receptor,O
@@ -121035,9 +121035,9 @@ kg,O
 d,O
 (-,O
 1,O
-")"",""",O
+")"",O
 ip,O
-")"",""",O
+")"",O
 the,O
 estrogen,O
 receptor,O
@@ -121054,7 +121054,7 @@ kg,O
 d,O
 (-,O
 1,O
-")"",""",O
+")"",O
 ip,O
 ),O
 or,O
@@ -121073,7 +121073,7 @@ kg,O
 d,O
 (-,O
 1,O
-")"",""",O
+")"",O
 ip,O
 ),O
 were,O
