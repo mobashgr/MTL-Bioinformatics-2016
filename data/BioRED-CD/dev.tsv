@@ -1,3 +1,4 @@
+
 Congenital	B-Disease
 hypothyroidism	I-Disease
 due	O
@@ -485,9 +486,9 @@ literature	O
 pallidotomy	O
 improves	O
 the	O
-"	649	650	O	
+"	649	650	O	"	
 on	O
-"	652	653	O	
+"	652	653	O	"	
 symptoms	O
 of	O
 PD	B-Disease
@@ -500,9 +501,9 @@ as	O
 well	O
 as	O
 the	O
-"	706	707	O	
+"	706	707	O	"	
 off	O
-"	710	711	O	
+"	710	711	O	"	
 symptoms	O
 ","	O
 such	O
@@ -561,9 +562,7 @@ limbs	O
 but	O
 increases	O
 the	O
-"	1032	1033	O	
 freezing	O
-"	1041	1042	O	
 phenomenon	O
 in	O
 the	O
@@ -30168,9 +30167,9 @@ assessed	O
 the	O
 effect	O
 of	O
-"	186	187	O	
+"	186	187	O	"	
 real	O
-"	191	192	O	
+"	191	192	O	"	
 repetitive	O
 transcranial	O
 magnetic	O
@@ -30179,9 +30178,9 @@ stimulation	O
 rTMS	O
 )	O
 versus	O
-"	252	253	O	
+"	252	253	O	"	
 sham	O
-"	257	258	O	
+"	257	258	O	"	
 rTMS	O
 (	O
 placebo	O
