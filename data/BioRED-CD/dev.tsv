@@ -485,9 +485,9 @@ literature	O
 pallidotomy	O
 improves	O
 the	O
-"	649	650	O	"	
+	
 on	O
-"	652	653	O	"	
+	
 symptoms	O
 of	O
 PD	B-Disease
@@ -500,9 +500,9 @@ as	O
 well	O
 as	O
 the	O
-"	706	707	O	"	
+	
 off	O
-"	710	711	O	"	
+	
 symptoms	O
 ","	O
 such	O
@@ -3393,7 +3393,6 @@ are	O
 inappropriately	O
 expressed	O
 (	O
-4-Oct	O
 ","	O
 Nanog	O
 ","	O
@@ -13759,7 +13758,7 @@ these	O
 findings	O
 .	O
 	
-21903317	
+	
 Autosomal	O
 dominant	O
 mutation	O
@@ -14069,7 +14068,7 @@ signal	O
 peptide	O
 .	O
 	
-27103577	
+	
 On	O
 the	O
 pivotal	O
@@ -14490,7 +14489,7 @@ hypoxic	B-Disease
 injury	O
 .	O
 	
-27491646	
+	
 Gartanin	B-Chemical
 induces	O
 cell	O
@@ -14829,7 +14828,7 @@ signalling	O
 pathway	O
 .	O
 	
-16611040	
+	
 Gene	O
 therapy	O
 for	O
@@ -15119,7 +15118,7 @@ CF	B-Disease
 patients	O
 .	O
 	
-17033974	
+	
 Mutation	O
 in	O
 the	O
@@ -15336,7 +15335,7 @@ cone	B-Disease
 dystrophy	I-Disease
 .	O
 	
-24014394	
+	
 A	O
 homozygous	O
 mutation	O
@@ -15564,7 +15563,7 @@ mitochondrial	B-Disease
 encephalopathy	I-Disease
 .	O
 	
-15018851	
+	
 Comparison	O
 of	O
 sequential	O
@@ -15854,7 +15853,7 @@ interstrain	O
 variation	O
 .	O
 	
-17671735	
+	
 Coincidence	O
 of	O
 mutations	O
@@ -16124,7 +16123,7 @@ hearing	B-Disease
 impairment	I-Disease
 .	O
 	
-28518143	
+	
 Calcium	O
 sensing	O
 receptor	O
@@ -16441,7 +16440,7 @@ for	O
 DCM	B-Disease
 .	O
 	
-17600377	
+	
 A	O
 novel	O
 compound	O
@@ -16695,7 +16694,7 @@ cognitive	I-Disease
 function	I-Disease
 .	O
 	
-16181814	
+	
 Mono	O
 -	O
 allelic	O
@@ -17022,7 +17021,7 @@ E873stop	O
 mutation	O
 .	O
 	
-20143913	
+	
 Large	O
 deletion	O
 involving	O
@@ -17233,7 +17232,7 @@ genetic	O
 counseling	O
 .	O
 	
-15579441	
+	
 Hypoxia	B-Disease
 in	O
 renal	B-Disease
@@ -17499,7 +17498,7 @@ glomerular	B-Disease
 diseases	I-Disease
 .	O
 	
-15754732	
+	
 Novel	O
 somatic	O
 MEN1	O
@@ -17887,7 +17886,7 @@ the	O
 disease	O
 .	O
 	
-18385794	
+	
 Identification	O
 of	O
 novel	O
@@ -18340,7 +18339,7 @@ patient	O
 cohort	O
 .	O
 	
-25589620	
+	
 Pharmacogenetic	O
 Analysis	O
 of	O
@@ -18782,7 +18781,7 @@ FU	I-Chemical
 schedule	O
 .	O
 	
-15086325	
+	
 Identification	O
 of	O
 three	O
@@ -19059,7 +19058,7 @@ deficiency	I-Disease
 respectively	O
 .	O
 	
-19300402	
+	
 Bradykinin	B-Chemical
 receptors	I-Chemical
 antagonists	I-Chemical
@@ -19456,7 +19455,7 @@ hospital	O
 care	O
 .	O
 	
-24288432	
+	
 Association	O
 of	O
 a	O
@@ -19783,7 +19782,7 @@ preterm	O
 newborns	O
 .	O
 	
-28259923	
+	
 Pleomorphic	O
 adenoma	O
 gene	O
@@ -20068,7 +20067,7 @@ signaling	O
 pathway	O
 .	O
 	
-16000134	
+	
 Successful	O
 therapy	O
 with	O
@@ -20213,7 +20212,7 @@ SMV	B-Disease
 thrombosis	I-Disease
 .	O
 	
-16225977	
+	
 Amisulpride	B-Chemical
 related	O
 tic	B-Disease
@@ -20425,7 +20424,7 @@ or	O
 amisulpride	B-Chemical
 .	O
 	
-20859899	
+	
 Syncope	B-Disease
 caused	O
 by	O
@@ -20590,7 +20589,7 @@ renal	B-Disease
 disturbance	I-Disease
 .	O
 	
-15041272	
+	
 A	O
 first	O
 Taiwanese	O
@@ -20918,7 +20917,7 @@ was	O
 described	O
 .	O
 	
-17395743	
+	
 Identification	O
 of	O
 PVT1	O
@@ -21242,7 +21241,7 @@ in	O
 diabetes	B-Disease
 .	O
 	
-27729412	
+	
 Reduced	O
 adiponectin	O
 expression	O
@@ -21635,7 +21634,7 @@ adipose	O
 tissue	O
 .	O
 	
-29183288	
+	
 Arginase	O
 1	O
 deletion	O
@@ -22041,7 +22040,7 @@ inflammatory	B-Disease
 cells	O
 .	O
 	
-20959502	
+	
 Cerebrospinal	O
 fluid	O
 penetration	O
@@ -22450,7 +22449,7 @@ is	O
 warranted	O
 .	O
 	
-20682662	
+	
 Lack	O
 of	O
 association	O
@@ -22808,7 +22807,7 @@ was	O
 demonstrated	O
 .	O
 	
-23285048	
+	
 Context	O
 -	O
 and	O
@@ -23194,7 +23193,7 @@ transplant	O
 setting	O
 .	O
 	
-27663860	
+	
 Role	O
 of	O
 angiotensin	O
@@ -23547,7 +23546,7 @@ salt	O
 hypertension	B-Disease
 .	O
 	
-27807193	
+	
 PTPN22	O
 Is	O
 a	O
@@ -23794,7 +23793,7 @@ neutrophil	O
 function	O
 .	O
 	
-15069170	
+	
 Four	O
 novel	O
 mutations	O
@@ -24186,7 +24185,7 @@ other	O
 populations	O
 .	O
 	
-17397547	
+	
 Regulatory	O
 network	O
 of	O
@@ -24700,7 +24699,7 @@ of	O
 cystitis	B-Disease
 .	O
 	
-17445520	
+	
 Caffeine	B-Chemical
 challenge	O
 test	O
@@ -25066,7 +25065,7 @@ challenge	O
 test	O
 .	O
 	
-23651211	
+	
 Upregulation	O
 of	O
 T	O
@@ -25447,7 +25446,7 @@ of	O
 HCC	B-Disease
 .	O
 	
-15991002	
+	
 Nicotine	B-Chemical
 antagonizes	O
 caffeine	B-Chemical
@@ -25820,7 +25819,7 @@ and	O
 caffeine	B-Chemical
 .	O
 	
-16565833	
+	
 The	O
 influence	O
 of	O
@@ -26306,7 +26305,7 @@ before	O
 DOX	B-Chemical
 .	O
 	
-16680561	
+	
 Pharmacokinetics	O
 of	O
 desipramine	B-Chemical
@@ -26611,7 +26610,7 @@ by	O
 CYP2D6	O
 .	O
 	
-16867021	
+	
 Antipsychotic	B-Chemical
 -	O
 like	O
@@ -27057,7 +27056,7 @@ of	O
 schizophrenia	B-Disease
 .	O
 	
-17042884	
+	
 Placebo	O
 -	O
 level	O
@@ -27570,7 +27569,7 @@ with	O
 placebo	O
 .	O
 	
-17151160	
+	
 Randomized	O
 comparison	O
 of	O
@@ -28050,7 +28049,7 @@ with	O
 olanzapine	B-Chemical
 .	O
 	
-17255138	
+	
 Risks	O
 and	O
 benefits	O
@@ -28535,7 +28534,7 @@ least	O
 toxic	O
 .	O
 	
-17297207	
+	
 Quinine	B-Chemical
 -	O
 induced	O
@@ -28925,7 +28924,7 @@ malaria	B-Disease
 cases	O
 .	O
 	
-17384765	
+	
 Succimer	B-Chemical
 chelation	O
 improves	O
@@ -29242,7 +29241,7 @@ heavy	O
 metals	O
 .	O
 	
-17608141	
+	
 Attenuation	O
 of	O
 methamphetamine	B-Chemical
@@ -29471,7 +29470,7 @@ dopamine	B-Chemical
 neurotoxicity	B-Disease
 .	O
 	
-18162529	
+	
 Hypothalamic	O
 prolactin	O
 receptor	O
@@ -29827,7 +29826,7 @@ by	O
 prolactin	O
 .	O
 	
-18308784	
+	
 Ginsenoside	B-Chemical
 Rg1	I-Chemical
 restores	O
@@ -30131,7 +30130,7 @@ receptor	O
 dependent	O
 .	O
 	
-18951540	
+	
 Repetitive	O
 transcranial	O
 magnetic	O
@@ -30166,9 +30165,9 @@ assessed	O
 the	O
 effect	O
 of	O
-"	186	187	O	"	
+	
 real	O
-"	191	192	O	"	
+	
 repetitive	O
 transcranial	O
 magnetic	O
@@ -30177,9 +30176,9 @@ stimulation	O
 rTMS	O
 )	O
 versus	O
-"	252	253	O	"	
+	
 sham	O
-"	257	258	O	"	
+	
 rTMS	O
 (	O
 placebo	O
@@ -30405,7 +30404,7 @@ therapeutic	O
 uses	O
 .	O
 	
-19759529	
+	
 The	O
 glycine	O
 transporter	O
@@ -30795,7 +30794,7 @@ latter	O
 drugs	O
 .	O
 	
-19914299	
+	
 Fluoxetine	B-Chemical
 improves	O
 the	O
@@ -31126,7 +31125,7 @@ antidepressant	O
 Fluoxetine	B-Chemical
 .	O
 	
-20195852	
+	
 Risk	O
 of	O
 nephropathy	B-Disease
@@ -31577,7 +31576,7 @@ in	O
 children	O
 .	O
 	
-20621845	
+	
 Elevation	O
 of	O
 ADAM10	O
@@ -31985,7 +31984,7 @@ vascular	O
 remodeling	O
 .	O
 	
-23872883	
+	
 Biochemical	O
 effects	O
 of	O
@@ -32260,7 +32259,7 @@ cardioprotective	B-Chemical
 agent	I-Chemical
 .	O
 	
-24333387	
+	
 Glial	O
 activation	O
 and	O
@@ -32613,7 +32612,7 @@ cell	O
 death	O
 .	O
 	
-24438483	
+	
 Pre	O
 -	O
 treatment	O
@@ -32944,7 +32943,7 @@ clinical	O
 practice	O
 .	O
 	
-25119790	
+	
 Curcumin	B-Chemical
 prevents	O
 maleate	B-Chemical
