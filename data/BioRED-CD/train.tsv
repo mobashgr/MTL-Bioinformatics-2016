@@ -821,9 +821,9 @@ and	O
 accounted	O
 for	O
 51	O
-%,O
+
 20	O
-%,O
+
 and	O
 11	O
 %	O
@@ -6342,7 +6342,7 @@ vs	O
 21	O
 +/-	O
 2	O
-%,O
+
 P	O
 less	O
 than	O
@@ -7289,7 +7289,7 @@ versus	O
 51	O
 .	O
 5	O
-%,O
+
 p	O
 <	O
 0	O
@@ -7308,7 +7308,7 @@ versus	O
 34	O
 .	O
 9	O
-%,O
+
 p	O
 =	O
 0	O
@@ -7406,7 +7406,7 @@ versus	O
 55	O
 .	O
 2	O
-%,O
+
 p	O
 =	O
 0	O
@@ -7449,7 +7449,7 @@ antibodies	O
 %	O
 versus	O
 35	O
-%,O
+
 p	O
 =	O
 0	O
@@ -7468,7 +7468,7 @@ versus	O
 34	O
 .	O
 6	O
-%,O
+
 p	O
 =	O
 0	O
@@ -13415,7 +13415,7 @@ vs	O
 4	O
 .	O
 8	O
-%,O
+
 P	O
 <	O
 0	O
@@ -13530,7 +13530,7 @@ vs	O
 .	O
 	
 0	O
-%,O
+
 P	O
 =	O
 0	O
@@ -16151,7 +16151,7 @@ of	O
 5	O
 .	O
 21	O
-%,O
+
 13	O
 .	O
 55	O
@@ -16160,7 +16160,7 @@ and	O
 21	O
 .	O
 80	O
-%,O
+
 respectively	O
 in	O
 mice	O
@@ -36003,7 +36003,7 @@ at	O
 %	O
 and	O
 5	O
-%,O
+
 respectively	O
 (	O
 P	O
@@ -51335,7 +51335,7 @@ sizes	O
 8	O
 /	O
 8	O
-%,O
+
 rs6232	O
 :	O
 pdominant	O
@@ -60990,7 +60990,7 @@ population	O
 frequency	O
 of	O
 3	O
-%,O
+
 was	O
 also	O
 significantly	O
@@ -84311,7 +84311,7 @@ of	O
 10	O
 .	O
 0	O
-%,O
+
 including	O
 24	O
 (	O
@@ -92827,7 +92827,7 @@ AML	B-Disease
 75	O
 .	O
 0	O
-%,O
+
 n	O
 =	O
 12	O
@@ -92866,7 +92866,7 @@ AML	B-Disease
 30	O
 .	O
 4	O
-%,O
+
 n	O
 =	O
 69	O
@@ -92878,7 +92878,7 @@ patients	O
 27	O
 .	O
 2	O
-%,O
+
 n	O
 =	O
 22	O
@@ -92911,7 +92911,7 @@ cases	O
 36	O
 .	O
 9	O
-%,O
+
 n	O
 =	O
 420	O
@@ -92923,7 +92923,7 @@ controls	O
 36	O
 .	O
 3	O
-%,O
+
 n	O
 =	O
 952	O
@@ -99129,7 +99129,7 @@ PAT	O
 mRNA	O
 by	O
 60	O
-%,O
+
 but	O
 without	O
 a	O
@@ -122347,9 +122347,9 @@ in	O
 %	O
 and	O
 52	O
-%,O
+
 57	O
-%,O
+
 and	O
 41	O
 %	O
@@ -122383,9 +122383,9 @@ in	O
 %	O
 and	O
 18	O
-%,O
+
 34	O
-%,O
+
 and	O
 10	O
 %	O
@@ -125617,11 +125617,11 @@ myoclonus	B-Disease
 incidence	O
 was	O
 85	O
-%,O
+
 40	O
-%,O
+
 70	O
-%,O
+
 and	O
 25	O
 %	O
